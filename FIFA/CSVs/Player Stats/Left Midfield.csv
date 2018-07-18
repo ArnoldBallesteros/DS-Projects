@@ -1,0 +1,394 @@
+,Nation,Player,Position,Season,"reihenfolge ASC, saison_id DESC, verein_id ASC",Club(s),Squad,Apps,PPM,Goals,Assists,own goals,Substituted on,Substituted off,Yellow cards,Yellow/red cards,Red cards,Penalty goals,Minutes per goal,Minutes played
+3513,England,AshleyYoung,Left Midfield,17/18,FA Cup,manchester-united,5,4,"2,25",0,1,0,1,0,1,0,0,0,0,210'
+3514,England,AshleyYoung,Left Midfield,17/18,Premier League,manchester-united,32,30,"1,97",2,5,0,2,7,7,0,0,0,1.224',160'
+3515,England,AshleyYoung,Left Midfield,17/18,Champions League,manchester-united,7,4,"1,75",0,1,0,0,1,1,0,0,0,0,1.571'
+3516,England,AshleyYoung,Left Midfield,17/18,EFL Cup,manchester-united,1,-,0,0,0,0,0,0,0,0,0,0,0,353'
+3517,England,AshleyYoung,Left Midfield,17/18,Premier League 2,manchester-united-u21,1,1,"1,00",0,0,0,0,1,0,0,0,0,0,270'
+3518,England,AshleyYoung,Left Midfield,16/17,Europa League,manchester-united,10,7,"2,29",0,0,0,4,1,0,0,0,0,0,24'
+3519,England,AshleyYoung,Left Midfield,16/17,Premier League,manchester-united,21,12,"1,92",0,1,0,4,3,2,0,0,0,0,90'
+3520,England,AshleyYoung,Left Midfield,16/17,FA Cup,manchester-united,4,3,"2,00",0,0,0,0,1,3,0,0,0,0,1.691'
+3521,England,AshleyYoung,Left Midfield,16/17,EFL Cup,manchester-united,3,1,"3,00",0,0,0,0,0,0,0,0,0,0,360'
+3522,England,AshleyYoung,Left Midfield,15/16,FA Cup,manchester-united,2,1,"3,00",0,0,0,1,0,0,0,0,0,0,270'
+3523,England,AshleyYoung,Left Midfield,15/16,Premier League,manchester-united,25,18,"1,72",1,3,0,7,3,5,0,0,0,1.061',454'
+3524,England,AshleyYoung,Left Midfield,15/16,U21 PL,manchester-united-u21,1,1,"1,00",0,0,0,0,0,0,0,0,0,0,14'
+3525,England,AshleyYoung,Left Midfield,15/16,Champions League,manchester-united,5,4,"1,75",0,0,0,2,1,1,0,0,0,0,764'
+3526,England,AshleyYoung,Left Midfield,15/16,League Cup,manchester-united,2,2,"1,50",0,0,0,1,0,0,0,0,0,0,405'
+3527,England,AshleyYoung,Left Midfield,15/16,Champions League Qualification,manchester-united,2,1,"3,00",0,0,0,1,0,0,0,0,0,0,1.877'
+3528,England,AshleyYoung,Left Midfield,14/15,Premier League,manchester-united,26,26,"1,81",2,5,0,3,6,5,0,0,0,1.034',470'
+3529,England,AshleyYoung,Left Midfield,14/15,FA Cup,manchester-united,3,3,"2,00",0,1,0,2,0,1,0,0,0,0,0
+3530,England,AshleyYoung,Left Midfield,14/15,U21 PL,manchester-united-u21,1,1,"3,00",0,0,0,0,1,0,0,0,0,0,109'
+3531,England,AshleyYoung,Left Midfield,13/14,Premier League,manchester-united,31,20,"1,70",2,4,0,7,8,4,0,0,0,516',432'
+3532,England,AshleyYoung,Left Midfield,13/14,Champions League,manchester-united,10,8,"2,13",0,0,0,6,1,0,0,0,0,0,888'
+3533,England,AshleyYoung,Left Midfield,13/14,League Cup,manchester-united,3,2,"3,00",1,1,0,0,0,1,0,0,0,210',2.499'
+3534,England,AshleyYoung,Left Midfield,12/13,Premier League,manchester-united,20,19,"2,42",0,5,0,2,8,1,0,0,0,0,90'
+3535,England,AshleyYoung,Left Midfield,12/13,FA Cup,manchester-united,4,2,"1,50",0,0,0,1,1,0,0,0,0,0,810'
+3536,England,AshleyYoung,Left Midfield,12/13,Champions League,manchester-united,5,2,"0,00",0,0,0,2,0,0,0,0,0,0,1.919'
+3537,England,AshleyYoung,Left Midfield,11/12,Premier League,manchester-united,28,25,"2,32",6,11,0,6,11,3,0,0,0,262',120'
+3538,England,AshleyYoung,Left Midfield,11/12,Europa League,manchester-united,4,4,"0,75",1,0,0,0,2,0,0,0,0,317',756'
+3539,England,AshleyYoung,Left Midfield,11/12,Champions League,manchester-united,3,3,"0,67",1,0,0,0,1,1,0,0,0,244',679'
+3540,England,AshleyYoung,Left Midfield,11/12,Community Shield,manchester-united,1,1,"3,00",0,1,0,0,0,0,0,0,0,0,255'
+3541,England,AshleyYoung,Left Midfield,10/11,Premier League,aston-villa,34,34,"1,38",7,9,0,0,3,8,0,0,4,436',45'
+3542,England,AshleyYoung,Left Midfield,10/11,FA Cup,aston-villa,3,2,"1,50",0,1,0,1,0,0,1,0,0,0,180'
+3543,England,AshleyYoung,Left Midfield,10/11,League Cup,aston-villa,3,3,"2,00",2,2,0,0,0,1,0,0,0,150',568'
+3544,England,AshleyYoung,Left Midfield,10/11,Europa League Qualifiers,aston-villa,1,1,"0,00",0,1,0,0,0,1,0,0,0,0,1.463'
+3545,England,AshleyYoung,Left Midfield,09/10,Premier League,aston-villa,37,37,"1,73",5,10,0,0,3,6,0,0,1,661',494'
+3546,England,AshleyYoung,Left Midfield,09/10,FA Cup,aston-villa,6,6,"2,17",2,3,0,0,1,1,0,0,0,268',136'
+3547,England,AshleyYoung,Left Midfield,09/10,League Cup,aston-villa,5,5,"2,40",2,3,0,0,0,0,0,0,0,240',49'
+3548,England,AshleyYoung,Left Midfield,09/10,Europa League Qualifiers,aston-villa,2,2,"1,50",0,1,0,0,0,1,0,0,0,0,100'
+3549,England,AshleyYoung,Left Midfield,08/09,Premier League,aston-villa,36,36,"1,61",7,8,0,0,3,7,0,1,0,456',810'
+3550,England,AshleyYoung,Left Midfield,08/09,UEFA Cup,aston-villa,5,5,"1,60",0,2,0,0,1,0,0,0,0,0,2.246'
+3551,England,AshleyYoung,Left Midfield,08/09,FA Cup,aston-villa,3,3,"2,00",0,1,0,0,1,0,0,0,0,0,540'
+3552,England,AshleyYoung,Left Midfield,08/09,League Cup,aston-villa,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,180'
+3553,England,AshleyYoung,Left Midfield,08/09,UEFA-Cup Qualifikation,aston-villa,2,1,"3,00",1,0,0,0,1,0,0,0,0,71',900'
+3554,England,AshleyYoung,Left Midfield,08/09,UI Cup,aston-villa,2,2,"2,00",1,0,0,0,0,1,0,0,0,180',1.110'
+3555,England,AshleyYoung,Left Midfield,07/08,Premier League,aston-villa,37,37,"1,62",8,16,0,0,6,6,0,0,0,412',2.700'
+3556,England,AshleyYoung,Left Midfield,07/08,FA Cup,aston-villa,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,67'
+3557,England,AshleyYoung,Left Midfield,07/08,League Cup,aston-villa,2,1,"0,00",0,0,0,1,0,0,0,0,0,0,180'
+3558,England,AshleyYoung,Left Midfield,06/07,Premier League,aston-villa,13,13,"1,38",2,2,0,2,5,1,0,0,0,491',180'
+3559,England,AshleyYoung,Left Midfield,06/07,Premier League,fc-watford,20,20,"0,60",3,5,0,0,0,2,0,0,0,600',495'
+3560,England,AshleyYoung,Left Midfield,06/07,FA Cup,fc-watford,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,1.384'
+3561,England,AshleyYoung,Left Midfield,06/07,League Cup,fc-watford,2,2,"1,50",1,2,0,0,0,0,0,0,0,210',547'
+3562,England,AshleyYoung,Left Midfield,05/06,Championship Play-offs,fc-watford,3,3,"2,33",1,1,0,0,0,0,0,0,0,270',90'
+3563,England,AshleyYoung,Left Midfield,05/06,Championship,fc-watford,39,39,"1,77",13,0,0,1,6,3,0,1,0,259',351'
+3564,England,AshleyYoung,Left Midfield,04/05,Championship,fc-watford,37,34,"1,06",0,2,0,19,7,3,0,0,0,0,540'
+3565,England,AshleyYoung,Left Midfield,04/05,League Cup,fc-watford,2,1,"3,00",0,0,0,1,0,0,0,0,0,0,1.245'
+3566,England,AshleyYoung,Left Midfield,03/04,First Division,fc-watford,9,5,"1,40",3,0,0,5,0,0,0,0,0,51',171'
+5237,Argentina,MarcosAcuña,Left Midfield,17/18,Taça de Portugal Placard,sporting-lissabon,5,5,"1,80",0,0,0,1,0,2,1,0,0,0,718'
+5238,Argentina,MarcosAcuña,Left Midfield,17/18,Liga NOS,sporting-lissabon,31,31,"2,29",4,5,0,4,13,7,0,0,0,574',682'
+5239,Argentina,MarcosAcuña,Left Midfield,17/18,Europa League,sporting-lissabon,6,6,"1,67",0,1,0,2,2,0,0,0,0,0,90'
+5240,Argentina,MarcosAcuña,Left Midfield,17/18,Taça CTT,sporting-lissabon,5,5,"2,20",1,1,0,2,1,2,0,0,0,336',2.156'
+5241,Argentina,MarcosAcuña,Left Midfield,17/18,Champions League,sporting-lissabon,5,5,"0,80",0,1,0,0,1,2,0,0,0,0,708'
+5242,Argentina,MarcosAcuña,Left Midfield,17/18,Champions League Qualification,sporting-lissabon,2,2,"2,00",1,1,0,0,0,1,0,0,0,180',80'
+5243,Argentina,MarcosAcuña,Left Midfield,2017,Copa Sudamericana,racing-club-de-avellaneda,2,2,"3,00",1,0,0,0,1,0,0,0,0,180',2.531'
+5244,Argentina,MarcosAcuña,Left Midfield,16/17,Primera División,racing-club-de-avellaneda,25,25,"2,04",10,9,0,1,8,4,0,0,0,212',546'
+5245,Argentina,MarcosAcuña,Left Midfield,15/16,Primera División,racing-club-de-avellaneda,12,10,"1,70",1,0,0,0,6,1,0,0,0,759',66'
+5246,Argentina,MarcosAcuña,Left Midfield,2016,Libertadores,racing-club-de-avellaneda,10,10,"1,40",1,2,0,4,3,2,0,0,0,646',420'
+5247,Argentina,MarcosAcuña,Left Midfield,2015,Liguilla Pre-Libertadores,racing-club-de-avellaneda,3,3,"2,00",1,4,0,0,2,2,0,0,0,262',50'
+5248,Argentina,MarcosAcuña,Left Midfield,14/15,Primera División,racing-club-de-avellaneda,25,24,"2,04",3,6,0,8,5,3,0,1,0,519',375'
+5249,Argentina,MarcosAcuña,Left Midfield,2015,Libertadores,racing-club-de-avellaneda,9,9,"1,56",0,0,0,4,4,1,0,0,0,0,2.807'
+5250,Argentina,MarcosAcuña,Left Midfield,14/15,Transición,racing-club-de-avellaneda,17,16,"2,19",2,1,0,5,6,4,0,0,0,428',568'
+5251,Argentina,MarcosAcuña,Left Midfield,12/13,Primera B Nacional,ferro-carril-oeste,2,2,"1,50",0,0,0,0,0,0,0,0,0,0,307'
+5252,Argentina,MarcosAcuña,Left Midfield,11/12,Primera B Nacional,ferro-carril-oeste,5,3,"1,33",0,0,0,0,0,0,0,0,0,0,538'
+5253,Argentina,MarcosAcuña,Left Midfield,10/11,Primera B Nacional,ferro-carril-oeste,2,2,"3,00",0,0,0,1,0,0,0,0,0,0,112'
+6743,Uruguay,DiegoLaxalt,Left Midfield,17/18,Serie A,fc-genua-1893,35,32,"1,25",3,3,0,0,4,2,0,0,0,937',180'
+6744,Uruguay,DiegoLaxalt,Left Midfield,17/18,Coppa Italia,fc-genua-1893,3,2,"1,50",1,0,0,0,0,0,0,0,0,210',540'
+6745,Uruguay,DiegoLaxalt,Left Midfield,16/17,Serie A,fc-genua-1893,36,36,"0,89",1,4,0,0,6,5,0,0,0,3.140',2.160'
+6746,Uruguay,DiegoLaxalt,Left Midfield,16/17,Coppa Italia,fc-genua-1893,3,3,"2,00",0,0,0,0,0,0,0,0,0,0,90'
+6747,Uruguay,DiegoLaxalt,Left Midfield,15/16,Serie A,fc-genua-1893,38,35,"1,14",3,4,0,0,2,3,0,0,0,1.024',611'
+6748,Uruguay,DiegoLaxalt,Left Midfield,15/16,Coppa Italia,fc-genua-1893,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,2.238'
+6749,Uruguay,DiegoLaxalt,Left Midfield,14/15,Serie A,fc-genua-1893,18,8,"1,50",0,1,0,7,1,2,0,0,0,0,900'
+6750,Uruguay,DiegoLaxalt,Left Midfield,14/15,Serie A,fc-empoli,19,4,"2,00",0,0,0,4,0,1,0,0,0,0,300'
+6751,Uruguay,DiegoLaxalt,Left Midfield,14/15,Coppa Italia,fc-empoli,3,3,"2,00",1,0,0,1,0,1,0,0,0,223',90'
+6752,Uruguay,DiegoLaxalt,Left Midfield,13/14,Serie A,fc-bologna,36,15,"0,60",2,0,0,6,6,0,0,0,0,415',720'
+6753,Uruguay,DiegoLaxalt,Left Midfield,13/14,Coppa Italia,fc-bologna,1,-,0,0,0,0,0,0,0,0,0,0,0,119'
+6754,Uruguay,DiegoLaxalt,Left Midfield,2013,Primera División,defensor-sporting-club,12,12,"2,08",1,0,0,5,5,1,0,0,0,657',105'
+6755,Uruguay,DiegoLaxalt,Left Midfield,2013,Primera División,defensor-sporting-club,11,3,"1,33",0,0,0,3,1,0,0,0,0,0,0
+6756,Uruguay,CristianRodríguez,Left Midfield,17/18,Torneo Intermedio,ca-penarol-montevideo,2,2,"1,50",1,2,0,0,1,0,0,0,0,158',180'
+6757,Uruguay,CristianRodríguez,Left Midfield,2018,Libertadores,ca-penarol-montevideo,6,6,"1,50",3,1,0,0,0,0,0,0,3,180',90'
+6758,Uruguay,CristianRodríguez,Left Midfield,2018,Primera División,ca-penarol-montevideo,9,8,"2,38",5,0,0,0,2,1,0,1,0,129',357'
+6759,Uruguay,CristianRodríguez,Left Midfield,17/18,Supercopa ,ca-penarol-montevideo,1,1,"3,00",1,0,0,0,0,0,0,0,1,90',1.860'
+6760,Uruguay,CristianRodríguez,Left Midfield,2017,Playoffs Primera Division,ca-penarol-montevideo,2,2,"3,00",1,0,0,0,0,1,0,0,0,210',327'
+6761,Uruguay,CristianRodríguez,Left Midfield,2017,Primera División,ca-penarol-montevideo,10,10,"2,70",9,1,0,2,0,4,0,0,4,87',2.254'
+6762,Uruguay,CristianRodríguez,Left Midfield,16/17,Torneo Intermedio,ca-penarol-montevideo,5,5,"2,40",3,2,0,0,1,2,0,0,1,149',2.001'
+6763,Uruguay,CristianRodríguez,Left Midfield,2017,Libertadores,ca-penarol-montevideo,6,6,"1,00",0,1,0,0,2,1,0,0,0,0,810'
+6764,Uruguay,CristianRodríguez,Left Midfield,2017,Primera División,ca-penarol-montevideo,12,12,"1,75",3,5,0,3,2,0,0,0,0,274',120'
+6765,Uruguay,CristianRodríguez,Left Midfield,16/17,Primera División,ca-independiente-de-avellaneda,9,9,"1,56",0,0,0,2,6,2,0,0,0,0,180'
+6766,Uruguay,CristianRodríguez,Left Midfield,2016,Copa Sudamericana,ca-independiente-de-avellaneda,3,3,"1,33",0,0,0,0,3,0,0,0,0,0,176'
+6767,Uruguay,CristianRodríguez,Left Midfield,15/16,Primera División,ca-independiente-de-avellaneda,10,10,"2,10",0,0,0,3,3,1,0,0,0,0,2.170'
+6768,Uruguay,CristianRodríguez,Left Midfield,2015,Liguilla Pre-Libertadores,ca-independiente-de-avellaneda,3,3,"2,00",2,1,0,1,2,1,0,0,0,78',1.177'
+6769,Uruguay,CristianRodríguez,Left Midfield,2015,Copa Sudamericana,ca-independiente-de-avellaneda,5,5,"1,80",0,0,0,3,2,0,0,0,0,0,30'
+6770,Uruguay,CristianRodríguez,Left Midfield,14/15,Primera División,ca-independiente-de-avellaneda,5,5,"2,20",1,1,0,2,2,0,0,0,0,276',2.161'
+6771,Uruguay,CristianRodríguez,Left Midfield,14/15,Serie A,fc-parma,5,5,"0,40",0,0,0,0,0,0,1,0,0,0,27'
+6772,Uruguay,CristianRodríguez,Left Midfield,14/15,Coppa Italia,fc-parma,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,90'
+6773,Uruguay,CristianRodríguez,Left Midfield,14/15,LaLiga,atletico-madrid,9,6,"2,17",0,0,0,6,0,0,0,0,0,0,1.856'
+6774,Uruguay,CristianRodríguez,Left Midfield,14/15,Copa del Rey,atletico-madrid,2,2,"2,00",1,0,0,0,0,1,0,0,0,180',120'
+6775,Uruguay,CristianRodríguez,Left Midfield,14/15,Champions League,atletico-madrid,4,2,"3,00",0,0,0,2,0,1,0,0,0,0,90'
+6776,Uruguay,CristianRodríguez,Left Midfield,14/15,Supercopa,atletico-madrid,2,1,"3,00",0,0,0,1,0,0,0,0,0,0,90'
+6777,Uruguay,CristianRodríguez,Left Midfield,13/14,Champions League,atletico-madrid,12,10,"2,60",0,0,0,9,1,0,0,0,0,0,469'
+6778,Uruguay,CristianRodríguez,Left Midfield,13/14,LaLiga,atletico-madrid,29,20,"2,55",1,1,0,18,2,2,0,0,0,330',1.205'
+6779,Uruguay,CristianRodríguez,Left Midfield,13/14,Copa del Rey,atletico-madrid,7,7,"1,86",0,1,0,3,1,1,0,0,0,0,225'
+6780,Uruguay,CristianRodríguez,Left Midfield,13/14,Supercopa,atletico-madrid,2,2,"1,00",0,0,0,2,0,0,0,0,0,0,168'
+6781,Uruguay,CristianRodríguez,Left Midfield,12/13,LaLiga,atletico-madrid,35,33,"2,09",1,1,0,21,9,2,0,0,0,1.332',5'
+6782,Uruguay,CristianRodríguez,Left Midfield,12/13,Copa del Rey,atletico-madrid,8,8,"2,25",0,0,0,5,2,0,0,0,0,0,690'
+6783,Uruguay,CristianRodríguez,Left Midfield,12/13,Europa League,atletico-madrid,6,6,"2,50",2,0,0,1,2,1,0,0,0,230',1.831'
+6784,Uruguay,CristianRodríguez,Left Midfield,12/13,UEFA Supercup,atletico-madrid,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,360'
+6785,Uruguay,CristianRodríguez,Left Midfield,11/12,Liga NOS,fc-porto,16,10,"2,10",1,1,0,5,5,1,0,0,0,487',1.671'
+6786,Uruguay,CristianRodríguez,Left Midfield,11/12,Europa League,fc-porto,2,1,"0,00",0,0,0,1,0,0,0,0,0,0,22'
+6787,Uruguay,CristianRodríguez,Left Midfield,11/12,Taça CTT,fc-porto,3,3,"3,00",1,0,0,1,1,0,0,0,0,176',711'
+6788,Uruguay,CristianRodríguez,Left Midfield,11/12,Champions League,fc-porto,3,1,"3,00",0,0,0,1,0,0,0,0,0,0,3.094'
+6789,Uruguay,CristianRodríguez,Left Midfield,11/12,Taça de Portugal Placard,fc-porto,1,1,"3,00",0,1,0,1,0,0,0,0,0,0,86'
+6790,Uruguay,CristianRodríguez,Left Midfield,11/12,UEFA Supercup,fc-porto,1,1,"0,00",0,0,0,0,1,1,0,0,0,0,90'
+6791,Uruguay,CristianRodríguez,Left Midfield,10/11,Europa League,fc-porto,12,11,"2,55",1,5,0,4,3,1,1,0,0,568',136'
+6792,Uruguay,CristianRodríguez,Left Midfield,10/11,Liga NOS,fc-porto,20,13,"2,85",1,1,0,12,1,1,0,0,0,269',2.647'
+6793,Uruguay,CristianRodríguez,Left Midfield,10/11,Taça de Portugal Placard,fc-porto,2,2,"1,50",0,2,0,1,1,1,0,0,0,0,92'
+6794,Uruguay,CristianRodríguez,Left Midfield,10/11,Taça CTT,fc-porto,1,1,"1,00",0,0,0,0,0,0,0,0,0,0,0
+6795,Uruguay,CristianRodríguez,Left Midfield,10/11,Supertaça,fc-porto,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,2.501'
+6796,Uruguay,CristianRodríguez,Left Midfield,09/10,Taça de Portugal Placard,fc-porto,4,4,"3,00",1,1,0,1,1,1,0,1,0,278',150'
+6797,Uruguay,CristianRodríguez,Left Midfield,09/10,Liga NOS,fc-porto,19,18,"2,00",4,1,0,8,5,1,0,0,0,249',120'
+6798,Uruguay,CristianRodríguez,Left Midfield,09/10,Taça CTT,fc-porto,2,2,"1,50",0,0,0,1,0,1,0,0,0,0,0
+6799,Uruguay,CristianRodríguez,Left Midfield,09/10,Champions League,fc-porto,6,6,"1,50",0,0,0,1,3,0,0,0,0,0,2.565'
+6800,Uruguay,CristianRodríguez,Left Midfield,08/09,Taça de Portugal Placard,fc-porto,4,2,"3,00",0,1,0,0,2,1,0,0,0,0,180'
+6801,Uruguay,CristianRodríguez,Left Midfield,08/09,Liga NOS,fc-porto,29,29,"2,31",6,2,0,3,13,5,0,0,0,354',90'
+6802,Uruguay,CristianRodríguez,Left Midfield,08/09,Champions League,fc-porto,10,10,"1,50",1,1,0,0,7,2,0,0,0,797',3.110'
+6803,Uruguay,CristianRodríguez,Left Midfield,08/09,Taça CTT,fc-porto,1,1,"3,00",0,0,0,0,1,0,0,0,0,0,234'
+6804,Uruguay,CristianRodríguez,Left Midfield,08/09,Supertaça,fc-porto,1,1,"0,00",0,0,0,0,0,1,0,0,0,0,2.675'
+6805,Uruguay,CristianRodríguez,Left Midfield,07/08,Liga NOS,benfica-lissabon,24,25,"1,68",6,4,0,3,6,3,0,0,0,328',180'
+6806,Uruguay,CristianRodríguez,Left Midfield,07/08,UEFA Cup,benfica-lissabon,3,3,"1,00",0,1,0,0,1,0,0,0,0,0,2.500'
+6807,Uruguay,CristianRodríguez,Left Midfield,07/08,Champions League,benfica-lissabon,5,5,"0,80",0,0,0,0,1,1,0,0,0,0,0
+6808,Uruguay,CristianRodríguez,Left Midfield,07/08,Taça CTT,benfica-lissabon,2,2,"1,50",0,0,0,0,1,0,0,0,0,0,2.708'
+6809,Uruguay,CristianRodríguez,Left Midfield,06/07,Ligue 1,fc-paris-saint-germain,25,24,"1,38",1,1,0,19,4,2,0,0,0,627',90'
+6810,Uruguay,CristianRodríguez,Left Midfield,06/07,UEFA Cup,fc-paris-saint-germain,7,6,"2,17",0,1,0,3,1,1,0,0,0,0,0
+6811,Uruguay,CristianRodríguez,Left Midfield,06/07,Coupe de France,fc-paris-saint-germain,2,2,"3,00",1,0,0,1,0,0,0,0,0,124',2.700'
+6812,Uruguay,CristianRodríguez,Left Midfield,06/07,Coupe de la Ligue,fc-paris-saint-germain,2,2,"1,50",0,1,0,0,1,2,0,0,0,0,0
+6813,Uruguay,CristianRodríguez,Left Midfield,05/06,Ligue 1,fc-paris-saint-germain,11,11,"1,36",0,2,0,7,3,3,0,0,0,0,0
+6814,Uruguay,CristianRodríguez,Left Midfield,05/06,Coupe de France,fc-paris-saint-germain,3,3,"3,00",1,1,0,0,2,0,0,0,0,256',2.041'
+6815,Uruguay,CristianRodríguez,Left Midfield,05/06,Coupe de la Ligue,fc-paris-saint-germain,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,90'
+8722,Poland,MaciejRybus,Left Midfield,17/18,Premier Liga,lokomotiv-moskau,22,20,"1,70",0,0,0,4,2,4,0,0,0,0,333'
+8723,Poland,MaciejRybus,Left Midfield,17/18,Europa League,lokomotiv-moskau,7,6,"1,33",1,0,0,1,0,1,0,0,0,494',104'
+8724,Poland,MaciejRybus,Left Midfield,17/18,Russian Cup,lokomotiv-moskau,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,129'
+8725,Poland,MaciejRybus,Left Midfield,16/17,Ligue 1,olympique-lyon,28,19,"1,68",0,1,0,5,5,1,0,0,0,0,90'
+8726,Poland,MaciejRybus,Left Midfield,16/17,Europa League,olympique-lyon,3,3,"2,33",0,1,0,2,0,0,0,0,0,0,162'
+8727,Poland,MaciejRybus,Left Midfield,16/17,Coupe de France,olympique-lyon,2,1,"0,00",0,0,0,0,0,1,0,0,0,0,605'
+8728,Poland,MaciejRybus,Left Midfield,16/17,Coupe de la Ligue,olympique-lyon,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,107'
+8729,Poland,MaciejRybus,Left Midfield,16/17,Champions League,olympique-lyon,5,4,"1,75",0,0,0,1,1,0,0,0,0,0,612'
+8730,Poland,MaciejRybus,Left Midfield,15/16,Premier Liga,terek-grozny,29,28,"1,43",8,3,0,6,4,2,0,0,1,251',2.517'
+8731,Poland,MaciejRybus,Left Midfield,15/16,Russian Cup,terek-grozny,3,3,"2,00",0,1,0,1,1,0,0,0,0,0,124'
+8732,Poland,MaciejRybus,Left Midfield,14/15,Premier Liga,terek-grozny,27,27,"1,22",3,7,0,1,11,3,0,0,0,774',1.664'
+8733,Poland,MaciejRybus,Left Midfield,14/15,Russian Cup,terek-grozny,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,947'
+8734,Poland,MaciejRybus,Left Midfield,13/14,Premier Liga,terek-grozny,17,16,"1,56",0,5,0,2,7,2,0,0,0,0,226'
+8735,Poland,MaciejRybus,Left Midfield,13/14,Russian Cup,terek-grozny,2,2,"1,50",0,0,0,0,1,0,0,0,0,0,431'
+8736,Poland,MaciejRybus,Left Midfield,12/13,Premier Liga,terek-grozny,19,19,"1,58",4,2,0,4,7,3,0,0,0,324',93'
+8737,Poland,MaciejRybus,Left Midfield,12/13,Russian Cup,terek-grozny,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,1.744'
+8738,Poland,MaciejRybus,Left Midfield,11/12,Russian Cup,terek-grozny,1,1,"0,00",0,1,0,0,0,0,0,1,0,0,479'
+8739,Poland,MaciejRybus,Left Midfield,11/12,Europa League,legia-warschau,10,10,"1,40",1,4,0,0,8,1,0,0,0,804',0
+8740,Poland,MaciejRybus,Left Midfield,11/12,Ekstraklasa,legia-warschau,17,16,"1,88",2,9,0,2,10,2,0,0,0,611',140'
+8741,Poland,MaciejRybus,Left Midfield,11/12,Polish Cup,legia-warschau,2,1,"3,00",1,1,0,0,1,0,0,0,0,69',268'
+8742,Poland,MaciejRybus,Left Midfield,11/12,Europa League Qualifiers,legia-warschau,2,1,"1,00",0,0,0,0,1,0,0,0,0,0,1.525'
+8743,Poland,MaciejRybus,Left Midfield,10/11,Premier Liga,terek-grozny,11,11,"1,82",3,1,0,1,2,2,0,0,0,304',180'
+8744,Poland,MaciejRybus,Left Midfield,10/11,Ekstraklasa,legia-warschau,22,20,"1,35",2,1,0,8,11,1,1,0,0,421',1.469'
+8745,Poland,MaciejRybus,Left Midfield,10/11,Polish Cup,legia-warschau,4,4,"3,00",0,0,0,0,4,0,0,0,0,0,109'
+8746,Poland,MaciejRybus,Left Midfield,09/10,Polish Cup,legia-warschau,3,3,"2,00",1,1,0,1,0,0,0,0,0,284',178'
+8747,Poland,MaciejRybus,Left Midfield,09/10,Ekstraklasa,legia-warschau,29,29,"1,76",2,1,0,5,8,1,0,0,0,1.023',68'
+8748,Poland,MaciejRybus,Left Midfield,09/10,Europa League Qualifiers,legia-warschau,4,4,"2,00",0,0,0,2,0,1,0,0,0,0,90'
+8749,Poland,MaciejRybus,Left Midfield,08/09,Ekstraklasa,legia-warschau,27,27,"1,93",3,4,0,6,7,2,0,0,0,649',899'
+8750,Poland,MaciejRybus,Left Midfield,08/09,Polish Cup,legia-warschau,2,2,"0,00",0,0,0,1,0,0,0,0,0,0,542'
+8751,Poland,MaciejRybus,Left Midfield,08/09,UEFA-Cup Qualifikation,legia-warschau,4,3,"1,33",0,1,0,0,2,0,0,0,0,0,117'
+8752,Poland,MaciejRybus,Left Midfield,08/09,Superpuchar,legia-warschau,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,44'
+8753,Poland,MaciejRybus,Left Midfield,07/08,Polish Cup,legia-warschau,4,4,"0,00",0,0,0,1,2,1,0,0,0,0,332'
+8754,Poland,MaciejRybus,Left Midfield,07/08,Ekstraklasa,legia-warschau,10,10,"2,50",4,0,0,7,2,2,0,0,0,92',148'
+11412,Switzerland,StevenZuber,Left Midfield,17/18,1.Bundesliga,tsg-1899-hoffenheim,34,20,"1,30",1,2,0,3,11,2,0,0,0,1.441',876'
+11413,Switzerland,StevenZuber,Left Midfield,17/18,Europa League,tsg-1899-hoffenheim,5,4,"1,00",0,0,0,1,2,0,0,0,0,0,150'
+11414,Switzerland,StevenZuber,Left Midfield,17/18,DFB-Pokal,tsg-1899-hoffenheim,2,1,"0,00",0,0,0,0,1,0,0,0,0,0,832'
+11415,Switzerland,StevenZuber,Left Midfield,17/18,Champions League Qualification,tsg-1899-hoffenheim,2,2,"0,00",0,0,0,0,0,0,0,0,0,0,31'
+11416,Switzerland,StevenZuber,Left Midfield,16/17,1.Bundesliga,tsg-1899-hoffenheim,30,24,"1,83",4,4,1,1,2,2,0,0,0,507',914'
+11417,Switzerland,StevenZuber,Left Midfield,16/17,DFB-Pokal,tsg-1899-hoffenheim,2,2,"1,50",0,0,0,0,1,0,0,0,0,0,0
+11418,Switzerland,StevenZuber,Left Midfield,16/17,Regionalliga Südwest,tsg-1899-hoffenheim-ii,1,1,"3,00",3,0,0,0,0,0,0,0,0,30',1.216'
+11419,Switzerland,StevenZuber,Left Midfield,15/16,1.Bundesliga,tsg-1899-hoffenheim,22,12,"0,83",2,0,0,6,3,1,0,0,0,287',152'
+11420,Switzerland,StevenZuber,Left Midfield,15/16,Regionalliga Südwest,tsg-1899-hoffenheim-ii,2,2,"3,00",3,1,0,0,2,0,0,0,0,57',1.009'
+11421,Switzerland,StevenZuber,Left Midfield,14/15,1.Bundesliga,tsg-1899-hoffenheim,25,17,"1,06",0,1,0,12,4,0,0,0,0,0,635'
+11422,Switzerland,StevenZuber,Left Midfield,14/15,DFB-Pokal,tsg-1899-hoffenheim,4,4,"2,25",0,0,0,3,0,0,0,0,0,0,1.231'
+11423,Switzerland,StevenZuber,Left Midfield,14/15,Premier Liga,zska-moskau,2,2,"3,00",0,0,0,2,0,0,0,0,0,0,420'
+11424,Switzerland,StevenZuber,Left Midfield,14/15,Russian Super Cup,zska-moskau,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,1.120'
+11425,Switzerland,StevenZuber,Left Midfield,13/14,Premier Liga,zska-moskau,28,27,"2,15",1,1,0,11,12,1,0,0,0,1.418',172'
+11426,Switzerland,StevenZuber,Left Midfield,13/14,Russian Cup,zska-moskau,3,3,"2,00",0,2,0,2,1,0,0,0,0,0,1.350'
+11427,Switzerland,StevenZuber,Left Midfield,13/14,Champions League,zska-moskau,6,6,"0,50",0,0,0,2,4,0,0,0,0,0,209'
+11428,Switzerland,StevenZuber,Left Midfield,13/14,Russian Super Cup,zska-moskau,1,1,"3,00",0,1,0,0,1,1,0,0,0,0,180'
+11429,Switzerland,StevenZuber,Left Midfield,12/13,Super League,grasshopper-club-zurich,32,32,"2,00",6,10,0,2,6,6,0,0,1,449',1.087'
+11430,Switzerland,StevenZuber,Left Midfield,12/13,Swiss Cup,grasshopper-club-zurich,5,4,"3,00",1,0,0,0,2,1,0,0,0,366',397'
+11431,Switzerland,StevenZuber,Left Midfield,11/12,Super League,grasshopper-club-zurich,32,31,"0,71",8,4,0,1,11,4,0,0,0,320',180'
+11432,Switzerland,StevenZuber,Left Midfield,11/12,Swiss Cup,grasshopper-club-zurich,4,4,"2,25",2,0,0,1,2,0,0,0,0,120',1.389'
+11433,Switzerland,StevenZuber,Left Midfield,10/11,Super League,grasshopper-club-zurich,34,34,"1,21",4,5,0,1,15,3,0,0,0,695',125'
+11434,Switzerland,StevenZuber,Left Midfield,10/11,Swiss Cup,grasshopper-club-zurich,3,3,"3,00",6,1,0,0,2,0,0,0,0,31',186'
+11435,Switzerland,StevenZuber,Left Midfield,10/11,Europa League Qualifiers,grasshopper-club-zurich,2,2,"0,00",0,0,0,0,2,0,0,0,0,0,248'
+11436,Switzerland,StevenZuber,Left Midfield,09/10,Super League,grasshopper-club-zurich,22,20,"1,95",5,2,0,7,7,1,0,0,0,248',2.264'
+11437,Switzerland,StevenZuber,Left Midfield,09/10,1.Liga gr. 2,grasshopper-club-zurich-ii,12,12,"1,75",3,0,0,0,1,0,0,0,0,354',44'
+11438,Switzerland,StevenZuber,Left Midfield,08/09,Super League,grasshopper-club-zurich,20,10,"1,00",0,0,0,8,2,0,0,0,0,0,2.275'
+11439,Switzerland,StevenZuber,Left Midfield,08/09,1.Liga gr. 3,grasshopper-club-zurich-ii,12,12,"0,92",5,0,0,0,5,0,0,0,0,191',331'
+11440,Switzerland,StevenZuber,Left Midfield,08/09,Swiss Cup,grasshopper-club-zurich,1,1,"0,00",0,0,0,1,0,1,0,0,0,0,90'
+11441,Switzerland,StevenZuber,Left Midfield,08/09,UEFA-Cup Qualifikation,grasshopper-club-zurich,2,2,"0,50",0,0,0,1,1,0,0,0,0,0,88'
+11442,Switzerland,StevenZuber,Left Midfield,08/09,UI Cup,grasshopper-club-zurich,3,3,"3,00",1,0,0,2,0,0,0,0,0,103',2.189'
+11443,Switzerland,StevenZuber,Left Midfield,07/08,1.Liga gr. 3,grasshopper-club-zurich-ii,7,6,"1,33",0,0,0,6,0,1,0,0,0,0,626'
+12679,Russia,YuriZhirkov,Left Midfield,17/18,Premier Liga,zenit-st-petersburg,28,17,"1,88",1,1,0,7,4,3,0,0,0,965',165'
+12680,Russia,YuriZhirkov,Left Midfield,17/18,Europa League,zenit-st-petersburg,10,4,"2,50",0,0,0,2,0,0,0,0,0,0,235'
+12681,Russia,YuriZhirkov,Left Midfield,17/18,Russian Cup,zenit-st-petersburg,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,156'
+12682,Russia,YuriZhirkov,Left Midfield,17/18,Europa League Qualifiers,zenit-st-petersburg,3,3,"1,00",0,0,0,0,1,0,0,0,0,0,81'
+12683,Russia,YuriZhirkov,Left Midfield,16/17,Premier Liga,zenit-st-petersburg,27,21,"1,86",1,4,0,1,9,2,0,0,0,1.687',1.465'
+12684,Russia,YuriZhirkov,Left Midfield,16/17,Europa League,zenit-st-petersburg,6,6,"2,00",0,0,0,1,2,0,0,0,0,0,452'
+12685,Russia,YuriZhirkov,Left Midfield,16/17,Russian Cup,zenit-st-petersburg,1,1,"0,00",0,0,0,0,0,1,0,0,0,0,46'
+12686,Russia,YuriZhirkov,Left Midfield,16/17,Russian Super Cup,zenit-st-petersburg,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,21'
+12687,Russia,YuriZhirkov,Left Midfield,15/16,Premier Liga,zenit-st-petersburg,10,9,"2,22",0,0,0,2,4,2,0,0,0,0,190'
+12688,Russia,YuriZhirkov,Left Midfield,15/16,Russian Cup,zenit-st-petersburg,2,2,"3,00",0,0,0,1,1,0,0,0,0,0,2.019'
+12689,Russia,YuriZhirkov,Left Midfield,15/16,Champions League,zenit-st-petersburg,2,2,"0,00",0,1,0,1,0,0,0,0,0,0,1.152'
+12690,Russia,YuriZhirkov,Left Midfield,15/16,Premier Liga,dinamo-moskau,16,16,"1,19",0,3,0,0,4,2,0,0,0,0,93'
+12691,Russia,YuriZhirkov,Left Midfield,15/16,Russian Cup,dinamo-moskau,2,2,"3,00",0,0,0,0,0,0,0,0,0,0,118'
+12692,Russia,YuriZhirkov,Left Midfield,14/15,Premier Liga,dinamo-moskau,27,24,"1,67",0,1,0,3,4,6,0,0,0,0,180'
+12693,Russia,YuriZhirkov,Left Midfield,14/15,Europa League,dinamo-moskau,10,9,"2,22",2,1,0,5,1,0,0,0,0,232',94'
+12694,Russia,YuriZhirkov,Left Midfield,14/15,Russian Cup,dinamo-moskau,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,1.074'
+12695,Russia,YuriZhirkov,Left Midfield,14/15,Europa League Qualifiers,dinamo-moskau,2,1,"3,00",0,0,0,1,0,0,0,0,0,0,44'
+12696,Russia,YuriZhirkov,Left Midfield,13/14,Premier Liga,dinamo-moskau,17,14,"2,07",3,4,0,6,3,0,0,0,0,281',196'
+12697,Russia,YuriZhirkov,Left Midfield,12/13,Russian Cup,anzhi-makhachkala,4,4,"2,25",0,1,0,0,0,2,0,0,0,0,136'
+12698,Russia,YuriZhirkov,Left Midfield,12/13,Premier Liga,anzhi-makhachkala,23,23,"1,74",2,5,0,4,3,2,0,0,0,885',1.797'
+12699,Russia,YuriZhirkov,Left Midfield,12/13,Europa League,anzhi-makhachkala,9,9,"1,89",0,1,0,2,0,4,0,0,0,0,252'
+12700,Russia,YuriZhirkov,Left Midfield,12/13,Europa League Qualifiers,anzhi-makhachkala,3,3,"3,00",0,0,0,1,2,1,0,0,0,0,45'
+12701,Russia,YuriZhirkov,Left Midfield,11/12,Russian Cup,anzhi-makhachkala,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,90'
+12702,Russia,YuriZhirkov,Left Midfield,10/11,Premier Liga,anzhi-makhachkala,23,23,"1,35",1,8,0,0,0,4,0,0,0,2.070',2.766'
+12703,Russia,YuriZhirkov,Left Midfield,10/11,Premier League,fc-chelsea,23,12,"2,08",0,3,0,6,4,1,0,0,0,0,90'
+12704,Russia,YuriZhirkov,Left Midfield,10/11,Champions League,fc-chelsea,8,7,"2,29",1,1,0,1,3,2,0,0,0,493',1.591'
+12705,Russia,YuriZhirkov,Left Midfield,10/11,FA Cup,fc-chelsea,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,18'
+12706,Russia,YuriZhirkov,Left Midfield,10/11,League Cup,fc-chelsea,1,1,"0,00",0,1,0,0,0,0,0,0,0,0,322'
+12707,Russia,YuriZhirkov,Left Midfield,10/11,Community Shield,fc-chelsea,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,51'
+12708,Russia,YuriZhirkov,Left Midfield,09/10,FA Cup,fc-chelsea,5,4,"3,00",0,1,0,0,0,0,0,0,0,0,1.733'
+12709,Russia,YuriZhirkov,Left Midfield,09/10,Premier League,fc-chelsea,28,17,"2,29",0,4,0,7,5,4,0,0,0,0,2.713'
+12710,Russia,YuriZhirkov,Left Midfield,09/10,Champions League,fc-chelsea,5,4,"1,75",0,1,0,1,1,1,0,0,0,0,30'
+12711,Russia,YuriZhirkov,Left Midfield,09/10,League Cup,fc-chelsea,2,2,"1,50",0,0,0,0,1,0,0,0,0,0,2.913'
+12712,Russia,YuriZhirkov,Left Midfield,08/09,Russian Cup,zska-moskau,3,3,"3,00",1,0,0,0,0,2,0,0,0,300',55'
+12713,Russia,YuriZhirkov,Left Midfield,08/09,Premier Liga,zska-moskau,10,10,"1,90",1,4,0,0,2,4,0,0,0,852',1.927'
+12714,Russia,YuriZhirkov,Left Midfield,08/09,UEFA Cup,zska-moskau,9,9,"2,78",2,2,0,1,3,3,0,0,0,359',294'
+12715,Russia,YuriZhirkov,Left Midfield,08/09,Russian Super Cup,zska-moskau,1,1,"3,00",0,0,0,0,0,0,0,0,0,0,0
+12716,Russia,YuriZhirkov,Left Midfield,07/08,Premier Liga,zska-moskau,28,28,"1,86",3,11,0,0,8,7,0,1,0,816',2.111'
+12717,Russia,YuriZhirkov,Left Midfield,07/08,Russian Cup,zska-moskau,1,1,"3,00",0,1,0,0,0,1,0,0,0,0,74'
+12718,Russia,YuriZhirkov,Left Midfield,07/08,Champions League,zska-moskau,6,6,"0,17",0,1,0,0,0,3,0,0,0,0,1.796'
+12719,Russia,YuriZhirkov,Left Midfield,06/07,Premier Liga,zska-moskau,29,29,"1,72",2,11,0,0,7,5,0,0,0,1.266',90'
+12720,Russia,YuriZhirkov,Left Midfield,06/07,Russian Super Cup,zska-moskau,1,1,"3,00",0,2,0,0,0,0,0,0,0,0,2.345'
+12721,Russia,YuriZhirkov,Left Midfield,06/07,UEFA Cup,zska-moskau,2,2,"0,50",0,0,0,0,0,0,0,0,0,0,88'
+12722,Russia,YuriZhirkov,Left Midfield,06/07,Champions League,zska-moskau,6,6,"1,33",1,0,0,0,0,2,0,0,0,540',2.176'
+12723,Russia,YuriZhirkov,Left Midfield,06/07,Champions League Qualification,zska-moskau,2,2,"3,00",0,0,0,1,0,0,0,0,0,0,240'
+12724,Russia,YuriZhirkov,Left Midfield,05/06,Premier Liga,zska-moskau,27,27,"2,04",1,6,0,2,1,6,0,0,0,2.267',1.882'
+12725,Russia,YuriZhirkov,Left Midfield,05/06,Russian Super Cup,zska-moskau,1,1,"3,00",1,1,0,0,0,0,0,0,0,90',69'
+12726,Russia,YuriZhirkov,Left Midfield,05/06,UEFA Cup,zska-moskau,4,4,"1,00",0,0,0,1,2,0,0,0,0,0,90'
+12727,Russia,YuriZhirkov,Left Midfield,05/06,UEFA Supercup,zska-moskau,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,2.315'
+12728,Russia,YuriZhirkov,Left Midfield,04/05,Premier Liga,zska-moskau,21,20,"2,30",2,0,0,3,11,3,0,0,0,652',2.178'
+12729,Russia,YuriZhirkov,Left Midfield,04/05,UEFA Cup,zska-moskau,8,8,"1,88",1,3,0,0,0,1,0,0,0,720',1.128'
+12730,Russia,YuriZhirkov,Left Midfield,04/05,Champions League,zska-moskau,6,6,"1,17",0,0,0,0,0,2,0,0,0,0,90'
+12731,Russia,YuriZhirkov,Left Midfield,04/05,Champions League Qualification,zska-moskau,4,4,"2,00",0,0,0,0,0,1,0,0,0,0,154'
+12732,Russia,YuriZhirkov,Left Midfield,03/04,Premier Liga,zska-moskau,25,25,"1,92",6,4,0,3,12,2,0,1,0,306',90'
+12733,Russia,YuriZhirkov,Left Midfield,03/04,Russian Super Cup,zska-moskau,1,1,"3,00",0,0,0,0,1,1,0,0,0,0,791'
+15660,South Korea,MinuhKim,Left Midfield,2018,K League 1,sangju-sangmu-phoenix,14,13,"1,69",1,1,0,3,3,1,0,0,0,967',92'
+15661,South Korea,MinuhKim,Left Midfield,2017,K League Meisterrunde,suwon-bluewings,4,4,"2,00",0,2,0,0,0,2,0,0,0,0,327'
+15662,South Korea,MinuhKim,Left Midfield,2017,Korean FA Cup,suwon-bluewings,2,1,"0,00",0,1,0,0,0,1,0,0,0,0,25'
+15663,South Korea,MinuhKim,Left Midfield,2017,K League 1,suwon-bluewings,26,26,"1,65",6,5,0,3,0,4,0,0,0,362',51'
+15664,South Korea,MinuhKim,Left Midfield,2017,AFC Champions League,suwon-bluewings,6,6,"1,50",0,0,0,1,2,0,0,0,0,0,756'
+15665,South Korea,MinuhKim,Left Midfield,2016,Emperor's Cup,sagan-tosu,3,3,"2,00",0,0,0,0,1,0,0,0,0,0,450'
+15666,South Korea,MinuhKim,Left Midfield,2016,J1 - 2nd Stage,sagan-tosu,15,15,"1,73",4,2,0,0,1,4,0,0,0,337',1.474'
+15667,South Korea,MinuhKim,Left Midfield,2016,J1 - 1st Stage,sagan-tosu,15,15,"1,00",1,2,0,0,3,1,0,0,0,1.273',1.702'
+15668,South Korea,MinuhKim,Left Midfield,2016,J. League Cup,sagan-tosu,3,3,"0,33",0,0,0,0,0,1,0,0,0,0,120'
+15669,South Korea,MinuhKim,Left Midfield,2015,Emperor's Cup,sagan-tosu,2,2,"3,00",0,2,0,1,0,0,0,0,0,0,180'
+15670,South Korea,MinuhKim,Left Midfield,2015,J1 - 2nd Stage,sagan-tosu,16,16,"1,19",1,1,0,0,3,1,0,0,0,1.425',120'
+15671,South Korea,MinuhKim,Left Midfield,2015,J1 - 1st Stage,sagan-tosu,17,17,"1,18",1,3,0,0,8,2,0,0,0,1.444',2.162'
+15672,South Korea,MinuhKim,Left Midfield,2015,J. League Cup,sagan-tosu,3,1,"1,00",0,0,0,0,1,0,0,0,0,0,90'
+15673,South Korea,MinuhKim,Left Midfield,2014,J.League Div.1,sagan-tosu,34,34,"1,76",6,2,0,0,18,3,0,0,1,489',0
+15674,South Korea,MinuhKim,Left Midfield,2014,Emperor's Cup,sagan-tosu,3,3,"2,00",0,0,0,1,1,0,0,0,0,0,90'
+15675,South Korea,MinuhKim,Left Midfield,2014,J. League Cup,sagan-tosu,3,3,"2,00",0,1,0,1,1,0,0,0,0,0,1.020'
+15676,South Korea,MinuhKim,Left Midfield,2013,Emperor's Cup,sagan-tosu,5,5,"2,40",0,3,0,0,2,0,0,0,0,0,120'
+15677,South Korea,MinuhKim,Left Midfield,2013,J.League Div.1,sagan-tosu,33,33,"1,39",5,6,0,0,8,4,0,0,0,587',1.485'
+15678,South Korea,MinuhKim,Left Midfield,2013,J. League Cup,sagan-tosu,3,3,"1,00",0,0,0,1,1,1,0,0,0,0,517'
+15679,South Korea,MinuhKim,Left Midfield,2012,J.League Div.1,sagan-tosu,31,31,"1,48",2,7,0,0,17,8,0,0,0,1.296',617'
+15680,South Korea,MinuhKim,Left Midfield,2012,Emperor's Cup,sagan-tosu,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,446'
+15681,South Korea,MinuhKim,Left Midfield,2012,J. League Cup,sagan-tosu,4,4,"2,25",0,0,0,2,1,0,0,0,0,0,360'
+15682,South Korea,MinuhKim,Left Midfield,2011,J.League Div.2,sagan-tosu,29,28,"1,82",7,4,0,6,11,6,0,0,0,279',1.890'
+15683,South Korea,MinuhKim,Left Midfield,2011,Emperor's Cup,sagan-tosu,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,181'
+15684,South Korea,MinuhKim,Left Midfield,2010,Emperor's Cup,sagan-tosu,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,1.285'
+15685,South Korea,MinuhKim,Left Midfield,2010,J.League Div.2,sagan-tosu,26,24,"1,63",4,6,0,2,4,4,0,0,0,498',0
+16186,Iceland,ArnórIngviTraustason,Left Midfield,2018,Allsvenskan,malmo-ff,7,6,"1,33",1,0,0,0,5,0,0,0,0,423',341'
+16187,Iceland,ArnórIngviTraustason,Left Midfield,17/18,Svenska Cupen,malmo-ff,6,5,"2,40",1,1,0,2,2,1,0,0,0,266',124'
+16188,Iceland,ArnórIngviTraustason,Left Midfield,17/18,Kypello Elladas,aek-athen,2,2,"3,00",1,0,0,0,0,0,0,0,0,180',696'
+16189,Iceland,ArnórIngviTraustason,Left Midfield,17/18,Super League,aek-athen,4,3,"1,33",0,1,0,2,1,0,0,0,0,0,180'
+16190,Iceland,ArnórIngviTraustason,Left Midfield,17/18,Europa League,aek-athen,2,-,0,0,0,0,0,0,0,0,0,0,0,1.988'
+16191,Iceland,ArnórIngviTraustason,Left Midfield,17/18,Europa League Qualifiers,aek-athen,1,-,0,0,0,0,0,0,0,0,0,0,0,360'
+16192,Iceland,ArnórIngviTraustason,Left Midfield,17/18,Champions League Qualification,aek-athen,1,-,0,0,0,0,0,0,0,0,0,0,0,1.410'
+16193,Iceland,ArnórIngviTraustason,Left Midfield,16/17,ÖFB-Cup,sk-rapid-wien,3,3,"2,00",0,0,0,2,0,0,0,0,0,0,180'
+16194,Iceland,ArnórIngviTraustason,Left Midfield,16/17,Bundesliga,sk-rapid-wien,25,22,"1,41",3,2,0,8,10,1,0,0,0,402',390'
+16195,Iceland,ArnórIngviTraustason,Left Midfield,16/17,Europa League,sk-rapid-wien,5,5,"1,00",0,2,0,0,3,0,0,0,0,0,1.392'
+16196,Iceland,ArnórIngviTraustason,Left Midfield,16/17,Europa League Qualifiers,sk-rapid-wien,3,3,"1,33",0,0,0,1,2,0,0,0,0,0,310'
+16197,Iceland,ArnórIngviTraustason,Left Midfield,2016,Allsvenskan,ifk-norrkoping,9,9,"2,11",2,3,0,0,4,3,0,0,1,386',43'
+16198,Iceland,ArnórIngviTraustason,Left Midfield,15/16,Svenska Cupen,ifk-norrkoping,4,3,"2,33",1,0,0,0,1,1,0,0,0,264',486'
+16199,Iceland,ArnórIngviTraustason,Left Midfield,2015,Allsvenskan,ifk-norrkoping,29,29,"2,24",7,11,0,0,9,2,0,0,0,366',180'
+16200,Iceland,ArnórIngviTraustason,Left Midfield,13/14,Svenska Cupen,ifk-norrkoping,5,5,"1,80",3,0,0,1,4,2,0,0,0,119',809'
+16201,Iceland,ArnórIngviTraustason,Left Midfield,2014,Allsvenskan,ifk-norrkoping,19,18,"1,11",3,5,0,4,9,0,0,0,0,408',60'
+16202,Iceland,ArnórIngviTraustason,Left Midfield,2014,U21 Allsvenskan Slutspelet,ifk-norrkoping-u21,1,1,"3,00",0,0,0,0,1,0,0,0,0,0,0
+16203,Iceland,ArnórIngviTraustason,Left Midfield,2014,U21 Allsvenskan Norra,ifk-norrkoping-u21,3,3,"1,67",1,2,0,0,1,1,0,0,0,225',191'
+16204,Iceland,ArnórIngviTraustason,Left Midfield,12/13,Svenska Cupen,ifk-norrkoping,2,2,"2,00",0,0,0,2,0,0,0,0,0,0,0
+16205,Iceland,ArnórIngviTraustason,Left Midfield,2013,Pepsideild,keflavik-if,19,19,"1,05",4,0,0,1,5,4,0,0,0,383',170'
+16206,Iceland,ArnórIngviTraustason,Left Midfield,2013,U21 Allsvenskan Norra,ifk-norrkoping-u21,1,1,"3,00",0,0,0,0,0,0,0,0,0,0,0
+16207,Iceland,ArnórIngviTraustason,Left Midfield,2013,Lengjubikarinn,keflavik-if,4,4,"1,75",4,0,0,0,4,1,0,0,0,67',90'
+16208,Iceland,ArnórIngviTraustason,Left Midfield,2012,Relegation Eliteserien,sandnes-ulf,2,1,"3,00",0,1,0,1,0,0,0,0,0,0,0
+16209,Iceland,ArnórIngviTraustason,Left Midfield,2012,Tippeligaen,sandnes-ulf,11,10,"1,20",0,0,0,6,4,0,0,0,0,0,0
+16210,Iceland,ArnórIngviTraustason,Left Midfield,2012,Pepsideild,keflavik-if,15,15,"1,40",4,0,0,1,7,1,0,0,0,294',90'
+16211,Iceland,ArnórIngviTraustason,Left Midfield,2011,Pepsideild,keflavik-if,19,15,"1,13",1,0,0,6,7,1,0,0,0,773',1.102'
+16212,Iceland,ArnórIngviTraustason,Left Midfield,2010,Pepsideild,keflavik-if,6,3,"2,00",1,0,0,2,1,0,0,0,0,115',175'
+18975,Costa Rica,BryanRuíz,Left Midfield,17/18,Liga NOS,sporting-lissabon,22,20,"2,20",2,1,0,9,8,2,0,0,0,507',
+18976,Costa Rica,BryanRuíz,Left Midfield,17/18,Taça de Portugal Placard,sporting-lissabon,4,3,"3,00",0,1,0,0,2,0,0,0,0,0,
+18977,Costa Rica,BryanRuíz,Left Midfield,17/18,Europa League,sporting-lissabon,6,6,"1,67",0,1,0,0,4,1,0,0,0,0,
+18978,Costa Rica,BryanRuíz,Left Midfield,17/18,Taça CTT,sporting-lissabon,4,4,"2,50",0,0,0,2,2,0,0,0,0,0,
+18979,Costa Rica,BryanRuíz,Left Midfield,16/17,Liga NOS,sporting-lissabon,34,32,"2,00",2,7,0,9,14,1,0,0,0,1.045',
+18980,Costa Rica,BryanRuíz,Left Midfield,16/17,Taça de Portugal Placard,sporting-lissabon,2,2,"1,50",0,0,0,1,0,0,0,0,0,0,
+18981,Costa Rica,BryanRuíz,Left Midfield,16/17,Taça CTT,sporting-lissabon,2,2,"1,50",0,0,0,1,1,0,0,0,0,0,
+18982,Costa Rica,BryanRuíz,Left Midfield,16/17,Champions League,sporting-lissabon,6,6,"0,50",1,1,0,1,5,1,0,0,0,433',
+18983,Costa Rica,BryanRuíz,Left Midfield,15/16,Liga NOS,sporting-lissabon,34,34,"2,53",8,13,0,2,12,2,0,0,0,337',
+18984,Costa Rica,BryanRuíz,Left Midfield,15/16,Europa League,sporting-lissabon,6,6,"1,17",3,1,0,2,0,0,0,0,0,138',
+18985,Costa Rica,BryanRuíz,Left Midfield,15/16,Taça CTT,sporting-lissabon,1,1,"3,00",1,0,0,1,0,0,0,0,0,25',
+18986,Costa Rica,BryanRuíz,Left Midfield,15/16,Taça de Portugal Placard,sporting-lissabon,2,2,"1,50",1,0,0,0,0,1,0,0,0,240',
+18987,Costa Rica,BryanRuíz,Left Midfield,15/16,Champions League Qualification,sporting-lissabon,2,2,"1,50",0,1,0,0,2,0,0,0,0,0,
+18988,Costa Rica,BryanRuíz,Left Midfield,15/16,Supertaça,sporting-lissabon,1,1,"3,00",0,0,0,0,1,0,0,0,0,0,
+18989,Costa Rica,BryanRuíz,Left Midfield,14/15,Championship,fc-fulham,30,29,"1,45",4,3,0,6,15,0,0,0,1,483',
+18990,Costa Rica,BryanRuíz,Left Midfield,14/15,FA Cup,fc-fulham,2,1,"1,00",0,0,0,0,0,0,0,0,0,0,
+18991,Costa Rica,BryanRuíz,Left Midfield,14/15,League Cup,fc-fulham,2,2,"1,50",1,1,0,0,2,0,0,0,0,167',
+18992,Costa Rica,BryanRuíz,Left Midfield,13/14,Eredivisie,psv-eindhoven,15,14,"2,14",5,3,0,1,5,0,0,0,0,226',
+18993,Costa Rica,BryanRuíz,Left Midfield,13/14,Premier League,fc-fulham,18,12,"0,58",1,3,0,4,5,0,0,0,0,772',
+18994,Costa Rica,BryanRuíz,Left Midfield,13/14,League Cup,fc-fulham,2,2,"1,50",0,1,0,1,0,0,0,0,0,0,
+18995,Costa Rica,BryanRuíz,Left Midfield,12/13,Premier League,fc-fulham,29,29,"1,14",5,9,0,3,5,2,0,0,0,477',
+18996,Costa Rica,BryanRuíz,Left Midfield,12/13,FA Cup,fc-fulham,2,2,"0,50",0,0,0,0,1,0,0,0,0,0,
+18997,Costa Rica,BryanRuíz,Left Midfield,12/13,League Cup,fc-fulham,1,-,0,0,0,0,0,0,0,0,0,0,0,
+18998,Costa Rica,BryanRuíz,Left Midfield,11/12,Premier League,fc-fulham,27,27,"1,41",2,4,0,10,8,0,0,0,0,756',
+18999,Costa Rica,BryanRuíz,Left Midfield,11/12,FA Cup,fc-fulham,2,2,"1,50",0,3,0,0,0,0,0,0,0,0,
+19000,Costa Rica,BryanRuíz,Left Midfield,11/12,League Cup,fc-fulham,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,
+19001,Costa Rica,BryanRuíz,Left Midfield,11/12,Eredivisie,fc-twente-enschede,4,4,"3,00",2,2,0,1,1,1,0,0,0,150',
+19002,Costa Rica,BryanRuíz,Left Midfield,11/12,Champions League Qualification,fc-twente-enschede,3,3,"0,67",2,0,0,0,1,0,0,0,0,127',
+19003,Costa Rica,BryanRuíz,Left Midfield,11/12,Johan Cruijff Schaal,fc-twente-enschede,1,1,"3,00",1,0,0,1,0,0,0,0,0,44',
+19004,Costa Rica,BryanRuíz,Left Midfield,10/11,Eredivisie,fc-twente-enschede,27,27,"1,96",9,9,0,3,3,0,0,0,3,243',
+19005,Costa Rica,BryanRuíz,Left Midfield,10/11,TOTO KNVB beker,fc-twente-enschede,3,3,"3,00",1,0,0,1,1,0,0,0,1,251',
+19006,Costa Rica,BryanRuíz,Left Midfield,10/11,Europa League,fc-twente-enschede,4,4,"1,00",0,1,0,0,4,0,0,0,0,0,
+19007,Costa Rica,BryanRuíz,Left Midfield,10/11,Champions League,fc-twente-enschede,5,5,"1,00",0,1,0,0,0,0,0,0,0,0,
+19008,Costa Rica,BryanRuíz,Left Midfield,10/11,Johan Cruijff Schaal,fc-twente-enschede,1,1,"3,00",0,0,0,0,1,0,0,0,0,0,
+19009,Costa Rica,BryanRuíz,Left Midfield,09/10,Eredivisie,fc-twente-enschede,34,34,"2,53",24,9,0,0,8,1,0,0,2,125',
+19010,Costa Rica,BryanRuíz,Left Midfield,09/10,TOTO KNVB beker,fc-twente-enschede,3,3,"2,00",3,1,0,0,0,0,0,0,0,90',
+19011,Costa Rica,BryanRuíz,Left Midfield,09/10,Europa League,fc-twente-enschede,8,8,"1,38",0,1,0,0,2,0,0,0,0,0,
+19012,Costa Rica,BryanRuíz,Left Midfield,09/10,Europa League Qualifiers,fc-twente-enschede,2,2,"2,00",2,0,0,0,1,0,0,0,0,90',
+19013,Costa Rica,BryanRuíz,Left Midfield,09/10,Champions League Qualification,fc-twente-enschede,2,2,"1,00",0,0,0,0,2,0,0,0,0,0,
+19014,Costa Rica,BryanRuíz,Left Midfield,08/09,Jupiler Pro League,kaa-gent,32,32,"1,78",12,13,0,1,5,3,0,0,4,235',
+19015,Costa Rica,BryanRuíz,Left Midfield,08/09,Beker van Belgie,kaa-gent,4,4,"2,25",2,0,0,0,1,1,0,0,0,195',
+19016,Costa Rica,BryanRuíz,Left Midfield,08/09,UEFA-Cup Qualifikation,kaa-gent,2,2,"1,50",0,0,0,0,0,0,0,0,0,0,
+19017,Costa Rica,BryanRuíz,Left Midfield,07/08,Beker van Belgie,kaa-gent,7,7,"1,86",3,3,0,0,0,0,0,0,0,220',
+19018,Costa Rica,BryanRuíz,Left Midfield,07/08,Jupiler Pro League,kaa-gent,31,31,"1,32",11,6,0,5,5,2,0,0,0,216',
+19019,Costa Rica,BryanRuíz,Left Midfield,07/08,UI Cup,kaa-gent,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,
+19020,Costa Rica,BryanRuíz,Left Midfield,06/07,Jupiler Pro League,kaa-gent,16,16,"1,44",3,0,0,13,1,0,0,0,0,166',
+19021,Costa Rica,BryanRuíz,Left Midfield,06/07,Beker van Belgie,kaa-gent,5,2,"1,50",0,0,0,2,0,0,0,0,0,0,
+19022,Costa Rica,BryanRuíz,Left Midfield,06/07,UI Cup,kaa-gent,1,1,"1,00",0,0,0,1,0,0,0,0,0,0,
+19023,Costa Rica,RodneyWallace,Left Midfield,2018,MLS,new-york-city-fc,11,8,"2,00",0,1,0,4,2,1,0,0,0,0,
+19024,Costa Rica,RodneyWallace,Left Midfield,2017,MLS Cup Playoffs,new-york-city-fc,2,2,"1,50",0,2,0,0,2,1,0,0,0,0,
+19025,Costa Rica,RodneyWallace,Left Midfield,2017,MLS,new-york-city-fc,26,26,"1,69",4,5,0,3,14,6,0,0,0,484',
+19026,Costa Rica,RodneyWallace,Left Midfield,2016,Série A,sport-club-do-recife,25,22,"1,32",3,2,0,3,4,6,0,0,0,558',
+19027,Costa Rica,RodneyWallace,Left Midfield,2016,Copa Sudamericana,sport-club-do-recife,1,1,"1,00",0,0,0,0,1,0,0,0,0,0,
+19028,Costa Rica,RodneyWallace,Left Midfield,15/16,Liga NOS,fc-arouca,4,2,"2,00",0,0,0,2,0,0,0,0,0,0,
+19029,Costa Rica,RodneyWallace,Left Midfield,2015,MLS Cup Playoffs,portland-timbers,5,5,"2,20",2,0,0,0,4,2,0,0,0,225',
+19030,Costa Rica,RodneyWallace,Left Midfield,2015,MLS,portland-timbers,32,32,"1,56",1,5,0,9,15,3,0,0,0,1.979',
+19031,Costa Rica,RodneyWallace,Left Midfield,2015,US Open Cup,portland-timbers,2,2,"1,50",1,0,0,0,0,0,0,0,0,210',
+19032,Costa Rica,RodneyWallace,Left Midfield,14/15,CONCACAF Champions League,portland-timbers,4,4,"2,25",0,1,0,3,1,1,0,0,0,0,
+19033,Costa Rica,RodneyWallace,Left Midfield,2014,MLS,portland-timbers,18,17,"1,65",5,3,0,5,6,3,0,0,0,211',
+19034,Costa Rica,RodneyWallace,Left Midfield,2014,US Open Cup,portland-timbers,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,
+19035,Costa Rica,RodneyWallace,Left Midfield,2014,USL,arizona-united-soccer-club,2,2,"0,50",1,0,0,1,1,1,0,0,0,129',
+19036,Costa Rica,RodneyWallace,Left Midfield,2013,MLS Cup Playoffs,portland-timbers,4,4,"1,50",0,2,0,0,2,1,0,0,0,0,
+19037,Costa Rica,RodneyWallace,Left Midfield,2013,MLS,portland-timbers,27,27,"1,67",7,6,0,6,2,3,0,0,0,282',
+19038,Costa Rica,RodneyWallace,Left Midfield,2013,US Open Cup,portland-timbers,2,2,"1,50",0,0,0,0,0,0,0,0,0,0,
+19039,Costa Rica,RodneyWallace,Left Midfield,2012,MLS,portland-timbers,24,19,"1,16",1,1,0,5,5,2,0,0,0,1.224',
+19040,Costa Rica,RodneyWallace,Left Midfield,2011,MLS,portland-timbers,33,25,"1,20",2,2,0,3,2,6,0,0,0,987',
+19041,Costa Rica,RodneyWallace,Left Midfield,2010,MLS,d-c-united,11,11,"0,64",0,2,0,0,1,2,0,0,0,0,
+19042,Costa Rica,RodneyWallace,Left Midfield,09/10,CONCACAF Champions League,d-c-united,7,7,"2,00",0,3,0,2,0,0,0,0,0,0,
+19043,Costa Rica,RodneyWallace,Left Midfield,2009,MLS,d-c-united,28,28,"1,43",3,2,0,3,3,8,0,0,0,755',
+19044,Costa Rica,RodneyWallace,Left Midfield,2009,US Open Cup,d-c-united,4,4,"2,25",0,1,0,2,1,0,0,0,0,0,
+20530,Panama,YoelBárcenas,Left Midfield,17/18,Ascenso MX Clausura,cafetaleros-de-tapachula,5,5,"1,80",4,1,0,2,1,1,0,0,0,76',
+20531,Panama,YoelBárcenas,Left Midfield,17/18,Ascenso MX Apertura,cafetaleros-de-tapachula,8,8,"0,75",0,0,0,2,0,0,0,0,0,0,
+20532,Panama,YoelBárcenas,Left Midfield,16/17,CONCACAF Champions League,cd-arabe-unido,4,4,"3,00",2,0,0,0,3,0,0,0,0,147',
+20533,Panama,YoelBárcenas,Left Midfield,15/16,1.HNL,rnk-split,11,8,"0,63",0,0,0,4,1,1,0,0,0,0,
+20534,Panama,YoelBárcenas,Left Midfield,15/16,CONCACAF Champions League,cd-arabe-unido,4,4,"1,50",0,1,0,2,2,0,0,0,0,0,
+20535,Panama,YoelBárcenas,Left Midfield,13/14,CONCACAF Champions League,cd-arabe-unido,4,2,"0,50",0,0,0,0,2,0,0,0,0,0,

@@ -1,0 +1,1356 @@
+,Nation,Player,Position,Season,"reihenfolge ASC, saison_id DESC, verein_id ASC",Club(s),Squad,Apps,PPM,Goals,Assists,own goals,Substituted on,Substituted off,Yellow cards,Yellow/red cards,Red cards,Penalty goals,Minutes per goal,Minutes played
+538,France,KylianMbappé,Right Wing,17/18,Ligue 1,fc-paris-saint-germain,29,27,"2,30",13,8,0,3,5,2,0,0,0,161',636'
+539,France,KylianMbappé,Right Wing,17/18,Coupe de France,fc-paris-saint-germain,5,5,"3,00",4,3,0,0,3,0,0,0,0,100',736'
+540,France,KylianMbappé,Right Wing,17/18,Coupe de la Ligue,fc-paris-saint-germain,4,4,"3,00",0,2,0,1,0,0,0,1,0,0,140'
+541,France,KylianMbappé,Right Wing,17/18,Champions League,fc-paris-saint-germain,8,8,"1,88",4,3,0,0,5,1,0,0,0,165',630'
+542,France,KylianMbappé,Right Wing,17/18,Ligue 1,as-monaco,3,1,"3,00",0,0,0,0,1,0,0,0,0,0,2.192'
+543,France,KylianMbappé,Right Wing,17/18,Trophée des Champions,as-monaco,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,651'
+544,France,KylianMbappé,Right Wing,16/17,Ligue 1,as-monaco,35,29,"2,55",15,11,0,12,12,2,0,0,0,100',90'
+545,France,KylianMbappé,Right Wing,16/17,Champions League,as-monaco,10,9,"1,56",6,0,0,3,3,0,0,0,0,89',451'
+546,France,KylianMbappé,Right Wing,16/17,Coupe de France,as-monaco,4,3,"3,00",2,3,0,0,0,0,0,0,0,165',2.591'
+547,France,KylianMbappé,Right Wing,16/17,Coupe de la Ligue,as-monaco,4,3,"2,00",3,0,0,0,1,0,0,0,0,99',596'
+548,France,KylianMbappé,Right Wing,15/16,Ligue 1,as-monaco,13,11,"1,55",1,1,0,9,2,1,0,0,0,289',180'
+549,France,KylianMbappé,Right Wing,15/16,Coupe de France,as-monaco,2,1,"3,00",0,0,0,0,1,0,0,0,0,0,55'
+550,France,KylianMbappé,Right Wing,15/16,Coupe de la Ligue,as-monaco,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,120'
+551,France,KylianMbappé,Right Wing,15/16,Europa League,as-monaco,1,1,"0,00",0,1,0,1,0,0,0,0,0,0,990'
+552,France,KylianMbappé,Right Wing,14/15,UEFA Youth League,as-monaco-uefa-u19,1,1,"0,00",0,1,0,1,0,0,0,0,0,0,525'
+553,France,OusmaneDembélé,Right Wing,17/18,LaLiga,fc-barcelona,20,17,"2,35",3,7,0,5,10,2,0,0,0,310',2.384'
+554,France,OusmaneDembélé,Right Wing,17/18,Copa del Rey,fc-barcelona,3,3,"2,33",0,1,0,3,0,0,0,0,0,0,2.311'
+555,France,OusmaneDembélé,Right Wing,17/18,Champions League,fc-barcelona,5,3,"2,00",1,0,0,1,2,0,0,0,0,143',722'
+556,France,OusmaneDembélé,Right Wing,17/18,DFL-Supercup,borussia-dortmund,1,1,"0,00",0,1,0,0,0,0,0,0,0,0,180'
+557,France,OusmaneDembélé,Right Wing,16/17,DFB-Pokal,borussia-dortmund,6,6,"3,00",2,2,0,1,1,2,0,0,0,255',180'
+558,France,OusmaneDembélé,Right Wing,16/17,1.Bundesliga,borussia-dortmund,33,32,"1,81",6,13,0,10,14,7,0,0,0,340',2.403'
+559,France,OusmaneDembélé,Right Wing,16/17,Champions League,borussia-dortmund,10,10,"1,70",2,6,0,1,5,1,0,0,0,385',684'
+560,France,OusmaneDembélé,Right Wing,16/17,DFL-Supercup,borussia-dortmund,1,1,"0,00",0,0,0,0,1,1,0,0,0,0,360'
+561,France,OusmaneDembélé,Right Wing,15/16,Ligue 1,fc-stade-rennes,26,26,"1,35",12,5,0,4,8,1,0,0,1,162',180'
+562,France,OusmaneDembélé,Right Wing,15/16,Coupe de France,fc-stade-rennes,2,2,"1,50",0,0,0,1,0,0,0,0,0,0,720'
+563,France,OusmaneDembélé,Right Wing,15/16,Coupe de la Ligue,fc-stade-rennes,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,1.472'
+564,France,FlorianThauvin,Right Wing,17/18,Ligue 1,olympique-marseille,35,35,"2,00",22,12,0,0,16,7,0,0,3,135',371'
+565,France,FlorianThauvin,Right Wing,17/18,Europa League,olympique-marseille,12,12,"1,58",3,2,0,3,7,2,0,0,0,254',56'
+566,France,FlorianThauvin,Right Wing,17/18,Coupe de France,olympique-marseille,3,3,"2,00",0,1,0,2,1,0,0,0,0,0,120'
+567,France,FlorianThauvin,Right Wing,17/18,Coupe de la Ligue,olympique-marseille,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,1.026'
+568,France,FlorianThauvin,Right Wing,17/18,Europa League Qualifiers,olympique-marseille,4,3,"2,33",1,3,0,0,2,2,0,0,0,223',2.650'
+569,France,FlorianThauvin,Right Wing,16/17,Ligue 1,olympique-marseille,38,38,"1,63",15,9,0,2,22,2,0,0,1,198',615'
+570,France,FlorianThauvin,Right Wing,16/17,Coupe de France,olympique-marseille,3,3,"2,00",0,1,0,0,1,0,0,0,0,0,90'
+571,France,FlorianThauvin,Right Wing,16/17,Coupe de la Ligue,olympique-marseille,2,2,"1,50",0,1,0,0,1,1,0,0,0,0,2.478'
+572,France,FlorianThauvin,Right Wing,15/16,Coupe de France,olympique-marseille,4,4,"2,25",2,0,0,0,3,0,0,0,0,153',988'
+573,France,FlorianThauvin,Right Wing,15/16,Ligue 1,olympique-marseille,16,16,"1,06",2,0,0,5,6,0,0,1,0,473',90'
+574,France,FlorianThauvin,Right Wing,15/16,Europa League,olympique-marseille,2,2,"0,50",0,0,0,2,0,0,0,0,0,0,156'
+575,France,FlorianThauvin,Right Wing,15/16,Premier League,newcastle-united,19,13,"0,62",0,0,0,10,3,1,0,0,0,0,120'
+576,France,FlorianThauvin,Right Wing,15/16,FA Cup,newcastle-united,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,164'
+577,France,FlorianThauvin,Right Wing,15/16,League Cup,newcastle-united,2,2,"1,50",1,2,0,0,2,0,0,0,0,110',2.207'
+578,France,FlorianThauvin,Right Wing,14/15,Ligue 1,olympique-marseille,37,36,"1,81",5,7,0,4,24,3,0,0,0,504',1.080'
+579,France,FlorianThauvin,Right Wing,14/15,Coupe de France,olympique-marseille,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,540'
+580,France,FlorianThauvin,Right Wing,14/15,Coupe de la Ligue,olympique-marseille,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,105'
+581,France,FlorianThauvin,Right Wing,13/14,Ligue 1,olympique-marseille,32,31,"1,35",8,4,0,6,17,2,0,0,0,261',252'
+582,France,FlorianThauvin,Right Wing,13/14,Coupe de France,olympique-marseille,2,2,"1,50",1,1,0,0,2,1,0,0,0,147',480'
+583,France,FlorianThauvin,Right Wing,13/14,Coupe de la Ligue,olympique-marseille,2,2,"1,50",0,0,0,1,0,0,0,0,0,0,90'
+584,France,FlorianThauvin,Right Wing,13/14,Champions League,olympique-marseille,6,6,"0,00",1,1,0,4,1,0,0,0,0,237',0
+585,France,FlorianThauvin,Right Wing,12/13,Ligue 1,sc-bastia,34,32,"1,31",10,3,0,7,14,4,0,1,1,226',1.565'
+586,France,FlorianThauvin,Right Wing,12/13,Coupe de France,sc-bastia,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,249'
+587,France,FlorianThauvin,Right Wing,12/13,Coupe de la Ligue,sc-bastia,3,2,"1,50",0,1,0,0,1,0,0,0,0,0,95'
+588,France,FlorianThauvin,Right Wing,11/12,Ligue 2,sc-bastia,15,13,"1,77",0,0,0,9,2,1,0,0,0,0,180'
+589,France,FlorianThauvin,Right Wing,11/12,Coupe de France,sc-bastia,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,113'
+590,France,FlorianThauvin,Right Wing,10/11,Ligue 2,grenoble-foot-38,3,3,"0,67",0,0,0,3,0,0,0,0,0,0,0
+1383,Spain,LucasVázquez,Right Wing,17/18,Champions League,real-madrid,13,10,"2,30",1,3,0,5,0,1,0,0,0,543',110'
+1384,Spain,LucasVázquez,Right Wing,17/18,LaLiga,real-madrid,38,33,"2,06",4,8,0,17,3,3,0,0,0,416',6'
+1385,Spain,LucasVázquez,Right Wing,17/18,Copa del Rey,real-madrid,5,5,"2,00",3,3,0,0,0,0,0,0,1,150',585'
+1386,Spain,LucasVázquez,Right Wing,17/18,Club World Cup,real-madrid,2,2,"3,00",0,1,0,2,0,0,0,0,0,0,2.176'
+1387,Spain,LucasVázquez,Right Wing,17/18,Supercopa,real-madrid,2,2,"3,00",0,1,0,1,0,0,0,0,0,0,237'
+1388,Spain,LucasVázquez,Right Wing,17/18,UEFA Supercup,real-madrid,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,1.062'
+1389,Spain,LucasVázquez,Right Wing,16/17,LaLiga,real-madrid,36,33,"2,61",2,9,0,21,4,4,0,0,0,692',180'
+1390,Spain,LucasVázquez,Right Wing,16/17,Champions League,real-madrid,11,10,"2,30",1,1,0,8,0,0,0,0,0,366',45'
+1391,Spain,LucasVázquez,Right Wing,16/17,Copa del Rey,real-madrid,5,4,"1,25",1,2,0,1,2,1,0,0,0,239',99'
+1392,Spain,LucasVázquez,Right Wing,16/17,Club World Cup,real-madrid,2,2,"3,00",0,1,0,0,1,0,0,0,0,0,2.717'
+1393,Spain,LucasVázquez,Right Wing,16/17,UEFA Supercup,real-madrid,1,1,"3,00",0,1,0,0,0,0,0,0,0,0,465'
+1394,Spain,LucasVázquez,Right Wing,15/16,Champions League,real-madrid,12,7,"2,43",0,2,0,5,0,2,0,0,0,0,224'
+1395,Spain,LucasVázquez,Right Wing,15/16,LaLiga,real-madrid,33,25,"2,72",4,8,0,15,3,4,0,0,0,307',134'
+1396,Spain,LucasVázquez,Right Wing,15/16,Copa del Rey,real-madrid,1,1,"3,00",0,0,0,0,0,0,0,0,0,0,2.734'
+1397,Spain,LucasVázquez,Right Wing,14/15,LaLiga,espanyol-barcelona,34,33,"1,45",3,6,0,3,5,7,0,0,0,913',991'
+1398,Spain,LucasVázquez,Right Wing,14/15,Copa del Rey,espanyol-barcelona,7,6,"1,17",1,1,0,1,1,0,0,0,0,451',514'
+1399,Spain,LucasVázquez,Right Wing,13/14,LaLiga2,real-madrid-b-castilla-,41,40,"1,20",8,9,0,0,5,12,0,0,0,435',2.999'
+1400,Spain,LucasVázquez,Right Wing,13/14,LaLiga,real-madrid,2,-,0,0,0,0,0,0,0,0,0,0,0,495'
+1401,Spain,LucasVázquez,Right Wing,12/13,LaLiga2,real-madrid-b-castilla-,39,26,"1,50",3,3,0,20,5,3,0,0,0,265',49'
+1402,Spain,LucasVázquez,Right Wing,11/12,2ª B - Grupo I,real-madrid-b-castilla-,2,2,"3,00",1,0,0,1,0,0,0,0,0,93',2.063'
+1403,Spain,IagoAspas,Right Wing,17/18,LaLiga,celta-vigo,34,34,"1,47",24,5,0,1,3,9,0,0,2,122',359'
+1404,Spain,IagoAspas,Right Wing,17/18,Copa del Rey,celta-vigo,4,3,"1,33",1,0,0,1,1,0,0,0,1,154',180'
+1405,Spain,IagoAspas,Right Wing,16/17,LaLiga,celta-vigo,35,32,"1,22",19,4,0,7,9,8,1,0,6,122',2.106'
+1406,Spain,IagoAspas,Right Wing,16/17,Europa League,celta-vigo,12,12,"1,58",5,2,0,3,1,3,1,0,1,173',540'
+1407,Spain,IagoAspas,Right Wing,16/17,Copa del Rey,celta-vigo,7,5,"1,60",2,2,0,0,3,1,0,0,1,212',152'
+1408,Spain,IagoAspas,Right Wing,15/16,LaLiga,celta-vigo,35,35,"1,63",14,5,0,4,17,8,0,0,1,191',165'
+1409,Spain,IagoAspas,Right Wing,15/16,Copa del Rey,celta-vigo,7,5,"1,60",4,0,0,0,2,2,0,0,0,102',630'
+1410,Spain,IagoAspas,Right Wing,14/15,LaLiga,fc-sevilla,28,16,"1,94",2,1,0,12,3,2,0,0,0,223',1.661'
+1411,Spain,IagoAspas,Right Wing,14/15,Europa League,fc-sevilla,8,3,"1,33",1,0,0,1,2,0,0,0,0,162',152'
+1412,Spain,IagoAspas,Right Wing,14/15,Copa del Rey,fc-sevilla,6,5,"2,40",7,2,0,2,0,0,0,0,1,44',540'
+1413,Spain,IagoAspas,Right Wing,14/15,UEFA Supercup,fc-sevilla,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,3.009'
+1414,Spain,IagoAspas,Right Wing,13/14,Premier League,fc-liverpool,33,14,"2,00",0,1,0,9,5,3,0,0,0,0,870'
+1415,Spain,IagoAspas,Right Wing,13/14,FA Cup,fc-liverpool,3,1,"3,00",1,0,0,0,0,0,0,0,0,90',360'
+1416,Spain,IagoAspas,Right Wing,13/14,League Cup,fc-liverpool,2,-,0,0,0,0,0,0,0,0,0,0,0,949'
+1417,Spain,IagoAspas,Right Wing,12/13,LaLiga,celta-vigo,34,34,"0,97",12,6,0,0,14,5,0,1,3,234',2.834'
+1418,Spain,IagoAspas,Right Wing,12/13,Copa del Rey,celta-vigo,3,3,"2,00",0,1,0,1,1,0,0,0,0,0,270'
+1419,Spain,IagoAspas,Right Wing,11/12,LaLiga2,celta-vigo,37,35,"1,94",23,0,0,7,17,7,0,0,0,104',937'
+1420,Spain,IagoAspas,Right Wing,11/12,Copa del Rey,celta-vigo,3,3,"2,33",2,0,0,2,0,0,0,0,0,89',446'
+1421,Spain,IagoAspas,Right Wing,10/11,Promoción LaLiga,celta-vigo,2,2,"1,50",0,0,0,1,0,1,1,0,0,0,438'
+1422,Spain,IagoAspas,Right Wing,10/11,LaLiga2,celta-vigo,39,28,"1,61",4,0,0,19,7,2,1,0,0,275',90'
+1423,Spain,IagoAspas,Right Wing,10/11,Copa del Rey,celta-vigo,1,1,"0,00",1,0,0,0,0,1,0,0,0,90',848'
+1424,Spain,IagoAspas,Right Wing,09/10,LaLiga2,celta-vigo,38,36,"1,25",5,0,0,10,12,7,1,0,0,463',2.880'
+1425,Spain,IagoAspas,Right Wing,09/10,Copa del Rey,celta-vigo,8,7,"2,00",1,1,0,1,4,2,0,0,0,387',373'
+1426,Spain,IagoAspas,Right Wing,08/09,LaLiga2,celta-vigo,3,3,"1,67",2,0,0,1,2,1,0,0,0,87',171'
+1427,Spain,IagoAspas,Right Wing,08/09,2ª B - Grupo I,celta-vigo-b,3,3,"2,33",1,0,0,1,2,1,0,0,0,122',2.799'
+2110,Brazil,DouglasCosta,Right Wing,17/18,Serie A,juventus-turin,37,31,"2,45",4,13,0,13,10,1,0,0,0,448',1.051'
+2111,Brazil,DouglasCosta,Right Wing,17/18,Coppa Italia,juventus-turin,5,5,"3,00",2,0,0,0,4,1,0,0,0,185',2.080'
+2112,Brazil,DouglasCosta,Right Wing,17/18,Champions League,juventus-turin,10,10,"1,80",0,1,0,2,4,1,0,0,0,0,1.761'
+2113,Brazil,DouglasCosta,Right Wing,17/18,Supercoppa TIM,juventus-turin,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,35'
+2114,Brazil,DouglasCosta,Right Wing,16/17,1.Bundesliga,fc-bayern-munchen,26,23,"2,52",4,6,0,9,7,2,0,0,0,343',90'
+2115,Brazil,DouglasCosta,Right Wing,16/17,DFB-Pokal,fc-bayern-munchen,3,2,"1,50",1,0,0,1,1,0,0,0,0,91',2.970'
+2116,Brazil,DouglasCosta,Right Wing,16/17,Champions League,fc-bayern-munchen,9,9,"2,00",2,3,0,5,3,0,0,0,0,231',264'
+2117,Brazil,DouglasCosta,Right Wing,15/16,DFB-Pokal,fc-bayern-munchen,5,4,"3,00",1,0,0,0,0,0,0,0,0,390',2.859'
+2118,Brazil,DouglasCosta,Right Wing,15/16,1.Bundesliga,fc-bayern-munchen,30,27,"2,59",4,14,0,4,10,1,0,0,0,493',180'
+2119,Brazil,DouglasCosta,Right Wing,15/16,Champions League,fc-bayern-munchen,11,11,"2,09",2,4,0,0,5,2,0,0,0,464',2.970'
+2120,Brazil,DouglasCosta,Right Wing,15/16,DFL-Supercup,fc-bayern-munchen,1,1,"0,00",0,0,0,0,0,1,0,0,0,0,255'
+2121,Brazil,DouglasCosta,Right Wing,14/15,Ukrainian Cup,shakhtar-donetsk,6,5,"2,40",0,0,0,2,1,0,0,0,0,0,2.959'
+2122,Brazil,DouglasCosta,Right Wing,14/15,Premier Liga,shakhtar-donetsk,21,20,"2,05",4,6,0,6,9,3,0,0,0,318',270'
+2123,Brazil,DouglasCosta,Right Wing,14/15,Champions League,shakhtar-donetsk,8,8,"1,25",1,1,0,0,6,2,0,0,0,593',2.009'
+2124,Brazil,DouglasCosta,Right Wing,13/14,Premier Liga,shakhtar-donetsk,29,27,"2,30",4,11,0,2,11,1,0,0,0,521',180'
+2125,Brazil,DouglasCosta,Right Wing,13/14,Ukrainian Cup,shakhtar-donetsk,3,3,"2,00",1,1,0,1,1,0,0,0,0,176',210'
+2126,Brazil,DouglasCosta,Right Wing,13/14,Europa League,shakhtar-donetsk,2,2,"0,50",0,0,0,0,1,1,0,0,0,0,2.365'
+2127,Brazil,DouglasCosta,Right Wing,13/14,Champions League,shakhtar-donetsk,6,6,"1,33",2,2,0,0,2,1,0,0,0,258',0
+2128,Brazil,DouglasCosta,Right Wing,13/14,Ukrainian Super Cup,shakhtar-donetsk,1,1,"3,00",0,0,0,0,0,0,0,0,0,0,2.167'
+2129,Brazil,DouglasCosta,Right Wing,12/13,Premier Liga,shakhtar-donetsk,27,27,"2,59",5,2,0,10,14,0,0,0,1,262',2.988'
+2130,Brazil,DouglasCosta,Right Wing,12/13,Ukrainian Cup,shakhtar-donetsk,3,3,"3,00",0,0,0,2,1,1,0,0,0,0,570'
+2131,Brazil,DouglasCosta,Right Wing,12/13,Champions League,shakhtar-donetsk,7,5,"2,00",1,1,0,5,0,0,0,0,0,101',2.331'
+2132,Brazil,DouglasCosta,Right Wing,12/13,Ukrainian Super Cup,shakhtar-donetsk,1,1,"3,00",1,0,0,0,1,0,0,0,0,65',897'
+2133,Brazil,DouglasCosta,Right Wing,11/12,Premier Liga,shakhtar-donetsk,27,27,"2,59",6,3,0,12,8,5,0,0,1,242',120'
+2134,Brazil,DouglasCosta,Right Wing,11/12,Ukrainian Cup,shakhtar-donetsk,5,4,"3,00",1,0,0,2,1,0,0,0,0,240',1.542'
+2135,Brazil,DouglasCosta,Right Wing,11/12,Champions League,shakhtar-donetsk,6,5,"1,00",0,0,0,3,2,0,0,0,0,0,211'
+2136,Brazil,DouglasCosta,Right Wing,11/12,Ukrainian Super Cup,shakhtar-donetsk,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,320'
+2137,Brazil,DouglasCosta,Right Wing,10/11,Ukrainian Cup,shakhtar-donetsk,4,4,"3,00",0,0,0,2,1,0,0,0,0,0,19'
+2138,Brazil,DouglasCosta,Right Wing,10/11,Premier Liga,shakhtar-donetsk,27,27,"2,33",5,7,0,8,9,4,0,0,1,340',374'
+2139,Brazil,DouglasCosta,Right Wing,10/11,Champions League,shakhtar-donetsk,10,10,"2,10",2,3,0,2,5,1,0,0,1,319',1.422'
+2140,Brazil,DouglasCosta,Right Wing,10/11,Ukrainian Super Cup,shakhtar-donetsk,1,1,"3,00",0,1,0,0,0,1,0,0,0,0,631'
+2141,Brazil,DouglasCosta,Right Wing,09/10,Premier Liga,shakhtar-donetsk,13,13,"2,85",5,1,0,9,2,3,0,0,0,116',0
+2142,Brazil,DouglasCosta,Right Wing,09/10,Europa League,shakhtar-donetsk,2,2,"0,50",0,1,0,2,0,0,0,0,0,0,2.087'
+2143,Brazil,DouglasCosta,Right Wing,2009,Série A,gremio-foot-ball-porto-alegrense,25,22,"1,36",1,4,0,10,8,2,1,0,0,1.104',210'
+2144,Brazil,DouglasCosta,Right Wing,2009,Libertadores,gremio-foot-ball-porto-alegrense,3,2,"2,00",0,0,0,2,0,0,0,0,0,0,2.079'
+2145,Brazil,DouglasCosta,Right Wing,2008,Série A,gremio-foot-ball-porto-alegrense,6,6,"1,67",1,2,0,1,3,0,0,0,0,397',62'
+2146,Brazil,Willian,Right Wing,17/18,FA Cup,fc-chelsea,6,6,"2,67",2,1,0,1,2,1,0,0,0,228',62'
+2147,Brazil,Willian,Right Wing,17/18,Premier League,fc-chelsea,37,36,"1,86",6,8,0,16,9,1,0,0,1,314',1.724'
+2148,Brazil,Willian,Right Wing,17/18,Champions League,fc-chelsea,8,8,"1,50",3,3,0,4,0,1,0,0,0,143',142'
+2149,Brazil,Willian,Right Wing,17/18,EFL Cup,fc-chelsea,5,4,"1,75",2,0,0,1,2,0,0,0,0,102',1.723'
+2150,Brazil,Willian,Right Wing,17/18,Community Shield,fc-chelsea,1,1,"0,00",0,0,0,0,1,1,0,0,0,0,351'
+2151,Brazil,Willian,Right Wing,16/17,FA Cup,fc-chelsea,6,6,"2,50",4,3,0,1,5,0,0,0,1,94',159'
+2152,Brazil,Willian,Right Wing,16/17,Premier League,fc-chelsea,34,34,"2,38",8,2,0,19,13,3,0,0,0,191',1.509'
+2153,Brazil,Willian,Right Wing,16/17,EFL Cup,fc-chelsea,2,1,"0,00",0,0,0,0,0,0,0,0,0,0,345'
+2154,Brazil,Willian,Right Wing,15/16,Premier League,fc-chelsea,35,35,"1,26",5,9,0,3,14,5,0,0,0,550',120'
+2155,Brazil,Willian,Right Wing,15/16,FA Cup,fc-chelsea,4,4,"2,25",1,0,0,1,1,0,0,0,0,279',2.788'
+2156,Brazil,Willian,Right Wing,15/16,Champions League,fc-chelsea,8,8,"1,63",5,1,0,0,3,0,0,0,0,128',210'
+2157,Brazil,Willian,Right Wing,15/16,League Cup,fc-chelsea,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,1.800'
+2158,Brazil,Willian,Right Wing,15/16,Community Shield,fc-chelsea,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,74'
+2159,Brazil,Willian,Right Wing,14/15,Premier League,fc-chelsea,37,36,"2,33",2,3,0,8,22,3,0,0,0,1.208',2.245'
+2160,Brazil,Willian,Right Wing,14/15,Champions League,fc-chelsea,7,7,"1,86",1,1,0,2,3,1,0,0,0,484',351'
+2161,Brazil,Willian,Right Wing,14/15,League Cup,fc-chelsea,5,4,"2,50",0,1,0,1,3,1,0,0,0,0,2.242'
+2162,Brazil,Willian,Right Wing,14/15,FA Cup,fc-chelsea,2,2,"1,50",1,0,0,2,0,0,0,0,0,64',269'
+2163,Brazil,Willian,Right Wing,13/14,Premier League,fc-chelsea,30,25,"2,24",4,3,0,7,9,3,1,0,0,420',125'
+2164,Brazil,Willian,Right Wing,13/14,Champions League,fc-chelsea,12,11,"1,55",0,2,0,1,6,2,0,0,0,0,1.762'
+2165,Brazil,Willian,Right Wing,13/14,FA Cup,fc-chelsea,3,3,"2,00",0,1,0,1,1,0,0,0,0,0,45'
+2166,Brazil,Willian,Right Wing,13/14,League Cup,fc-chelsea,3,3,"2,00",0,1,0,0,0,0,0,0,0,0,2.337'
+2167,Brazil,Willian,Right Wing,13/14,Premier Liga,anzhi-makhachkala,4,4,"0,50",0,3,0,0,1,0,0,0,0,0,120'
+2168,Brazil,Willian,Right Wing,12/13,Russian Cup,anzhi-makhachkala,3,3,"2,00",0,1,0,0,1,0,0,0,0,0,2.456'
+2169,Brazil,Willian,Right Wing,12/13,Premier Liga,anzhi-makhachkala,7,7,"1,57",1,1,0,1,2,0,0,0,0,556',270'
+2170,Brazil,Willian,Right Wing,12/13,Europa League,anzhi-makhachkala,3,3,"1,67",0,1,0,0,3,0,0,0,0,0,1'
+2171,Brazil,Willian,Right Wing,12/13,Champions League,shakhtar-donetsk,6,6,"1,67",4,3,0,0,3,0,0,0,0,132',143'
+2172,Brazil,Willian,Right Wing,12/13,Premier Liga,shakhtar-donetsk,14,14,"2,79",2,6,0,5,3,3,0,0,0,477',587'
+2173,Brazil,Willian,Right Wing,12/13,Ukrainian Cup,shakhtar-donetsk,2,2,"3,00",1,3,0,1,1,0,0,0,1,121',175'
+2174,Brazil,Willian,Right Wing,11/12,Premier Liga,shakhtar-donetsk,29,27,"2,67",5,16,0,2,10,1,0,0,0,415',532'
+2175,Brazil,Willian,Right Wing,11/12,Ukrainian Cup,shakhtar-donetsk,4,3,"3,00",0,0,0,1,0,0,0,0,0,0,114'
+2176,Brazil,Willian,Right Wing,11/12,Champions League,shakhtar-donetsk,6,6,"0,83",1,1,0,0,3,1,0,0,0,504',71'
+2177,Brazil,Willian,Right Wing,11/12,Ukrainian Super Cup,shakhtar-donetsk,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,1.415'
+2178,Brazil,Willian,Right Wing,10/11,Ukrainian Cup,shakhtar-donetsk,5,4,"3,00",2,0,0,2,1,0,0,0,0,120',24'
+2179,Brazil,Willian,Right Wing,10/11,Premier Liga,shakhtar-donetsk,28,28,"2,54",3,10,0,0,5,4,0,0,0,800',102'
+2180,Brazil,Willian,Right Wing,10/11,Champions League,shakhtar-donetsk,10,10,"2,10",2,2,0,0,2,0,0,0,0,420',14'
+2181,Brazil,Willian,Right Wing,10/11,Ukrainian Super Cup,shakhtar-donetsk,1,1,"3,00",1,0,0,0,0,0,0,0,0,90',0
+2182,Brazil,Willian,Right Wing,09/10,Premier Liga,shakhtar-donetsk,24,22,"2,59",5,5,0,2,4,3,0,0,0,352',1.124'
+2183,Brazil,Willian,Right Wing,09/10,Ukrainian Cup,shakhtar-donetsk,4,4,"2,25",1,0,0,0,2,1,0,0,0,317',988'
+2184,Brazil,Willian,Right Wing,09/10,Europa League,shakhtar-donetsk,8,8,"1,75",1,2,0,0,3,0,0,0,0,638',921'
+2185,Brazil,Willian,Right Wing,09/10,UEFA Supercup,shakhtar-donetsk,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,952'
+2186,Brazil,Willian,Right Wing,09/10,Europa League Qualifiers,shakhtar-donetsk,2,2,"3,00",0,0,0,1,0,0,0,0,0,0,2.268'
+2187,Brazil,Willian,Right Wing,09/10,Champions League Qualification,shakhtar-donetsk,2,2,"1,00",0,0,0,1,0,0,0,0,0,0,0
+2188,Brazil,Willian,Right Wing,08/09,Ukrainian Cup,shakhtar-donetsk,5,5,"2,40",1,2,0,2,1,0,0,0,0,315',90'
+2189,Brazil,Willian,Right Wing,08/09,Premier Liga,shakhtar-donetsk,29,29,"2,10",5,5,0,8,7,1,0,0,0,366',170'
+2190,Brazil,Willian,Right Wing,08/09,UEFA Cup,shakhtar-donetsk,9,9,"2,22",0,3,0,6,1,1,0,0,0,0,90'
+2191,Brazil,Willian,Right Wing,08/09,Champions League,shakhtar-donetsk,6,6,"1,50",1,2,0,3,0,0,0,0,0,323',1.028'
+2192,Brazil,Willian,Right Wing,08/09,Champions League Qualification,shakhtar-donetsk,2,2,"3,00",1,0,0,0,1,0,0,0,0,144',2.500'
+2193,Brazil,Willian,Right Wing,08/09,Ukrainian Super Cup,shakhtar-donetsk,1,1,"3,00",0,0,0,0,1,0,0,0,0,0,450'
+2194,Brazil,Willian,Right Wing,07/08,Vyshcha Liga,shakhtar-donetsk,20,20,"2,30",0,2,0,15,1,0,0,0,0,0,192'
+2195,Brazil,Willian,Right Wing,07/08,Ukrainian Cup,shakhtar-donetsk,7,6,"3,00",1,1,0,3,0,1,0,0,0,326',995'
+2196,Brazil,Willian,Right Wing,07/08,Champions League,shakhtar-donetsk,2,2,"0,00",0,0,0,2,0,0,0,0,0,0,2.746'
+2197,Brazil,Willian,Right Wing,2007,Série A,corinthians-sao-paulo,15,15,"1,60",2,2,0,0,4,1,0,0,0,655',3.064'
+2198,Brazil,Willian,Right Wing,2006,Série A,corinthians-sao-paulo,2,2,"2,00",0,0,0,0,1,0,0,0,0,0,968'
+3627,England,RaheemSterling,Right Wing,17/18,Premier League,manchester-city,34,33,"2,58",18,15,0,4,9,3,1,0,1,144',360'
+3628,England,RaheemSterling,Right Wing,17/18,Champions League,manchester-city,9,8,"2,25",4,1,0,3,3,1,0,0,0,124',450'
+3629,England,RaheemSterling,Right Wing,17/18,FA Cup,manchester-city,2,2,"3,00",1,0,0,0,0,0,0,0,0,180',270'
+3630,England,RaheemSterling,Right Wing,17/18,EFL Cup,manchester-city,4,3,"3,00",0,1,0,0,0,1,0,0,0,0,2.288'
+3631,England,RaheemSterling,Right Wing,16/17,Premier League,manchester-city,35,33,"2,12",7,11,0,4,13,7,0,0,0,359',314'
+3632,England,RaheemSterling,Right Wing,16/17,FA Cup,manchester-city,6,5,"2,40",1,4,0,1,2,1,0,0,0,418',900'
+3633,England,RaheemSterling,Right Wing,16/17,Champions League,manchester-city,7,7,"1,57",2,4,1,0,4,3,0,0,0,289',123'
+3634,England,RaheemSterling,Right Wing,16/17,EFL Cup,manchester-city,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,286'
+3635,England,RaheemSterling,Right Wing,16/17,Champions League Qualification,manchester-city,2,1,"3,00",0,2,0,0,0,0,0,0,0,0,540'
+3636,England,RaheemSterling,Right Wing,15/16,Premier League,manchester-city,34,31,"1,52",6,2,0,8,15,1,0,0,0,321',808'
+3637,England,RaheemSterling,Right Wing,15/16,Champions League,manchester-city,10,10,"1,70",3,2,0,4,3,0,0,0,0,193',2.468'
+3638,England,RaheemSterling,Right Wing,15/16,League Cup,manchester-city,5,4,"3,00",1,4,0,1,0,0,0,0,0,328',319'
+3639,England,RaheemSterling,Right Wing,15/16,FA Cup,manchester-city,3,2,"3,00",1,2,0,0,1,1,0,0,0,151',540'
+3640,England,RaheemSterling,Right Wing,14/15,Premier League,fc-liverpool,36,35,"1,60",7,8,0,1,9,5,0,0,0,436',1.870'
+3641,England,RaheemSterling,Right Wing,14/15,FA Cup,fc-liverpool,5,5,"1,60",1,1,0,0,0,1,0,0,0,450',90'
+3642,England,RaheemSterling,Right Wing,14/15,Europa League,fc-liverpool,2,2,"1,50",0,0,0,1,0,0,0,0,0,0,534'
+3643,England,RaheemSterling,Right Wing,14/15,League Cup,fc-liverpool,4,4,"1,75",3,0,0,0,0,0,0,0,0,140',90'
+3644,England,RaheemSterling,Right Wing,14/15,Champions League,fc-liverpool,6,6,"0,83",0,1,0,1,1,1,0,0,0,0,180'
+3645,England,RaheemSterling,Right Wing,13/14,Premier League,fc-liverpool,38,33,"2,24",9,7,0,9,9,3,0,0,0,247',2.774'
+3646,England,RaheemSterling,Right Wing,13/14,FA Cup,fc-liverpool,3,3,"2,00",0,2,0,1,0,1,0,0,0,0,720'
+3647,England,RaheemSterling,Right Wing,13/14,League Cup,fc-liverpool,2,2,"1,50",1,0,0,1,0,1,0,0,0,128',210'
+3648,England,RaheemSterling,Right Wing,13/14,U21 PL,fc-liverpool-u21,1,1,"3,00",1,3,0,0,0,0,0,0,0,90',89'
+3649,England,RaheemSterling,Right Wing,12/13,Premier League,fc-liverpool,28,24,"1,54",2,6,0,5,4,1,0,0,0,874',2.948'
+3650,England,RaheemSterling,Right Wing,12/13,U21 PL Elite Group,fc-liverpool-u21,2,2,"0,50",1,0,0,0,2,1,0,0,0,171',469'
+3651,England,RaheemSterling,Right Wing,12/13,Europa League,fc-liverpool,9,9,"1,89",0,0,0,7,1,0,0,0,0,0,172'
+3652,England,RaheemSterling,Right Wing,12/13,FA Cup,fc-liverpool,2,1,"0,00",0,0,0,0,1,1,0,0,0,0,90'
+3653,England,RaheemSterling,Right Wing,12/13,League Cup,fc-liverpool,2,1,"0,00",0,0,0,1,0,0,0,0,0,0,450'
+3654,England,RaheemSterling,Right Wing,12/13,Europa League Qualifiers,fc-liverpool,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,902'
+3655,England,RaheemSterling,Right Wing,11/12,Premier League,fc-liverpool,4,3,"1,00",0,0,0,3,0,0,0,0,0,0,8'
+3656,England,RaheemSterling,Right Wing,11/12,Reserve League,fc-liverpool-u21,19,19,"1,47",6,7,0,0,2,0,0,0,0,282',1.885'
+4553,Belgium,AdnanJanuzaj,Right Wing,17/18,LaLiga,real-sociedad-san-sebastian,31,28,"1,18",3,5,0,10,16,4,0,0,0,526',3.374'
+4554,Belgium,AdnanJanuzaj,Right Wing,17/18,Europa League,real-sociedad-san-sebastian,8,6,"1,17",1,1,0,3,0,0,0,0,0,367',2.501'
+4555,Belgium,AdnanJanuzaj,Right Wing,17/18,Copa del Rey,real-sociedad-san-sebastian,1,1,"3,00",0,0,0,0,1,0,0,0,0,0,476'
+4556,Belgium,AdnanJanuzaj,Right Wing,16/17,Premier League,afc-sunderland,31,25,"0,40",0,3,0,7,8,3,1,0,0,0,630'
+4557,Belgium,AdnanJanuzaj,Right Wing,16/17,FA Cup,afc-sunderland,2,2,"0,50",0,0,0,0,0,0,0,0,0,0,135'
+4558,Belgium,AdnanJanuzaj,Right Wing,16/17,Premier League 2,afc-sunderland-u21,1,1,"1,00",1,0,0,0,1,0,0,0,0,56',2.626'
+4559,Belgium,AdnanJanuzaj,Right Wing,16/17,EFL Cup,afc-sunderland,1,1,"3,00",1,0,0,0,0,0,0,0,0,90',821'
+4560,Belgium,AdnanJanuzaj,Right Wing,15/16,Premier League,manchester-united,7,5,"1,40",1,0,0,3,2,1,0,0,0,144',443'
+4561,Belgium,AdnanJanuzaj,Right Wing,15/16,U21 PL,manchester-united-u21,7,7,"2,29",2,1,0,0,6,0,0,0,0,244',180'
+4562,Belgium,AdnanJanuzaj,Right Wing,15/16,FA Cup,manchester-united,2,-,0,0,0,0,0,0,0,0,0,0,0,512'
+4563,Belgium,AdnanJanuzaj,Right Wing,15/16,Europa League,borussia-dortmund,6,5,"1,40",0,1,0,2,1,1,0,0,0,0,3.269'
+4564,Belgium,AdnanJanuzaj,Right Wing,15/16,1.Bundesliga,borussia-dortmund,12,6,"1,67",0,2,0,6,0,0,0,0,0,0,990'
+4565,Belgium,AdnanJanuzaj,Right Wing,15/16,DFB-Pokal,borussia-dortmund,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,180'
+4566,Belgium,AdnanJanuzaj,Right Wing,15/16,Champions League Qualification,manchester-united,2,2,"3,00",0,0,0,0,2,0,0,0,0,0,90'
+4567,Belgium,AdnanJanuzaj,Right Wing,14/15,Premier League,manchester-united,35,18,"1,56",0,0,0,11,3,0,0,0,0,0,180'
+4568,Belgium,AdnanJanuzaj,Right Wing,14/15,U21 PL,manchester-united-u21,8,8,"2,75",5,4,0,0,3,1,0,0,0,132',1.048'
+4569,Belgium,AdnanJanuzaj,Right Wing,14/15,FA Cup,manchester-united,4,2,"0,50",0,0,0,1,0,1,0,0,0,0,2.861'
+4570,Belgium,AdnanJanuzaj,Right Wing,14/15,League Cup,manchester-united,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,541'
+4571,Belgium,AdnanJanuzaj,Right Wing,13/14,Premier League,manchester-united,31,27,"1,85",4,4,0,12,7,7,0,0,0,410',128'
+4572,Belgium,AdnanJanuzaj,Right Wing,13/14,Champions League,manchester-united,5,2,"1,50",0,0,0,1,0,0,0,0,0,0,2.840'
+4573,Belgium,AdnanJanuzaj,Right Wing,13/14,League Cup,manchester-united,4,4,"1,75",0,2,0,1,1,1,0,0,0,0,986'
+4574,Belgium,AdnanJanuzaj,Right Wing,13/14,FA Cup,manchester-united,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,211'
+4575,Belgium,AdnanJanuzaj,Right Wing,13/14,U21 PL,manchester-united-u21,3,3,"2,00",1,2,0,0,1,0,0,0,1,258',157'
+4576,Belgium,AdnanJanuzaj,Right Wing,13/14,Community Shield,manchester-united,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,120'
+4577,Belgium,AdnanJanuzaj,Right Wing,12/13,U21 PL Knockout,manchester-united-u21,2,2,"3,00",0,0,0,0,1,1,0,0,0,0,90'
+4578,Belgium,AdnanJanuzaj,Right Wing,12/13,Premier League,manchester-united,1,-,0,0,0,0,0,0,0,0,0,0,0,927'
+4579,Belgium,AdnanJanuzaj,Right Wing,12/13,U21 PL Elite Group,manchester-united-u21,14,14,"1,79",1,4,0,1,8,1,0,0,0,1.096',450'
+4580,Belgium,AdnanJanuzaj,Right Wing,12/13,U21 PL,manchester-united-u21,4,3,"1,33",0,1,0,0,1,1,0,0,0,0,2.513'
+5268,Argentina,LionelMessi,Right Wing,17/18,LaLiga,fc-barcelona,36,36,"2,50",34,12,0,4,0,3,0,0,2,88',1.026'
+5269,Argentina,LionelMessi,Right Wing,17/18,Copa del Rey,fc-barcelona,6,6,"2,50",4,4,0,0,1,1,0,0,0,127',44'
+5270,Argentina,LionelMessi,Right Wing,17/18,Champions League,fc-barcelona,10,10,"2,10",6,2,0,2,0,2,0,0,0,131',548'
+5271,Argentina,LionelMessi,Right Wing,17/18,Supercopa,fc-barcelona,2,2,"0,00",1,0,0,0,0,1,0,0,1,180',67'
+5272,Argentina,LionelMessi,Right Wing,16/17,Copa del Rey,fc-barcelona,7,7,"2,29",5,3,0,0,0,3,0,0,1,126',2.002'
+5273,Argentina,LionelMessi,Right Wing,16/17,LaLiga,fc-barcelona,34,34,"2,44",37,11,0,2,4,6,0,0,6,77',164'
+5274,Argentina,LionelMessi,Right Wing,16/17,Champions League,fc-barcelona,9,9,"1,78",11,2,0,0,0,0,0,0,2,74',90'
+5275,Argentina,LionelMessi,Right Wing,16/17,Supercopa,fc-barcelona,2,2,"3,00",1,2,0,0,0,0,0,0,0,180',2.715'
+5276,Argentina,LionelMessi,Right Wing,15/16,Copa del Rey,fc-barcelona,5,5,"3,00",5,6,0,0,0,1,0,0,0,96',380'
+5277,Argentina,LionelMessi,Right Wing,15/16,LaLiga,fc-barcelona,33,33,"2,39",26,17,0,2,2,3,0,0,3,105',68'
+5278,Argentina,LionelMessi,Right Wing,15/16,Champions League,fc-barcelona,7,7,"2,00",6,1,0,0,0,1,0,0,1,105',180'
+5279,Argentina,LionelMessi,Right Wing,15/16,Club World Cup,fc-barcelona,1,1,"3,00",1,0,0,0,0,0,0,0,0,90',166'
+5280,Argentina,LionelMessi,Right Wing,15/16,Supercopa,fc-barcelona,2,2,"0,50",1,0,0,0,0,0,0,0,0,180',90'
+5281,Argentina,LionelMessi,Right Wing,15/16,UEFA Supercup,fc-barcelona,1,1,"3,00",2,0,0,0,0,0,0,0,0,60',485'
+5282,Argentina,LionelMessi,Right Wing,14/15,Champions League,fc-barcelona,13,13,"2,54",10,5,0,0,1,1,0,0,0,115',2.111'
+5283,Argentina,LionelMessi,Right Wing,14/15,Copa del Rey,fc-barcelona,6,6,"3,00",5,4,0,0,0,1,0,0,1,108',180'
+5284,Argentina,LionelMessi,Right Wing,14/15,LaLiga,fc-barcelona,38,38,"2,47",43,18,0,1,0,4,0,0,5,78',406'
+5285,Argentina,LionelMessi,Right Wing,13/14,LaLiga,fc-barcelona,31,31,"2,23",28,12,0,2,5,2,0,0,6,89',1.231'
+5286,Argentina,LionelMessi,Right Wing,13/14,Copa del Rey,fc-barcelona,7,6,"2,17",5,3,0,1,0,1,0,0,0,95',90'
+5287,Argentina,LionelMessi,Right Wing,13/14,Champions League,fc-barcelona,7,7,"2,00",8,0,0,0,0,0,0,0,2,79',819'
+5288,Argentina,LionelMessi,Right Wing,13/14,Supercopa,fc-barcelona,2,2,"1,00",0,0,0,0,1,0,0,0,0,0,2.604'
+5289,Argentina,LionelMessi,Right Wing,12/13,LaLiga,fc-barcelona,32,32,"2,56",46,14,0,4,1,1,0,0,4,57',12'
+5290,Argentina,LionelMessi,Right Wing,12/13,Champions League,fc-barcelona,12,11,"1,64",8,3,0,2,2,0,0,0,0,103',0
+5291,Argentina,LionelMessi,Right Wing,12/13,Copa del Rey,fc-barcelona,6,5,"1,60",4,1,0,0,1,1,0,0,0,111',14'
+5292,Argentina,LionelMessi,Right Wing,12/13,Supercopa,fc-barcelona,2,2,"1,50",2,0,0,0,0,0,0,0,1,90',2.437'
+5293,Argentina,LionelMessi,Right Wing,11/12,Copa del Rey,fc-barcelona,7,7,"2,43",3,4,0,2,0,1,0,0,0,171',282'
+5294,Argentina,LionelMessi,Right Wing,11/12,LaLiga,fc-barcelona,37,37,"2,38",50,20,0,1,0,6,0,0,10,65',4'
+5295,Argentina,LionelMessi,Right Wing,11/12,Champions League,fc-barcelona,11,11,"2,18",14,7,0,0,0,2,0,0,4,71',4'
+5296,Argentina,LionelMessi,Right Wing,11/12,Club World Cup,fc-barcelona,2,2,"3,00",2,1,0,0,0,0,0,0,0,90',146'
+5297,Argentina,LionelMessi,Right Wing,11/12,UEFA Supercup,fc-barcelona,1,1,"3,00",1,1,0,0,0,0,0,0,0,90',138'
+5298,Argentina,LionelMessi,Right Wing,11/12,Supercopa,fc-barcelona,2,2,"2,00",3,2,0,0,0,0,0,0,0,60',199'
+5299,Argentina,LionelMessi,Right Wing,10/11,Champions League,fc-barcelona,13,13,"2,31",12,4,0,2,0,0,0,0,1,87',1.198'
+5300,Argentina,LionelMessi,Right Wing,10/11,LaLiga,fc-barcelona,34,33,"2,52",31,21,0,2,1,4,0,0,4,92',180'
+5301,Argentina,LionelMessi,Right Wing,10/11,Copa del Rey,fc-barcelona,8,7,"1,57",7,3,0,2,1,1,0,0,0,77',422'
+5302,Argentina,LionelMessi,Right Wing,10/11,Supercopa,fc-barcelona,2,2,"1,50",3,0,0,1,0,0,0,0,0,43',0
+5303,Argentina,LionelMessi,Right Wing,09/10,LaLiga,fc-barcelona,35,35,"2,63",34,13,0,5,4,3,0,0,1,84',179'
+5304,Argentina,LionelMessi,Right Wing,09/10,Champions League,fc-barcelona,12,11,"1,73",8,0,0,0,1,0,0,0,0,123',425'
+5305,Argentina,LionelMessi,Right Wing,09/10,Copa del Rey,fc-barcelona,3,3,"2,00",1,0,0,1,0,1,0,0,0,211',915'
+5306,Argentina,LionelMessi,Right Wing,09/10,Club World Cup,fc-barcelona,2,2,"3,00",2,0,0,1,0,1,0,0,0,79',495'
+5307,Argentina,LionelMessi,Right Wing,09/10,UEFA Supercup,fc-barcelona,1,1,"3,00",0,1,0,0,0,1,0,0,0,0,90'
+5308,Argentina,LionelMessi,Right Wing,09/10,Supercopa,fc-barcelona,1,1,"3,00",2,0,0,0,0,0,0,0,1,45',9'
+5309,Argentina,LionelMessi,Right Wing,08/09,Champions League,fc-barcelona,12,12,"2,17",9,5,0,2,1,1,0,0,0,103',2.689'
+5310,Argentina,LionelMessi,Right Wing,08/09,Copa del Rey,fc-barcelona,8,8,"2,50",6,1,0,4,2,1,0,0,1,75',34'
+5311,Argentina,LionelMessi,Right Wing,08/09,LaLiga,fc-barcelona,33,31,"2,45",23,11,0,4,4,2,0,0,3,109',120'
+5312,Argentina,LionelMessi,Right Wing,07/08,LaLiga,fc-barcelona,28,28,"1,96",10,14,0,5,10,2,0,0,4,200',0
+5313,Argentina,LionelMessi,Right Wing,07/08,Champions League,fc-barcelona,9,9,"2,00",6,2,0,0,3,2,0,0,1,121',65'
+5314,Argentina,LionelMessi,Right Wing,07/08,Copa del Rey,fc-barcelona,3,3,"1,67",0,0,0,1,0,0,0,0,0,0,21'
+5315,Argentina,LionelMessi,Right Wing,06/07,LaLiga,fc-barcelona,26,26,"2,04",14,2,0,3,9,2,0,0,0,143',716'
+5316,Argentina,LionelMessi,Right Wing,06/07,Copa del Rey,fc-barcelona,2,2,"3,00",2,2,0,0,1,1,0,0,0,83',121'
+5317,Argentina,LionelMessi,Right Wing,06/07,Champions League,fc-barcelona,6,5,"1,00",1,0,0,1,0,1,0,0,0,385',0
+5318,Argentina,LionelMessi,Right Wing,06/07,UEFA Supercup,fc-barcelona,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,1.519'
+5319,Argentina,LionelMessi,Right Wing,06/07,Supercopa,fc-barcelona,2,2,"3,00",0,0,0,1,0,0,0,0,0,0,563'
+5320,Argentina,LionelMessi,Right Wing,05/06,Champions League,fc-barcelona,8,6,"2,33",1,2,0,2,2,0,0,0,0,322',523'
+5321,Argentina,LionelMessi,Right Wing,05/06,LaLiga,fc-barcelona,18,17,"2,71",6,3,0,6,10,2,0,0,0,152',190'
+5322,Argentina,LionelMessi,Right Wing,05/06,Copa del Rey,fc-barcelona,2,2,"1,50",1,2,0,0,0,0,0,0,0,180',2.800'
+5323,Argentina,LionelMessi,Right Wing,04/05,LaLiga,fc-barcelona,16,7,"3,00",1,0,0,7,0,0,0,0,0,75',921'
+5324,Argentina,LionelMessi,Right Wing,04/05,Champions League,fc-barcelona,4,1,"0,00",0,0,0,0,0,0,0,0,0,0,150'
+5325,Argentina,LionelMessi,Right Wing,04/05,Copa del Rey,fc-barcelona,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,232'
+5326,Argentina,ÁngelDiMaría,Right Wing,17/18,Ligue 1,fc-paris-saint-germain,33,30,"2,43",11,6,0,4,16,1,0,0,0,193',193'
+5327,Argentina,ÁngelDiMaría,Right Wing,17/18,Coupe de France,fc-paris-saint-germain,6,6,"3,00",7,3,0,0,1,0,0,0,0,77',2.236'
+5328,Argentina,ÁngelDiMaría,Right Wing,17/18,Coupe de la Ligue,fc-paris-saint-germain,4,4,"3,00",2,2,0,0,2,0,0,0,0,157',217'
+5329,Argentina,ÁngelDiMaría,Right Wing,17/18,Champions League,fc-paris-saint-germain,7,5,"2,40",1,1,0,4,1,0,0,0,0,143',90'
+5330,Argentina,ÁngelDiMaría,Right Wing,16/17,Coupe de France,fc-paris-saint-germain,3,3,"3,00",1,2,0,1,1,1,0,0,0,168',481'
+5331,Argentina,ÁngelDiMaría,Right Wing,16/17,Ligue 1,fc-paris-saint-germain,30,29,"2,14",6,7,0,5,13,1,0,1,0,341',168'
+5332,Argentina,ÁngelDiMaría,Right Wing,16/17,Coupe de la Ligue,fc-paris-saint-germain,4,3,"3,00",3,4,0,0,0,0,0,0,0,90',2.286'
+5333,Argentina,ÁngelDiMaría,Right Wing,16/17,Champions League,fc-paris-saint-germain,7,7,"2,00",4,1,0,1,3,0,0,0,0,135',196'
+5334,Argentina,ÁngelDiMaría,Right Wing,16/17,Trophée des Champions,fc-paris-saint-germain,1,1,"3,00",0,1,0,0,1,0,0,0,0,0,261'
+5335,Argentina,ÁngelDiMaría,Right Wing,15/16,Coupe de France,fc-paris-saint-germain,4,4,"3,00",0,2,0,1,1,1,0,0,0,0,330'
+5336,Argentina,ÁngelDiMaría,Right Wing,15/16,Ligue 1,fc-paris-saint-germain,29,29,"2,48",10,18,0,3,14,0,0,0,0,213',8'
+5337,Argentina,ÁngelDiMaría,Right Wing,15/16,Coupe de la Ligue,fc-paris-saint-germain,4,4,"3,00",2,2,0,2,2,0,0,0,0,109',2.993'
+5338,Argentina,ÁngelDiMaría,Right Wing,15/16,Champions League,fc-paris-saint-germain,10,10,"2,00",3,3,0,1,5,0,0,0,0,255',13'
+5339,Argentina,ÁngelDiMaría,Right Wing,14/15,Premier League,manchester-united,28,27,"1,78",3,11,0,7,13,1,0,0,0,548',10'
+5340,Argentina,ÁngelDiMaría,Right Wing,14/15,FA Cup,manchester-united,5,5,"2,00",1,1,0,1,1,0,1,0,0,360',408'
+5341,Argentina,ÁngelDiMaría,Right Wing,14/15,Supercopa,real-madrid,1,1,"1,00",0,0,0,1,0,0,0,0,0,0,2.687'
+5342,Argentina,ÁngelDiMaría,Right Wing,14/15,UEFA Supercup,real-madrid,1,-,0,0,0,0,0,0,0,0,0,0,0,475'
+5343,Argentina,ÁngelDiMaría,Right Wing,13/14,Champions League,real-madrid,12,11,"2,55",3,5,0,2,4,1,0,0,0,274',166'
+5344,Argentina,ÁngelDiMaría,Right Wing,13/14,LaLiga,real-madrid,35,34,"2,38",4,18,0,7,17,6,0,0,0,594',462'
+5345,Argentina,ÁngelDiMaría,Right Wing,13/14,Copa del Rey,real-madrid,9,7,"2,71",4,2,0,0,5,0,0,0,1,140',170'
+5346,Argentina,ÁngelDiMaría,Right Wing,12/13,LaLiga,real-madrid,34,32,"2,09",7,12,0,10,15,3,1,0,0,281',2.772'
+5347,Argentina,ÁngelDiMaría,Right Wing,12/13,Copa del Rey,real-madrid,8,7,"1,86",1,2,0,4,1,2,0,1,0,325',230'
+5348,Argentina,ÁngelDiMaría,Right Wing,12/13,Champions League,real-madrid,12,11,"1,64",0,4,0,2,4,0,0,0,0,0,134'
+5349,Argentina,ÁngelDiMaría,Right Wing,12/13,Supercopa,real-madrid,2,2,"1,50",1,0,0,1,1,0,0,0,0,104',506'
+5350,Argentina,ÁngelDiMaría,Right Wing,11/12,LaLiga,real-madrid,23,23,"2,57",5,16,0,7,13,5,1,0,0,268',1.202'
+5351,Argentina,ÁngelDiMaría,Right Wing,11/12,Champions League,real-madrid,8,7,"2,14",2,1,0,2,4,1,0,0,0,228',273'
+5352,Argentina,ÁngelDiMaría,Right Wing,11/12,Supercopa,real-madrid,2,2,"0,50",0,0,0,0,2,0,0,0,0,0,134'
+5353,Argentina,ÁngelDiMaría,Right Wing,10/11,LaLiga,real-madrid,35,35,"2,37",6,16,0,6,18,6,0,0,0,387',170'
+5354,Argentina,ÁngelDiMaría,Right Wing,10/11,Champions League,real-madrid,11,10,"2,10",3,3,0,2,4,2,0,0,0,241',14'
+5355,Argentina,ÁngelDiMaría,Right Wing,10/11,Copa del Rey,real-madrid,8,8,"2,75",0,7,0,3,3,2,1,0,0,0,0
+5356,Argentina,ÁngelDiMaría,Right Wing,09/10,Liga NOS,benfica-lissabon,26,26,"2,46",5,12,0,0,3,9,0,1,0,450',2.485'
+5357,Argentina,ÁngelDiMaría,Right Wing,09/10,Europa League,benfica-lissabon,12,12,"2,17",3,6,0,1,2,1,0,0,0,324',33'
+5358,Argentina,ÁngelDiMaría,Right Wing,09/10,Taça CTT,benfica-lissabon,4,4,"2,50",1,1,0,1,0,0,0,0,0,295',1.993'
+5359,Argentina,ÁngelDiMaría,Right Wing,09/10,Taça de Portugal Placard,benfica-lissabon,2,1,"0,00",0,0,0,0,0,0,0,0,0,0,111'
+5360,Argentina,ÁngelDiMaría,Right Wing,09/10,Europa League Qualifiers,benfica-lissabon,2,2,"1,50",1,0,0,1,0,0,0,0,0,117',613'
+5361,Argentina,ÁngelDiMaría,Right Wing,08/09,Liga NOS,benfica-lissabon,24,24,"1,88",2,2,0,12,11,2,0,0,0,628',90'
+5362,Argentina,ÁngelDiMaría,Right Wing,08/09,Taça CTT,benfica-lissabon,5,5,"3,00",1,1,0,3,2,1,0,0,0,242',2.275'
+5363,Argentina,ÁngelDiMaría,Right Wing,08/09,UEFA Cup,benfica-lissabon,5,5,"0,80",1,0,0,1,2,2,0,0,0,341',440'
+5364,Argentina,ÁngelDiMaría,Right Wing,07/08,Liga NOS,benfica-lissabon,26,26,"1,77",0,4,0,13,12,5,0,0,0,0,196'
+5365,Argentina,ÁngelDiMaría,Right Wing,07/08,UEFA Cup,benfica-lissabon,4,4,"1,00",1,0,0,3,1,0,0,0,0,133',520'
+5366,Argentina,ÁngelDiMaría,Right Wing,07/08,Champions League,benfica-lissabon,5,5,"1,40",0,1,0,2,2,1,0,0,0,0,74'
+5367,Argentina,ÁngelDiMaría,Right Wing,07/08,Taça CTT,benfica-lissabon,3,3,"1,33",0,0,0,0,2,0,0,0,0,0,1.701'
+5368,Argentina,ÁngelDiMaría,Right Wing,07/08,Champions League Qualification,benfica-lissabon,1,1,"3,00",0,0,0,0,1,0,0,0,0,0,304'
+5369,Argentina,ÁngelDiMaría,Right Wing,06/07,Torneo Final,club-atletico-rosario-central,18,18,"1,33",5,0,0,2,6,6,0,0,0,280',416'
+5370,Argentina,ÁngelDiMaría,Right Wing,06/07,Torneo Inicial,club-atletico-rosario-central,12,7,"1,29",1,0,0,5,1,0,0,0,0,299',1.828'
+5371,Argentina,ÁngelDiMaría,Right Wing,05/06,Torneo Final,club-atletico-rosario-central,13,9,"1,11",0,0,0,8,2,0,0,0,0,0,471'
+5372,Argentina,ÁngelDiMaría,Right Wing,05/06,Torneo Inicial,club-atletico-rosario-central,1,1,"1,00",0,0,0,1,0,0,0,0,0,0,185'
+5373,Argentina,EduardoSalvio,Right Wing,17/18,Liga NOS,benfica-lissabon,26,26,"2,27",9,6,0,7,14,4,0,0,0,179',0
+5374,Argentina,EduardoSalvio,Right Wing,17/18,Taça CTT,benfica-lissabon,1,1,"1,00",0,0,0,0,0,0,0,0,0,0,1'
+5375,Argentina,EduardoSalvio,Right Wing,17/18,Taça de Portugal Placard,benfica-lissabon,2,1,"0,00",0,0,0,0,0,0,0,0,0,0,893'
+5376,Argentina,EduardoSalvio,Right Wing,17/18,Champions League,benfica-lissabon,5,5,"0,00",0,0,0,1,1,2,0,0,0,0,216'
+5377,Argentina,EduardoSalvio,Right Wing,17/18,Supertaça,benfica-lissabon,1,1,"3,00",0,0,0,0,1,0,0,0,0,0,261'
+5378,Argentina,EduardoSalvio,Right Wing,16/17,Taça de Portugal Placard,benfica-lissabon,5,3,"2,33",1,1,0,1,1,0,0,0,0,170',530'
+5379,Argentina,EduardoSalvio,Right Wing,16/17,Liga NOS,benfica-lissabon,30,29,"2,48",4,6,0,3,18,1,0,0,0,503',527'
+5380,Argentina,EduardoSalvio,Right Wing,16/17,Champions League,benfica-lissabon,8,8,"1,38",3,3,0,1,2,1,0,0,2,209',1.467'
+5381,Argentina,EduardoSalvio,Right Wing,16/17,Taça CTT,benfica-lissabon,1,1,"0,00",1,0,0,0,0,0,0,0,0,90',90'
+5382,Argentina,EduardoSalvio,Right Wing,16/17,Supertaça,benfica-lissabon,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,648'
+5383,Argentina,EduardoSalvio,Right Wing,15/16,Liga NOS,benfica-lissabon,12,8,"2,63",0,0,0,7,1,0,0,0,0,0,1.606'
+5384,Argentina,EduardoSalvio,Right Wing,15/16,Taça CTT,benfica-lissabon,1,1,"3,00",0,0,0,0,1,0,0,0,0,0,728'
+5385,Argentina,EduardoSalvio,Right Wing,15/16,Champions League,benfica-lissabon,3,3,"1,33",0,0,0,2,1,0,0,0,0,0,221'
+5386,Argentina,EduardoSalvio,Right Wing,14/15,Liga NOS,benfica-lissabon,29,29,"2,48",9,10,0,1,5,4,0,0,0,273',516'
+5387,Argentina,EduardoSalvio,Right Wing,14/15,Taça CTT,benfica-lissabon,2,2,"3,00",1,0,0,2,0,0,0,0,0,76',394'
+5388,Argentina,EduardoSalvio,Right Wing,14/15,Champions League,benfica-lissabon,5,5,"0,80",1,0,0,0,0,2,0,0,0,450',34'
+5389,Argentina,EduardoSalvio,Right Wing,14/15,Taça de Portugal Placard,benfica-lissabon,1,1,"3,00",2,1,0,0,1,0,0,0,0,30',0
+5390,Argentina,EduardoSalvio,Right Wing,14/15,Supertaça,benfica-lissabon,1,1,"3,00",0,0,0,0,1,0,0,0,0,0,131'
+5391,Argentina,EduardoSalvio,Right Wing,13/14,Taça de Portugal Placard,benfica-lissabon,3,3,"2,00",1,1,0,0,1,0,0,0,0,261',44'
+5392,Argentina,EduardoSalvio,Right Wing,13/14,Liga NOS,benfica-lissabon,13,12,"2,42",0,1,0,7,3,0,0,0,0,0,681'
+5393,Argentina,EduardoSalvio,Right Wing,13/14,Taça CTT,benfica-lissabon,1,1,"3,00",0,0,0,1,0,1,0,0,0,0,0
+5394,Argentina,EduardoSalvio,Right Wing,13/14,Europa League,benfica-lissabon,6,6,"2,33",1,2,0,2,1,3,0,0,0,359',331'
+5395,Argentina,EduardoSalvio,Right Wing,2013,Série A,fluminense-football-club,2,-,0,0,0,0,0,0,0,0,0,0,0,2.330'
+5396,Argentina,EduardoSalvio,Right Wing,12/13,Taça de Portugal Placard,benfica-lissabon,6,6,"2,17",2,1,0,1,1,1,0,0,0,220',750'
+5397,Argentina,EduardoSalvio,Right Wing,12/13,Liga NOS,benfica-lissabon,29,29,"2,55",10,9,0,0,8,0,0,0,0,246',90'
+5398,Argentina,EduardoSalvio,Right Wing,12/13,Europa League,benfica-lissabon,8,8,"2,00",1,0,0,3,2,0,0,0,0,545',2.203'
+5399,Argentina,EduardoSalvio,Right Wing,12/13,Taça CTT,benfica-lissabon,3,3,"2,33",0,0,0,2,0,0,0,0,0,0,679'
+5400,Argentina,EduardoSalvio,Right Wing,12/13,Champions League,benfica-lissabon,5,5,"1,40",0,1,0,0,1,0,0,0,0,0,70'
+5401,Argentina,EduardoSalvio,Right Wing,11/12,LaLiga,atletico-madrid,34,30,"1,50",3,2,0,13,11,7,0,0,0,536',2.020'
+5402,Argentina,EduardoSalvio,Right Wing,11/12,Europa League,atletico-madrid,16,14,"2,86",5,3,0,9,2,1,0,0,0,109',449'
+5403,Argentina,EduardoSalvio,Right Wing,11/12,Copa del Rey,atletico-madrid,2,2,"0,00",0,0,0,1,0,0,0,0,0,0,2.204'
+5404,Argentina,EduardoSalvio,Right Wing,11/12,Europa League Qualifiers,atletico-madrid,2,2,"3,00",0,0,0,1,1,1,0,0,0,0,463'
+5405,Argentina,EduardoSalvio,Right Wing,10/11,Europa League,benfica-lissabon,6,6,"2,33",3,1,0,0,3,1,0,0,0,143',42'
+5406,Argentina,EduardoSalvio,Right Wing,10/11,Liga NOS,benfica-lissabon,19,19,"2,42",4,3,0,7,3,4,0,0,0,291',29'
+5407,Argentina,EduardoSalvio,Right Wing,10/11,Taça CTT,benfica-lissabon,4,4,"3,00",2,2,0,2,0,1,0,0,0,124',61'
+5408,Argentina,EduardoSalvio,Right Wing,10/11,Taça de Portugal Placard,benfica-lissabon,5,5,"3,00",1,1,0,1,0,0,0,0,0,383',101'
+5409,Argentina,EduardoSalvio,Right Wing,10/11,Champions League,benfica-lissabon,5,5,"0,60",0,0,0,3,1,1,0,0,0,0,1.000'
+5410,Argentina,EduardoSalvio,Right Wing,09/10,Copa del Rey,atletico-madrid,1,-,0,0,0,0,0,0,0,0,0,0,0,223'
+5411,Argentina,EduardoSalvio,Right Wing,09/10,LaLiga,atletico-madrid,16,13,"1,31",2,0,0,8,1,2,0,0,0,286',2.216'
+5412,Argentina,EduardoSalvio,Right Wing,09/10,Europa League,atletico-madrid,9,8,"1,63",0,0,0,8,0,1,0,0,0,0,210'
+5413,Argentina,EduardoSalvio,Right Wing,09/10,Torneo Inicial,club-atletico-lanus,12,12,"1,33",2,1,0,0,3,3,0,0,0,519',145'
+5414,Argentina,EduardoSalvio,Right Wing,2009,Copa Sudamericana,club-atletico-lanus,4,4,"1,75",2,1,0,1,1,1,0,0,0,137',38'
+5415,Argentina,EduardoSalvio,Right Wing,08/09,Torneo Final,club-atletico-lanus,15,15,"2,13",5,2,0,2,9,2,0,0,0,214',1.170'
+5416,Argentina,EduardoSalvio,Right Wing,2009,Libertadores,club-atletico-lanus,3,2,"0,50",0,0,0,0,2,1,0,0,0,0,2.297'
+5417,Argentina,EduardoSalvio,Right Wing,08/09,Torneo Inicial,club-atletico-lanus,14,14,"2,07",4,1,0,2,5,3,0,0,0,270',180'
+5418,Argentina,CristianPavón,Right Wing,2018,Libertadores,club-atletico-boca-juniors,6,6,"1,50",1,6,0,0,2,0,0,0,0,515',24'
+5419,Argentina,CristianPavón,Right Wing,17/18,Primera División,club-atletico-boca-juniors,25,25,"2,24",6,11,0,0,11,3,0,0,0,365',7'
+5420,Argentina,CristianPavón,Right Wing,16/17,Primera División,club-atletico-boca-juniors,30,30,"2,10",9,8,0,0,14,2,0,0,0,287',1.200'
+5421,Argentina,CristianPavón,Right Wing,2016,Libertadores,club-atletico-boca-juniors,8,8,"2,38",4,2,0,0,5,1,1,0,0,170',2.544'
+5422,Argentina,CristianPavón,Right Wing,15/16,Primera División,club-atletico-boca-juniors,4,3,"1,67",0,0,0,1,1,0,0,0,0,0,180'
+5423,Argentina,CristianPavón,Right Wing,14/15,Primera División,club-atletico-boca-juniors,11,6,"2,17",2,0,0,4,1,0,0,0,0,112',202'
+5424,Argentina,CristianPavón,Right Wing,2015,Libertadores,club-atletico-boca-juniors,2,2,"0,50",0,0,0,0,0,1,0,0,0,0,1.109'
+6169,Portugal,BernardoSilva,Right Wing,17/18,Premier League,manchester-city,38,35,"2,60",6,5,0,20,6,0,0,0,0,253',0
+6170,Portugal,BernardoSilva,Right Wing,17/18,Champions League,manchester-city,10,9,"2,00",1,2,0,3,1,1,0,0,0,563',1.662'
+6171,Portugal,BernardoSilva,Right Wing,17/18,EFL Cup,manchester-city,6,6,"3,00",1,3,0,1,1,0,0,0,0,523',240'
+6172,Portugal,BernardoSilva,Right Wing,17/18,FA Cup,manchester-city,3,3,"2,00",1,1,0,1,1,0,0,0,0,190',139'
+6173,Portugal,BernardoSilva,Right Wing,16/17,Ligue 1,as-monaco,37,37,"2,49",8,11,0,4,21,3,0,0,0,350',134'
+6174,Portugal,BernardoSilva,Right Wing,16/17,Champions League,as-monaco,11,11,"1,82",2,1,0,0,6,1,0,0,0,461',97'
+6175,Portugal,BernardoSilva,Right Wing,16/17,Coupe de France,as-monaco,4,3,"3,00",0,0,0,2,0,0,0,0,0,0,180'
+6176,Portugal,BernardoSilva,Right Wing,16/17,Coupe de la Ligue,as-monaco,4,3,"2,00",0,0,0,1,1,0,0,0,0,0,362'
+6177,Portugal,BernardoSilva,Right Wing,16/17,Champions League Qualification,as-monaco,4,4,"2,25",1,0,0,2,1,0,0,0,0,193',0
+6178,Portugal,BernardoSilva,Right Wing,15/16,Ligue 1,as-monaco,32,32,"1,59",7,1,0,10,8,7,0,0,0,319',1.170'
+6179,Portugal,BernardoSilva,Right Wing,15/16,Coupe de France,as-monaco,3,3,"2,00",0,2,0,0,2,0,0,0,0,0,497'
+6180,Portugal,BernardoSilva,Right Wing,15/16,Coupe de la Ligue,as-monaco,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,165'
+6181,Portugal,BernardoSilva,Right Wing,15/16,Europa League,as-monaco,6,6,"1,00",0,0,0,0,2,1,0,0,0,0,1.508'
+6182,Portugal,BernardoSilva,Right Wing,15/16,Champions League Qualification,as-monaco,3,2,"1,50",0,0,0,0,1,1,0,0,0,0,180'
+6183,Portugal,BernardoSilva,Right Wing,14/15,Ligue 1,as-monaco,37,32,"1,97",9,3,0,7,11,1,0,0,0,254',2.081'
+6184,Portugal,BernardoSilva,Right Wing,14/15,Champions League,as-monaco,10,7,"1,57",0,1,0,6,0,1,0,0,0,0,339'
+6185,Portugal,BernardoSilva,Right Wing,14/15,Coupe de France,as-monaco,4,3,"3,00",1,0,0,0,1,0,0,0,0,261',120'
+6186,Portugal,BernardoSilva,Right Wing,14/15,Coupe de la Ligue,as-monaco,3,3,"2,00",0,0,0,0,0,0,0,0,0,0,2.321'
+6187,Portugal,BernardoSilva,Right Wing,13/14,Liga NOS,benfica-lissabon,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,420'
+6188,Portugal,BernardoSilva,Right Wing,13/14,Ledman Liga Pro,benfica-lissabon-b,38,38,"1,61",7,7,0,5,10,4,1,0,0,428',180'
+6189,Portugal,BernardoSilva,Right Wing,13/14,Taça CTT,benfica-lissabon,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,2.520'
+6190,Portugal,BernardoSilva,Right Wing,13/14,Taça de Portugal Placard,benfica-lissabon,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,2.403'
+6191,Portugal,GelsonMartins,Right Wing,17/18,Taça de Portugal Placard,sporting-lissabon,5,5,"1,80",1,1,0,2,0,0,0,0,0,408',90'
+6192,Portugal,GelsonMartins,Right Wing,17/18,Liga NOS,sporting-lissabon,31,31,"2,42",8,9,0,1,5,3,1,0,0,336',598'
+6193,Portugal,GelsonMartins,Right Wing,17/18,Europa League,sporting-lissabon,5,5,"1,80",1,0,0,0,1,0,0,0,0,475',90'
+6194,Portugal,GelsonMartins,Right Wing,17/18,Taça CTT,sporting-lissabon,3,3,"2,33",1,0,0,1,1,0,0,0,0,166',134'
+6195,Portugal,GelsonMartins,Right Wing,17/18,Champions League,sporting-lissabon,6,6,"1,17",1,2,0,1,2,2,0,0,0,462',360'
+6196,Portugal,GelsonMartins,Right Wing,17/18,Champions League Qualification,sporting-lissabon,2,2,"2,00",1,1,0,0,1,0,0,0,0,170',120'
+6197,Portugal,GelsonMartins,Right Wing,16/17,Liga NOS,sporting-lissabon,32,32,"2,09",6,13,0,0,12,6,0,0,0,462',1.164'
+6198,Portugal,GelsonMartins,Right Wing,16/17,Taça de Portugal Placard,sporting-lissabon,4,4,"2,25",0,0,0,2,0,2,0,0,0,0,499'
+6199,Portugal,GelsonMartins,Right Wing,16/17,Taça CTT,sporting-lissabon,2,2,"1,50",1,0,0,1,0,1,0,0,0,134',90'
+6200,Portugal,GelsonMartins,Right Wing,16/17,Champions League,sporting-lissabon,6,6,"0,50",0,0,0,0,2,0,0,0,0,0,180'
+6201,Portugal,GelsonMartins,Right Wing,15/16,Liga NOS,sporting-lissabon,33,29,"2,45",4,1,0,19,7,3,0,0,0,301',443'
+6202,Portugal,GelsonMartins,Right Wing,15/16,Europa League,sporting-lissabon,8,6,"1,67",1,2,0,4,0,0,0,0,0,273',2.556'
+6203,Portugal,GelsonMartins,Right Wing,15/16,Taça CTT,sporting-lissabon,2,2,"3,00",1,1,0,1,0,0,0,0,0,134',100'
+6204,Portugal,GelsonMartins,Right Wing,15/16,Taça de Portugal Placard,sporting-lissabon,3,3,"2,00",1,0,0,3,0,0,0,0,0,170',2.966'
+6205,Portugal,GelsonMartins,Right Wing,15/16,Champions League Qualification,sporting-lissabon,2,1,"3,00",0,0,0,1,0,0,0,0,0,0,480'
+6206,Portugal,GelsonMartins,Right Wing,15/16,Supertaça,sporting-lissabon,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,180'
+6207,Portugal,GelsonMartins,Right Wing,14/15,Ledman Liga Pro,sporting-lissabon-b,41,40,"1,63",6,10,0,16,9,2,0,0,0,414',270'
+6208,Portugal,GelsonMartins,Right Wing,14/15,Taça CTT,sporting-lissabon,2,2,"0,50",0,0,0,2,0,0,0,0,0,0,270'
+6209,Portugal,RicardoQuaresma,Right Wing,17/18,Süper Lig,besiktas-istanbul,26,26,"2,00",4,8,0,3,10,3,1,0,0,498',2.971'
+6210,Portugal,RicardoQuaresma,Right Wing,17/18,Türkiye Kupasi,besiktas-istanbul,6,4,"1,75",1,0,0,3,0,0,0,1,0,111',270'
+6211,Portugal,RicardoQuaresma,Right Wing,17/18,Champions League,besiktas-istanbul,7,7,"1,57",0,4,0,0,2,2,0,0,0,0,270'
+6212,Portugal,RicardoQuaresma,Right Wing,17/18,Turkcell Süper Kupa,besiktas-istanbul,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,90'
+6213,Portugal,RicardoQuaresma,Right Wing,16/17,Süper Lig,besiktas-istanbul,29,29,"2,21",2,13,0,3,10,10,0,0,2,1.138',2.197'
+6214,Portugal,RicardoQuaresma,Right Wing,16/17,Europa League,besiktas-istanbul,5,5,"2,20",0,1,0,0,4,0,0,0,0,0,180'
+6215,Portugal,RicardoQuaresma,Right Wing,16/17,Türkiye Kupasi,besiktas-istanbul,3,3,"2,00",1,0,0,0,2,0,0,0,0,196',360'
+6216,Portugal,RicardoQuaresma,Right Wing,16/17,Champions League,besiktas-istanbul,6,6,"1,17",3,3,0,0,1,0,0,0,2,173',1.247'
+6217,Portugal,RicardoQuaresma,Right Wing,16/17,Turkcell Süper Kupa,besiktas-istanbul,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,87'
+6218,Portugal,RicardoQuaresma,Right Wing,15/16,Süper Lig,besiktas-istanbul,28,26,"2,35",4,6,0,3,16,9,2,0,0,425',1.037'
+6219,Portugal,RicardoQuaresma,Right Wing,15/16,Türkiye Kupasi,besiktas-istanbul,5,5,"0,80",0,0,0,2,1,0,0,0,0,0,229'
+6220,Portugal,RicardoQuaresma,Right Wing,15/16,Europa League,besiktas-istanbul,6,6,"1,50",1,2,0,2,3,1,0,0,0,416',253'
+6221,Portugal,RicardoQuaresma,Right Wing,14/15,Liga NOS,fc-porto,33,30,"2,40",6,6,0,10,12,3,0,0,4,305',412'
+6222,Portugal,RicardoQuaresma,Right Wing,14/15,Champions League,fc-porto,9,9,"2,22",3,0,0,4,3,1,0,0,1,157',180'
+6223,Portugal,RicardoQuaresma,Right Wing,14/15,Taça CTT,fc-porto,4,3,"2,00",1,1,0,1,2,0,0,0,0,185',805'
+6224,Portugal,RicardoQuaresma,Right Wing,14/15,Taça de Portugal Placard,fc-porto,1,-,0,0,0,0,0,0,0,0,0,0,0,210'
+6225,Portugal,RicardoQuaresma,Right Wing,14/15,Champions League Qualification,fc-porto,2,1,"3,00",0,0,0,1,0,0,0,0,0,0,720'
+6226,Portugal,RicardoQuaresma,Right Wing,13/14,Liga NOS,fc-porto,12,12,"1,58",4,1,0,2,5,6,0,0,3,223',495'
+6227,Portugal,RicardoQuaresma,Right Wing,13/14,Taça CTT,fc-porto,3,3,"2,00",1,0,0,0,2,1,0,0,0,216',180'
+6228,Portugal,RicardoQuaresma,Right Wing,13/14,Taça de Portugal Placard,fc-porto,3,3,"2,00",1,1,0,0,1,1,1,0,0,261',1.882'
+6229,Portugal,RicardoQuaresma,Right Wing,13/14,Europa League,fc-porto,6,6,"1,50",3,2,0,0,1,1,0,0,0,177',360'
+6230,Portugal,RicardoQuaresma,Right Wing,11/12,Süper Final,besiktas-istanbul,6,6,"0,83",0,2,0,0,3,4,0,0,0,0,1.821'
+6231,Portugal,RicardoQuaresma,Right Wing,11/12,Süper Lig,besiktas-istanbul,19,19,"1,42",5,6,0,2,9,6,1,1,1,293',270'
+6232,Portugal,RicardoQuaresma,Right Wing,11/12,Türkiye Kupasi,besiktas-istanbul,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,756'
+6233,Portugal,RicardoQuaresma,Right Wing,11/12,Europa League,besiktas-istanbul,8,8,"1,50",2,3,0,0,6,2,0,0,0,324',1.589'
+6234,Portugal,RicardoQuaresma,Right Wing,10/11,Süper Lig,besiktas-istanbul,21,21,"1,76",3,8,0,3,6,7,0,0,1,535',152'
+6235,Portugal,RicardoQuaresma,Right Wing,10/11,Türkiye Kupasi,besiktas-istanbul,8,8,"2,38",3,4,0,0,1,5,0,0,0,243',33'
+6236,Portugal,RicardoQuaresma,Right Wing,10/11,Europa League,besiktas-istanbul,5,4,"2,25",2,0,0,1,2,0,0,1,0,111',500'
+6237,Portugal,RicardoQuaresma,Right Wing,10/11,Europa League Qualifiers,besiktas-istanbul,6,6,"2,67",3,4,0,0,2,0,0,0,0,172',540'
+6238,Portugal,RicardoQuaresma,Right Wing,09/10,Serie A,inter-mailand,23,11,"1,45",0,0,0,8,2,1,0,0,0,0,844'
+6239,Portugal,RicardoQuaresma,Right Wing,09/10,Champions League,inter-mailand,6,2,"0,50",0,0,0,2,0,0,0,0,0,0,270'
+6240,Portugal,RicardoQuaresma,Right Wing,09/10,Coppa Italia,inter-mailand,2,-,0,0,0,0,0,0,0,0,0,0,0,1.876'
+6241,Portugal,RicardoQuaresma,Right Wing,08/09,Premier League,fc-chelsea,7,4,"1,75",0,0,0,3,1,0,0,0,0,0,16'
+6242,Portugal,RicardoQuaresma,Right Wing,08/09,FA Cup,fc-chelsea,2,1,"3,00",0,1,0,1,0,0,0,0,0,0,1.458'
+6243,Portugal,RicardoQuaresma,Right Wing,08/09,Serie A,inter-mailand,17,13,"2,15",1,2,0,6,6,3,0,0,0,681',154'
+6244,Portugal,RicardoQuaresma,Right Wing,08/09,Coppa Italia,inter-mailand,2,-,0,0,0,0,0,0,0,0,0,0,0,720'
+6245,Portugal,RicardoQuaresma,Right Wing,08/09,Champions League,inter-mailand,6,6,"1,33",0,0,0,3,1,0,0,0,0,0,228'
+6246,Portugal,RicardoQuaresma,Right Wing,07/08,Liga NOS,fc-porto,27,27,"2,56",8,14,0,1,6,7,0,0,0,291',720'
+6247,Portugal,RicardoQuaresma,Right Wing,07/08,Champions League,fc-porto,8,8,"1,38",2,1,0,0,0,2,0,0,0,375',1.001'
+6248,Portugal,RicardoQuaresma,Right Wing,07/08,Supertaça,fc-porto,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,0
+6249,Portugal,RicardoQuaresma,Right Wing,06/07,Liga NOS,fc-porto,26,26,"2,31",6,17,0,0,7,4,0,1,0,367',270'
+6250,Portugal,RicardoQuaresma,Right Wing,06/07,Champions League,fc-porto,8,8,"1,50",2,2,0,0,3,2,0,0,0,340',1.953'
+6251,Portugal,RicardoQuaresma,Right Wing,06/07,Supertaça,fc-porto,1,1,"3,00",0,0,0,0,1,1,0,0,0,0,450'
+6252,Portugal,RicardoQuaresma,Right Wing,05/06,Liga NOS,fc-porto,29,29,"2,28",5,10,0,4,15,6,0,0,0,404',215'
+6253,Portugal,RicardoQuaresma,Right Wing,05/06,Champions League,fc-porto,6,6,"0,83",0,1,0,1,2,2,0,0,0,0,1.305'
+6254,Portugal,RicardoQuaresma,Right Wing,04/05,Liga NOS,fc-porto,32,32,"1,81",5,0,0,8,12,7,0,1,0,441',439'
+6255,Portugal,RicardoQuaresma,Right Wing,04/05,Champions League,fc-porto,8,8,"1,13",0,0,0,3,5,1,0,0,0,0,540'
+6256,Portugal,RicardoQuaresma,Right Wing,04/05,Intercontinental Cup,fc-porto,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,1.304'
+6257,Portugal,RicardoQuaresma,Right Wing,04/05,UEFA Supercup,fc-porto,1,1,"0,00",1,0,0,1,0,1,0,0,0,29',401'
+6258,Portugal,RicardoQuaresma,Right Wing,04/05,Supertaça,fc-porto,1,1,"3,00",1,0,0,0,1,1,0,0,0,61',604'
+6259,Portugal,RicardoQuaresma,Right Wing,03/04,Copa del Rey,fc-barcelona,5,2,"1,50",0,0,0,1,1,0,0,0,0,0,180'
+6260,Portugal,RicardoQuaresma,Right Wing,03/04,LaLiga,fc-barcelona,26,22,"2,00",1,1,0,12,4,4,1,0,0,1.000',1.835'
+6261,Portugal,RicardoQuaresma,Right Wing,03/04,UEFA Cup,fc-barcelona,6,4,"1,75",0,1,0,1,3,0,0,0,0,0,404'
+6262,Portugal,RicardoQuaresma,Right Wing,02/03,Liga NOS,sporting-lissabon,33,31,"1,71",5,0,0,4,14,5,0,1,0,443',270'
+6263,Portugal,RicardoQuaresma,Right Wing,02/03,UEFA Cup,sporting-lissabon,2,2,"0,50",0,0,0,0,0,2,0,0,0,0,450'
+6264,Portugal,RicardoQuaresma,Right Wing,02/03,Champions League Qualification,sporting-lissabon,2,2,"0,50",0,0,0,0,2,0,0,0,0,0,2.218'
+6265,Portugal,RicardoQuaresma,Right Wing,01/02,UEFA Cup,sporting-lissabon,4,2,"2,00",0,0,0,2,0,0,0,0,0,0,469'
+6830,Uruguay,JonathanUrretaviscaya,Right Wing,17/18,Liga MX Clausura,cf-monterrey,7,7,"1,57",1,1,0,5,1,1,0,0,0,294',0
+6831,Uruguay,JonathanUrretaviscaya,Right Wing,17/18,Club World Cup,cf-pachuca,3,3,"2,00",1,1,0,0,2,0,0,0,0,311',90'
+6832,Uruguay,JonathanUrretaviscaya,Right Wing,17/18,Copa MX Apertura,cf-pachuca,3,3,"2,33",0,0,0,2,0,0,0,0,0,0,619'
+6833,Uruguay,JonathanUrretaviscaya,Right Wing,17/18,Liga MX Apertura,cf-pachuca,14,14,"1,29",1,9,0,0,4,0,0,0,0,1.191',90'
+6834,Uruguay,JonathanUrretaviscaya,Right Wing,16/17,Liga MX Clausura,cf-pachuca,16,16,"1,50",3,7,0,2,2,2,0,0,0,438',64'
+6835,Uruguay,JonathanUrretaviscaya,Right Wing,16/17,CONCACAF Champions League,cf-pachuca,9,9,"2,00",3,1,0,2,2,1,0,0,0,228',90'
+6836,Uruguay,JonathanUrretaviscaya,Right Wing,16/17,Liguilla Apertura,cf-pachuca,2,2,"0,50",0,0,0,0,0,0,0,0,0,0,792'
+6837,Uruguay,JonathanUrretaviscaya,Right Wing,16/17,Liga MX Apertura,cf-pachuca,17,17,"1,82",4,5,0,1,5,1,0,0,0,363',1.185'
+6838,Uruguay,JonathanUrretaviscaya,Right Wing,15/16,Liguilla Clausura,cf-pachuca,6,6,"2,00",2,2,0,0,5,1,0,0,0,250',135'
+6839,Uruguay,JonathanUrretaviscaya,Right Wing,15/16,Liga MX Clausura,cf-pachuca,11,11,"1,73",1,4,0,6,5,0,0,0,0,502',549'
+6840,Uruguay,JonathanUrretaviscaya,Right Wing,15/16,Copa MX Clausura,cf-pachuca,3,2,"0,50",0,1,0,2,0,0,0,0,0,0,521'
+6841,Uruguay,JonathanUrretaviscaya,Right Wing,15/16,Liga MX Apertura,cf-pachuca,17,12,"0,92",2,5,0,5,6,2,0,0,0,310',90'
+6842,Uruguay,JonathanUrretaviscaya,Right Wing,15/16,Copa MX Apertura,cf-pachuca,5,5,"0,80",2,0,0,1,1,1,0,0,0,195',2.802'
+6843,Uruguay,JonathanUrretaviscaya,Right Wing,2015,Playoffs Primera Division,ca-penarol-montevideo,1,1,"0,00",0,1,0,0,0,1,0,0,0,0,90'
+6844,Uruguay,JonathanUrretaviscaya,Right Wing,2015,Primera División,ca-penarol-montevideo,13,13,"1,92",7,4,0,0,1,1,0,0,0,166',197'
+6845,Uruguay,JonathanUrretaviscaya,Right Wing,14/15,Liga NOS,fc-pacos-de-ferreira,14,14,"1,43",5,4,0,1,4,5,0,0,1,227',2.728'
+6846,Uruguay,JonathanUrretaviscaya,Right Wing,14/15,Taça de Portugal Placard,fc-pacos-de-ferreira,2,2,"1,50",1,3,0,0,0,0,0,0,1,180',180'
+6847,Uruguay,JonathanUrretaviscaya,Right Wing,14/15,Taça CTT,fc-pacos-de-ferreira,1,-,0,0,0,0,0,0,0,0,0,0,0,259'
+6848,Uruguay,JonathanUrretaviscaya,Right Wing,13/14,Ledman Liga Pro,benfica-lissabon-b,23,23,"1,78",2,9,0,2,9,4,0,1,0,915',3.010'
+6849,Uruguay,JonathanUrretaviscaya,Right Wing,12/13,Taça de Portugal Placard,benfica-lissabon,2,1,"0,00",0,0,0,1,0,0,0,0,0,0,367'
+6850,Uruguay,JonathanUrretaviscaya,Right Wing,12/13,Liga NOS,benfica-lissabon,9,4,"2,50",1,0,0,3,1,0,0,0,0,88',44'
+6851,Uruguay,JonathanUrretaviscaya,Right Wing,12/13,Europa League,benfica-lissabon,5,2,"3,00",0,0,0,1,1,0,0,0,0,0,210'
+6852,Uruguay,JonathanUrretaviscaya,Right Wing,12/13,Ledman Liga Pro,benfica-lissabon-b,4,4,"1,25",2,0,0,0,1,2,0,0,0,168',2.662'
+6853,Uruguay,JonathanUrretaviscaya,Right Wing,12/13,Taça CTT,benfica-lissabon,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,90'
+6854,Uruguay,JonathanUrretaviscaya,Right Wing,11/12,Liga NOS,vitoria-guimaraes-sc,13,13,"1,69",2,0,0,5,8,4,0,0,0,327',887'
+6855,Uruguay,JonathanUrretaviscaya,Right Wing,11/12,Taça CTT,vitoria-guimaraes-sc,1,1,"0,00",0,0,0,0,0,1,0,0,0,0,2.427'
+6856,Uruguay,JonathanUrretaviscaya,Right Wing,2011,Libertadores,ca-penarol-montevideo,6,6,"1,50",0,1,0,1,4,0,0,0,0,0,499'
+6857,Uruguay,JonathanUrretaviscaya,Right Wing,2011,Primera División,ca-penarol-montevideo,8,8,"2,00",3,2,0,1,5,0,0,0,0,183',179'
+6858,Uruguay,JonathanUrretaviscaya,Right Wing,10/11,LaLiga,deportivo-la-coruna,6,6,"1,00",0,0,0,1,3,0,0,0,0,0,90'
+6859,Uruguay,JonathanUrretaviscaya,Right Wing,2010,Playoffs Primera Division,ca-penarol-montevideo,2,2,"1,50",0,0,0,0,0,0,0,1,0,0,887'
+6860,Uruguay,JonathanUrretaviscaya,Right Wing,2010,Primera División,ca-penarol-montevideo,15,15,"2,67",4,4,0,0,5,2,0,0,0,316',2.001'
+6861,Uruguay,JonathanUrretaviscaya,Right Wing,09/10,Taça CTT,benfica-lissabon,1,1,"3,00",0,0,0,0,1,1,0,0,0,0,420'
+6862,Uruguay,JonathanUrretaviscaya,Right Wing,09/10,Liga NOS,benfica-lissabon,2,1,"3,00",0,0,0,0,1,0,0,0,0,0,528'
+6863,Uruguay,JonathanUrretaviscaya,Right Wing,09/10,Taça de Portugal Placard,benfica-lissabon,1,-,0,0,0,0,0,0,0,0,0,0,0,180'
+6864,Uruguay,JonathanUrretaviscaya,Right Wing,08/09,Liga NOS,benfica-lissabon,12,10,"1,60",1,2,0,7,2,2,0,0,0,363',900'
+6865,Uruguay,JonathanUrretaviscaya,Right Wing,08/09,UEFA Cup,benfica-lissabon,6,5,"0,80",0,0,0,3,1,1,0,0,0,0,2.393'
+6866,Uruguay,JonathanUrretaviscaya,Right Wing,08/09,Taça de Portugal Placard,benfica-lissabon,2,1,"3,00",0,0,0,1,0,0,0,0,0,0,895'
+8805,Poland,KamilGrosicki,Right Wing,17/18,Championship,hull-city,38,37,"1,05",9,6,0,15,12,3,0,0,0,236',9'
+8806,Poland,KamilGrosicki,Right Wing,17/18,FA Cup,hull-city,2,1,"3,00",0,0,0,1,0,0,0,0,0,0,180'
+8807,Poland,KamilGrosicki,Right Wing,16/17,Premier League,hull-city,15,15,"1,13",0,5,0,3,5,1,0,0,0,0,465'
+8808,Poland,KamilGrosicki,Right Wing,16/17,Ligue 1,fc-stade-rennes,17,16,"1,38",4,3,0,7,4,0,0,0,1,247',90'
+8809,Poland,KamilGrosicki,Right Wing,16/17,Coupe de France,fc-stade-rennes,1,1,"3,00",0,0,0,0,0,0,0,0,0,0,20'
+8810,Poland,KamilGrosicki,Right Wing,16/17,Coupe de la Ligue,fc-stade-rennes,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,10'
+8811,Poland,KamilGrosicki,Right Wing,15/16,Ligue 1,fc-stade-rennes,34,33,"1,42",9,4,0,19,9,2,0,0,0,170',1.455'
+8812,Poland,KamilGrosicki,Right Wing,15/16,Coupe de France,fc-stade-rennes,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,90'
+8813,Poland,KamilGrosicki,Right Wing,15/16,Coupe de la Ligue,fc-stade-rennes,2,2,"1,50",0,0,0,1,1,0,0,0,0,0,249'
+8814,Poland,KamilGrosicki,Right Wing,14/15,Ligue 1,fc-stade-rennes,22,19,"1,53",0,3,0,10,8,0,0,0,0,0,1.141'
+8815,Poland,KamilGrosicki,Right Wing,14/15,Coupe de France,fc-stade-rennes,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,275'
+8816,Poland,KamilGrosicki,Right Wing,14/15,Coupe de la Ligue,fc-stade-rennes,1,1,"3,00",0,0,0,0,1,0,0,0,0,0,144'
+8817,Poland,KamilGrosicki,Right Wing,13/14,Ligue 1,fc-stade-rennes,15,13,"1,38",0,3,0,4,8,2,0,0,0,0,180'
+8818,Poland,KamilGrosicki,Right Wing,13/14,Coupe de France,fc-stade-rennes,4,4,"2,25",2,0,0,1,3,0,0,0,0,111',933'
+8819,Poland,KamilGrosicki,Right Wing,13/14,Türkiye Kupasi,sivasspor,2,2,"1,50",1,0,0,1,1,0,0,0,0,131',2.156'
+8820,Poland,KamilGrosicki,Right Wing,13/14,Süper Lig,sivasspor,5,5,"1,20",0,0,0,4,1,0,0,0,0,0,86'
+8821,Poland,KamilGrosicki,Right Wing,12/13,Süper Lig,sivasspor,29,28,"1,50",2,6,0,5,17,3,0,0,0,901',193'
+8822,Poland,KamilGrosicki,Right Wing,12/13,Türkiye Kupasi,sivasspor,10,10,"2,50",1,3,0,1,6,2,0,0,0,745',90'
+8823,Poland,KamilGrosicki,Right Wing,11/12,Süper Final - Europe League Play off,sivasspor,6,6,"0,67",1,4,0,0,5,1,0,0,0,469',741'
+8824,Poland,KamilGrosicki,Right Wing,11/12,Türkiye Kupasi,sivasspor,2,2,"1,50",0,0,0,0,2,0,0,0,0,0,315'
+8825,Poland,KamilGrosicki,Right Wing,11/12,Süper Lig,sivasspor,34,34,"1,47",6,9,0,2,20,4,0,0,1,447',66'
+8826,Poland,KamilGrosicki,Right Wing,10/11,Süper Lig,sivasspor,17,17,"1,18",5,4,0,1,10,1,0,0,1,260',571'
+8827,Poland,KamilGrosicki,Right Wing,10/11,Ekstraklasa,jagiellonia-bialystok,15,15,"2,00",6,3,0,4,5,1,0,0,0,187',72'
+8828,Poland,KamilGrosicki,Right Wing,10/11,Polish Cup,jagiellonia-bialystok,2,2,"3,00",0,0,0,1,0,1,0,0,0,0,1.659'
+8829,Poland,KamilGrosicki,Right Wing,10/11,Europa League Qualifiers,jagiellonia-bialystok,2,2,"0,50",0,1,0,0,0,0,0,0,0,0,214'
+8830,Poland,KamilGrosicki,Right Wing,10/11,Superpuchar,jagiellonia-bialystok,1,1,"3,00",0,1,0,0,0,0,0,0,0,0,198'
+8831,Poland,KamilGrosicki,Right Wing,09/10,Polish Cup,jagiellonia-bialystok,7,7,"1,86",1,6,0,3,2,0,0,0,0,476',170'
+8832,Poland,KamilGrosicki,Right Wing,09/10,Ekstraklasa,jagiellonia-bialystok,29,29,"1,48",4,6,0,8,15,3,0,0,0,525',2.068'
+8833,Poland,KamilGrosicki,Right Wing,08/09,Ekstraklasa,jagiellonia-bialystok,13,13,"1,23",4,4,0,0,10,2,0,0,0,264',120'
+8834,Poland,KamilGrosicki,Right Wing,08/09,1.Liga gr. 1,fc-sion-ii,3,3,"1,33",3,0,0,0,3,0,0,0,0,69',1.987'
+8835,Poland,KamilGrosicki,Right Wing,07/08,Super League,fc-sion,8,8,"1,38",2,2,0,4,4,1,0,0,0,170',134'
+8836,Poland,KamilGrosicki,Right Wing,07/08,1.Liga gr. 1,fc-sion-ii,4,4,"2,50",3,0,0,1,1,1,0,0,0,101',2.485'
+8837,Poland,KamilGrosicki,Right Wing,07/08,Ekstraklasa,legia-warschau,11,11,"2,00",1,0,0,6,3,2,0,0,0,503',330'
+8838,Poland,KamilGrosicki,Right Wing,07/08,Polish Cup,legia-warschau,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,3.090'
+8839,Poland,KamilGrosicki,Right Wing,06/07,Ekstraklasa,pogon-stettin,21,21,"0,48",2,4,0,13,2,1,0,0,0,477',90'
+8840,Poland,KamilGrosicki,Right Wing,05/06,Ekstraklasa,pogon-stettin,2,2,"1,00",0,0,0,2,0,0,0,0,0,0,2.303'
+10701,Colombia,JuanCuadrado,Right Wing,17/18,Serie A,juventus-turin,24,21,"2,43",4,8,0,6,9,5,0,0,0,340',540'
+10702,Colombia,JuanCuadrado,Right Wing,17/18,Coppa Italia,juventus-turin,1,1,"3,00",0,1,0,0,0,0,0,0,0,0,90'
+10703,Colombia,JuanCuadrado,Right Wing,17/18,Champions League,juventus-turin,7,6,"1,83",1,1,0,1,3,1,0,0,0,410',1.910'
+10704,Colombia,JuanCuadrado,Right Wing,17/18,Supercoppa TIM,juventus-turin,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,120'
+10705,Colombia,JuanCuadrado,Right Wing,16/17,Champions League,juventus-turin,13,12,"2,42",1,1,0,6,5,2,1,0,0,585',540'
+10706,Colombia,JuanCuadrado,Right Wing,16/17,Serie A,juventus-turin,34,30,"2,33",2,6,0,9,11,7,0,0,0,1.049',180'
+10707,Colombia,JuanCuadrado,Right Wing,16/17,Coppa Italia,juventus-turin,5,3,"2,00",0,3,0,1,0,1,0,0,0,0,2.205'
+10708,Colombia,JuanCuadrado,Right Wing,16/17,Supercoppa TIM,juventus-turin,1,-,0,0,0,0,0,0,0,0,0,0,0,1.073'
+10709,Colombia,JuanCuadrado,Right Wing,15/16,Coppa Italia,juventus-turin,5,4,"2,25",0,2,0,2,1,1,0,0,0,0,120'
+10710,Colombia,JuanCuadrado,Right Wing,15/16,Serie A,juventus-turin,37,28,"2,29",4,6,0,12,4,2,0,0,0,427',180'
+10711,Colombia,JuanCuadrado,Right Wing,15/16,Champions League,juventus-turin,8,8,"1,50",1,0,0,3,2,1,0,0,0,468',2.565'
+10712,Colombia,JuanCuadrado,Right Wing,15/16,Premier League,fc-chelsea,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,180'
+10713,Colombia,JuanCuadrado,Right Wing,15/16,Community Shield,fc-chelsea,1,-,0,0,0,0,0,0,0,0,0,0,0,450'
+10714,Colombia,JuanCuadrado,Right Wing,14/15,Premier League,fc-chelsea,15,12,"2,08",0,1,0,8,4,2,0,0,0,0,107'
+10715,Colombia,JuanCuadrado,Right Wing,14/15,Champions League,fc-chelsea,2,1,"1,00",0,0,0,1,0,0,0,0,0,0,2.011'
+10716,Colombia,JuanCuadrado,Right Wing,14/15,League Cup,fc-chelsea,1,1,"3,00",0,0,0,1,0,1,0,0,0,0,1.992'
+10717,Colombia,JuanCuadrado,Right Wing,14/15,Serie A,ac-florenz,17,17,"1,59",4,3,0,0,8,5,0,0,0,362',540'
+10718,Colombia,JuanCuadrado,Right Wing,14/15,Coppa Italia,ac-florenz,1,1,"3,00",1,0,0,0,1,0,0,0,1,76',2.327'
+10719,Colombia,JuanCuadrado,Right Wing,14/15,Europa League,ac-florenz,5,5,"2,00",1,0,0,2,2,0,0,0,0,256',180'
+10720,Colombia,JuanCuadrado,Right Wing,13/14,Serie A,ac-florenz,34,32,"1,66",11,8,0,1,6,8,1,0,0,246',1.973'
+10721,Colombia,JuanCuadrado,Right Wing,13/14,Europa League,ac-florenz,9,8,"2,00",3,3,0,2,3,3,0,0,0,177',360'
+10722,Colombia,JuanCuadrado,Right Wing,13/14,Coppa Italia,ac-florenz,3,3,"2,00",1,0,0,1,0,2,0,0,0,201',360'
+10723,Colombia,JuanCuadrado,Right Wing,12/13,Serie A,ac-florenz,36,36,"1,78",5,7,0,2,12,11,0,0,0,593',353'
+10724,Colombia,JuanCuadrado,Right Wing,12/13,Coppa Italia,ac-florenz,4,4,"2,25",0,0,0,2,1,1,0,1,0,0,932'
+10725,Colombia,JuanCuadrado,Right Wing,11/12,Serie A,us-lecce,33,33,"1,06",3,2,0,1,8,8,1,0,0,902',1.170'
+10726,Colombia,JuanCuadrado,Right Wing,10/11,Serie A,udinese-calcio,22,9,"0,78",0,0,0,6,3,3,0,0,0,0,180'
+10727,Colombia,JuanCuadrado,Right Wing,10/11,Coppa Italia,udinese-calcio,3,3,"2,00",0,0,0,0,1,1,0,0,0,0,2.322'
+10728,Colombia,JuanCuadrado,Right Wing,09/10,Serie A,udinese-calcio,26,11,"0,82",0,0,0,7,1,2,0,0,0,0,1.088'
+10729,Colombia,JuanCuadrado,Right Wing,09/10,Coppa Italia,udinese-calcio,4,1,"3,00",0,0,0,0,0,0,0,0,0,0,210'
+10730,Colombia,JuanCuadrado,Right Wing,2009,Libertadores,independiente-medellin,2,2,"1,50",0,0,0,0,1,1,0,0,0,0,1.158'
+11444,Switzerland,XherdanShaqiri,Right Wing,17/18,Premier League,stoke-city,37,36,"0,92",8,7,0,0,10,5,0,0,0,381',90'
+11445,Switzerland,XherdanShaqiri,Right Wing,17/18,FA Cup,stoke-city,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,16'
+11446,Switzerland,XherdanShaqiri,Right Wing,17/18,EFL Cup,stoke-city,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,2.306'
+11447,Switzerland,XherdanShaqiri,Right Wing,16/17,Premier League,stoke-city,24,21,"1,48",4,2,0,0,11,2,0,0,0,427',530'
+11448,Switzerland,XherdanShaqiri,Right Wing,16/17,FA Cup,stoke-city,1,1,"0,00",0,0,0,0,1,1,0,0,0,0,120'
+11449,Switzerland,XherdanShaqiri,Right Wing,15/16,Premier League,stoke-city,29,27,"1,30",3,6,0,0,18,3,0,0,0,676',268'
+11450,Switzerland,XherdanShaqiri,Right Wing,15/16,FA Cup,stoke-city,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,180'
+11451,Switzerland,XherdanShaqiri,Right Wing,15/16,League Cup,stoke-city,5,4,"1,75",0,0,0,3,1,0,0,0,0,0,120'
+11452,Switzerland,XherdanShaqiri,Right Wing,14/15,Serie A,inter-mailand,20,15,"1,00",1,2,0,7,5,3,0,0,1,745',1.044'
+11453,Switzerland,XherdanShaqiri,Right Wing,14/15,Europa League,inter-mailand,4,3,"1,33",1,0,0,0,1,1,0,0,0,263',270'
+11454,Switzerland,XherdanShaqiri,Right Wing,14/15,Coppa Italia,inter-mailand,2,2,"1,50",1,0,0,0,1,2,0,0,0,169',270'
+11455,Switzerland,XherdanShaqiri,Right Wing,14/15,1.Bundesliga,fc-bayern-munchen,16,9,"2,33",1,2,0,6,2,0,0,0,0,339',2.364'
+11456,Switzerland,XherdanShaqiri,Right Wing,14/15,Champions League,fc-bayern-munchen,5,4,"2,25",1,0,0,4,0,0,0,0,0,48',605'
+11457,Switzerland,XherdanShaqiri,Right Wing,14/15,DFB-Pokal,fc-bayern-munchen,2,1,"3,00",0,0,0,0,1,1,0,0,0,0,229'
+11458,Switzerland,XherdanShaqiri,Right Wing,14/15,DFL-Supercup,fc-bayern-munchen,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,3.077'
+11459,Switzerland,XherdanShaqiri,Right Wing,13/14,DFB-Pokal,fc-bayern-munchen,4,3,"3,00",1,2,0,1,0,1,0,0,0,236',17'
+11460,Switzerland,XherdanShaqiri,Right Wing,13/14,1.Bundesliga,fc-bayern-munchen,21,17,"2,47",6,2,0,7,8,0,0,0,0,130',1.482'
+11461,Switzerland,XherdanShaqiri,Right Wing,13/14,Champions League,fc-bayern-munchen,4,3,"2,00",0,0,0,3,0,0,0,0,0,0,2.007'
+11462,Switzerland,XherdanShaqiri,Right Wing,13/14,Club World Cup,fc-bayern-munchen,2,2,"3,00",0,0,0,1,1,0,0,0,0,0,90'
+11463,Switzerland,XherdanShaqiri,Right Wing,13/14,UEFA Supercup,fc-bayern-munchen,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,2.427'
+11464,Switzerland,XherdanShaqiri,Right Wing,13/14,DFL-Supercup,fc-bayern-munchen,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,425'
+11465,Switzerland,XherdanShaqiri,Right Wing,12/13,DFB-Pokal,fc-bayern-munchen,6,5,"3,00",3,5,0,2,0,0,0,0,0,105',76'
+11466,Switzerland,XherdanShaqiri,Right Wing,12/13,Champions League,fc-bayern-munchen,13,7,"2,29",1,2,0,6,0,1,0,0,0,209',180'
+11467,Switzerland,XherdanShaqiri,Right Wing,12/13,1.Bundesliga,fc-bayern-munchen,32,26,"2,65",4,6,0,13,7,1,0,0,0,342',1.935'
+11468,Switzerland,XherdanShaqiri,Right Wing,12/13,DFL-Supercup,fc-bayern-munchen,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,49'
+11469,Switzerland,XherdanShaqiri,Right Wing,11/12,Super League,fc-basel-1893,31,31,"2,10",9,9,0,4,18,6,0,0,1,258',180'
+11470,Switzerland,XherdanShaqiri,Right Wing,11/12,Swiss Cup,fc-basel-1893,5,4,"3,00",0,1,0,2,0,0,0,0,0,0,1.440'
+11471,Switzerland,XherdanShaqiri,Right Wing,11/12,Champions League,fc-basel-1893,6,6,"1,67",0,2,0,0,4,1,0,0,0,0,180'
+11472,Switzerland,XherdanShaqiri,Right Wing,10/11,Super League,fc-basel-1893,29,29,"2,10",5,5,0,3,16,7,0,0,0,423',1.431'
+11473,Switzerland,XherdanShaqiri,Right Wing,10/11,Europa League,fc-basel-1893,1,1,"0,00",0,1,0,0,0,0,0,1,0,0,622'
+11474,Switzerland,XherdanShaqiri,Right Wing,10/11,Champions League,fc-basel-1893,6,6,"1,00",1,1,0,0,3,0,0,0,0,513',1.005'
+11475,Switzerland,XherdanShaqiri,Right Wing,10/11,Swiss Cup,fc-basel-1893,2,2,"3,00",0,1,0,1,0,0,0,0,0,0,2.207'
+11476,Switzerland,XherdanShaqiri,Right Wing,10/11,Champions League Qualification,fc-basel-1893,4,4,"3,00",1,2,0,1,2,0,0,0,0,228',594'
+11477,Switzerland,XherdanShaqiri,Right Wing,09/10,Super League,fc-basel-1893,34,32,"2,19",4,5,0,12,10,5,0,0,0,497',277'
+11478,Switzerland,XherdanShaqiri,Right Wing,09/10,Swiss Cup,fc-basel-1893,5,5,"3,00",1,0,0,1,1,0,0,0,0,355',1.761'
+11479,Switzerland,XherdanShaqiri,Right Wing,09/10,Europa League,fc-basel-1893,6,4,"1,50",0,0,0,4,0,0,0,0,0,0,600'
+11480,Switzerland,XherdanShaqiri,Right Wing,09/10,Europa League Qualifiers,fc-basel-1893,6,6,"2,67",2,0,0,2,2,1,0,0,0,193',84'
+11481,Switzerland,XherdanShaqiri,Right Wing,08/09,1.Liga gr. 2,fc-basel-1893-ii,17,17,"2,41",8,0,0,6,4,2,0,0,3,133',1.634'
+11482,Switzerland,XherdanShaqiri,Right Wing,07/08,1.Liga gr. 2,fc-basel-1893-ii,2,2,"2,00",0,0,0,0,2,0,0,0,0,0,630'
+12145,Egypt,MohamedSalah,Right Wing,17/18,Champions League,fc-liverpool,13,13,"1,92",10,5,0,1,8,0,0,0,0,93',0
+12146,Egypt,MohamedSalah,Right Wing,17/18,Premier League,fc-liverpool,36,36,"1,97",32,11,0,2,17,1,0,0,1,91',810'
+12147,Egypt,MohamedSalah,Right Wing,17/18,FA Cup,fc-liverpool,1,1,"0,00",1,0,0,0,0,0,0,0,0,90',119'
+12148,Egypt,MohamedSalah,Right Wing,17/18,Champions League Qualification,fc-liverpool,2,2,"3,00",1,0,0,0,0,0,0,0,0,180',153'
+12149,Egypt,MohamedSalah,Right Wing,16/17,Serie A,as-rom,32,31,"2,23",15,13,0,2,14,2,0,0,0,166',149'
+12150,Egypt,MohamedSalah,Right Wing,16/17,Coppa Italia,as-rom,2,2,"1,50",2,0,0,0,1,0,0,0,0,80',432'
+12151,Egypt,MohamedSalah,Right Wing,16/17,Europa League,as-rom,9,6,"2,17",2,1,0,2,2,0,0,0,0,187',90'
+12152,Egypt,MohamedSalah,Right Wing,16/17,Champions League Qualification,as-rom,2,2,"0,50",0,1,0,0,1,0,0,0,0,0,1.151'
+12153,Egypt,MohamedSalah,Right Wing,15/16,Serie A,as-rom,34,34,"2,21",14,8,0,2,18,1,1,0,0,196',159'
+12154,Egypt,MohamedSalah,Right Wing,15/16,Champions League,as-rom,7,7,"0,86",1,1,0,1,1,0,0,0,0,543',1.676'
+12155,Egypt,MohamedSalah,Right Wing,15/16,Coppa Italia,as-rom,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,133'
+12156,Egypt,MohamedSalah,Right Wing,14/15,Serie A,ac-florenz,17,16,"1,81",6,3,0,6,7,0,0,0,0,152',124'
+12157,Egypt,MohamedSalah,Right Wing,14/15,Europa League,ac-florenz,8,8,"1,50",1,1,0,0,1,1,0,0,0,718',69'
+12158,Egypt,MohamedSalah,Right Wing,14/15,Coppa Italia,ac-florenz,2,2,"1,50",2,0,0,0,1,0,0,0,0,82',655'
+12159,Egypt,MohamedSalah,Right Wing,14/15,FA Cup,fc-chelsea,2,1,"0,00",0,1,0,0,1,0,0,0,0,0,29'
+12160,Egypt,MohamedSalah,Right Wing,14/15,Premier League,fc-chelsea,9,3,"2,00",0,0,0,3,0,0,0,0,0,0,1.844'
+12161,Egypt,MohamedSalah,Right Wing,14/15,League Cup,fc-chelsea,3,2,"3,00",0,1,0,0,2,0,0,0,0,0,334'
+12162,Egypt,MohamedSalah,Right Wing,14/15,Champions League,fc-chelsea,4,2,"3,00",0,0,0,1,1,0,0,0,0,0,310'
+12163,Egypt,MohamedSalah,Right Wing,13/14,Premier League,fc-chelsea,14,10,"2,00",2,2,0,4,4,1,0,0,0,250',90'
+12164,Egypt,MohamedSalah,Right Wing,13/14,FA Cup,fc-chelsea,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,67'
+12165,Egypt,MohamedSalah,Right Wing,13/14,Super League,fc-basel-1893,18,18,"1,83",4,5,0,6,7,1,0,0,0,288',212'
+12166,Egypt,MohamedSalah,Right Wing,13/14,Champions League,fc-basel-1893,6,6,"1,33",2,0,0,0,2,0,0,0,0,266',1.462'
+12167,Egypt,MohamedSalah,Right Wing,13/14,Swiss Cup,fc-basel-1893,1,1,"3,00",1,0,0,0,1,0,0,0,0,77',90'
+12168,Egypt,MohamedSalah,Right Wing,13/14,Champions League Qualification,fc-basel-1893,4,4,"2,50",3,1,0,0,4,2,0,0,0,107',410'
+12169,Egypt,MohamedSalah,Right Wing,12/13,Super League,fc-basel-1893,30,29,"2,10",5,4,0,17,4,0,0,0,0,288',180'
+12170,Egypt,MohamedSalah,Right Wing,12/13,Europa League,fc-basel-1893,14,14,"1,43",2,5,0,4,6,0,0,0,0,474',630'
+12171,Egypt,MohamedSalah,Right Wing,12/13,Swiss Cup,fc-basel-1893,5,5,"3,00",3,2,0,2,2,2,0,0,0,126',79'
+12172,Egypt,MohamedSalah,Right Wing,12/13,Champions League Qualification,fc-basel-1893,2,2,"0,50",0,0,0,1,0,0,0,0,0,0,324'
+12173,Egypt,MohamedSalah,Right Wing,11/12,Premier League,arab-contractors-sc,15,15,"0,67",7,3,0,0,2,1,0,0,0,188',737'
+12174,Egypt,MohamedSalah,Right Wing,10/11,Egypt Cup,arab-contractors-sc,4,4,"2,25",1,1,0,0,0,0,0,0,0,420',360'
+12175,Egypt,MohamedSalah,Right Wing,10/11,Premier League,arab-contractors-sc,20,20,"0,95",4,1,0,8,1,1,0,0,0,314',90'
+12176,Egypt,MohamedSalah,Right Wing,09/10,Egypt Cup,arab-contractors-sc,2,2,"3,00",0,1,0,2,0,0,0,0,0,0,0
+12177,Egypt,MohamedSalah,Right Wing,09/10,Premier League,arab-contractors-sc,3,3,"1,33",0,0,0,3,0,0,0,0,0,0,1.567'
+12178,Egypt,Shikabala,Right Wing,17/18,Saudi Professional League Relegation,al-raed,2,2,"3,00",0,1,0,0,0,0,0,0,0,0,512'
+12179,Egypt,Shikabala,Right Wing,17/18,Professional League,al-raed,22,21,"0,86",9,4,0,4,5,2,0,0,0,180',0
+12180,Egypt,Shikabala,Right Wing,17/18,Saudi Crown-Prince-Cup ,al-raed,1,1,"3,00",1,0,0,0,1,0,0,0,0,79',582'
+12181,Egypt,Shikabala,Right Wing,16/17,Egypt Cup,zamalek-sc,3,3,"2,00",0,2,0,1,1,1,0,0,0,0,150'
+12182,Egypt,Shikabala,Right Wing,16/17,Premier League,zamalek-sc,27,25,"2,12",5,9,0,4,15,1,0,0,1,343',298'
+12183,Egypt,Shikabala,Right Wing,2017,CAF-Champions League,zamalek-sc,7,7,"1,29",0,1,0,1,3,0,0,0,0,0,0
+12184,Egypt,Shikabala,Right Wing,2016,CAF-Champions League,zamalek-sc,11,9,"1,67",1,2,0,3,4,0,0,0,0,531',1.215'
+12185,Egypt,Shikabala,Right Wing,15/16,Egypt Cup,zamalek-sc,5,4,"3,00",1,3,0,0,4,0,0,0,0,270',1.620'
+12186,Egypt,Shikabala,Right Wing,15/16,Premier League,zamalek-sc,20,17,"1,82",1,0,0,8,9,0,0,0,0,822',133'
+12187,Egypt,Shikabala,Right Wing,15/16,Premier League,ismaily-sc,8,8,"1,88",2,4,0,2,1,1,0,0,0,288',1.905'
+12188,Egypt,Shikabala,Right Wing,13/14,Liga NOS,sporting-lissabon,2,1,"0,00",0,0,0,1,0,0,0,0,0,0,270'
+12189,Egypt,Shikabala,Right Wing,13/14,Ledman Liga Pro,sporting-lissabon-b,5,5,"1,00",0,0,0,1,4,1,0,0,0,0,148'
+12190,Egypt,Shikabala,Right Wing,12/13,Egypt Cup,zamalek-sc,4,4,"3,00",1,3,0,0,0,1,0,0,0,360',322'
+12191,Egypt,Shikabala,Right Wing,2013,CAF-Champions League,zamalek-sc,6,6,"1,17",2,2,0,2,2,0,0,0,0,199',862'
+12192,Egypt,Shikabala,Right Wing,2012,CAF-Champions League,zamalek-sc,3,3,"3,00",0,2,0,0,3,0,0,0,0,0,513'
+12193,Egypt,Shikabala,Right Wing,11/12,Premier League,zamalek-sc,14,14,"2,29",3,6,0,0,1,1,0,0,0,419',90'
+12194,Egypt,Shikabala,Right Wing,10/11,Egypt Cup,zamalek-sc,5,5,"2,40",1,2,0,0,0,1,0,0,0,480',448'
+12195,Egypt,Shikabala,Right Wing,10/11,Premier League,zamalek-sc,27,27,"1,89",13,9,0,1,9,2,1,0,1,173',0
+12196,Egypt,Shikabala,Right Wing,2011,CAF-Champions League,zamalek-sc,2,2,"1,50",1,1,0,0,0,0,0,0,0,180',90'
+12197,Egypt,Shikabala,Right Wing,09/10,Egypt Cup,zamalek-sc,2,2,"1,50",0,0,0,0,0,1,0,0,0,0,752'
+12198,Egypt,Shikabala,Right Wing,09/10,Premier League,zamalek-sc,25,25,"1,88",7,5,0,0,5,3,0,0,0,304',212'
+12199,Egypt,Shikabala,Right Wing,08/09,Premier League,zamalek-sc,17,16,"0,81",3,1,0,5,3,1,0,0,0,366',251'
+12200,Egypt,Shikabala,Right Wing,07/08,Premier League,zamalek-sc,22,22,"2,05",5,4,0,6,7,4,1,0,0,316',76'
+12201,Egypt,Shikabala,Right Wing,2008,CAF-Champions League,zamalek-sc,3,3,"2,00",1,0,0,0,0,0,0,0,0,300',44'
+12202,Egypt,Shikabala,Right Wing,06/07,Premier League,zamalek-sc,8,8,"2,75",3,5,0,2,2,2,0,0,0,187',2.689'
+12203,Egypt,Shikabala,Right Wing,05/06,A' Ethniki,paok-thessaloniki,25,23,"1,61",4,6,0,7,7,3,0,0,0,383',269'
+12204,Egypt,Shikabala,Right Wing,05/06,UEFA Cup,paok-thessaloniki,4,4,"1,00",0,2,0,3,0,0,0,0,0,0,540'
+12205,Egypt,Shikabala,Right Wing,04/05,Premier League,zamalek-sc,9,9,"1,89",0,0,0,4,3,0,0,0,0,0,360'
+12206,Egypt,Shikabala,Right Wing,2003,CAF-Champions League,zamalek-sc,4,4,"1,50",0,0,0,4,0,0,0,0,0,0,2.432'
+12207,Egypt,Shikabala,Right Wing,02/03,CAF-Supercup ,zamalek-sc,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,180'
+12797,Russia,AleksandrSamedov,Right Wing,17/18,Premier Liga,spartak-moskau,23,21,"1,86",2,1,0,3,9,3,1,0,0,733',300'
+12798,Russia,AleksandrSamedov,Right Wing,17/18,Russian Cup,spartak-moskau,3,3,"2,00",0,0,0,1,1,0,0,0,0,0,720'
+12799,Russia,AleksandrSamedov,Right Wing,17/18,Europa League,spartak-moskau,2,-,0,0,0,0,0,0,0,0,0,0,0,360'
+12800,Russia,AleksandrSamedov,Right Wing,17/18,Champions League,spartak-moskau,5,4,"1,25",1,0,0,2,2,0,0,0,0,191',2.430'
+12801,Russia,AleksandrSamedov,Right Wing,16/17,Premier Liga,spartak-moskau,13,10,"2,00",3,0,0,3,4,1,0,0,0,217',630'
+12802,Russia,AleksandrSamedov,Right Wing,16/17,Premier Liga,lokomotiv-moskau,16,15,"1,13",4,2,0,1,2,0,0,0,3,296',110'
+12803,Russia,AleksandrSamedov,Right Wing,16/17,Russian Cup,lokomotiv-moskau,2,2,"3,00",1,0,0,0,2,0,0,0,0,145',180'
+12804,Russia,AleksandrSamedov,Right Wing,15/16,Premier Liga,lokomotiv-moskau,28,28,"1,57",9,7,0,0,1,4,0,0,1,280',1.714'
+12805,Russia,AleksandrSamedov,Right Wing,15/16,Europa League,lokomotiv-moskau,8,8,"1,50",5,0,0,0,0,2,0,0,0,144',277'
+12806,Russia,AleksandrSamedov,Right Wing,15/16,Russian Cup,lokomotiv-moskau,1,-,0,0,0,0,0,0,0,0,0,0,0,2.950'
+12807,Russia,AleksandrSamedov,Right Wing,15/16,Russian Super Cup,lokomotiv-moskau,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,74'
+12808,Russia,AleksandrSamedov,Right Wing,14/15,Premier Liga,lokomotiv-moskau,29,29,"1,45",4,5,0,0,5,2,0,0,1,630',2.344'
+12809,Russia,AleksandrSamedov,Right Wing,14/15,Russian Cup,lokomotiv-moskau,5,5,"3,00",0,1,0,1,0,1,0,0,0,0,183'
+12810,Russia,AleksandrSamedov,Right Wing,14/15,Europa League,lokomotiv-moskau,2,2,"0,50",0,0,0,1,0,0,0,0,0,0,390'
+12811,Russia,AleksandrSamedov,Right Wing,13/14,Premier Liga,lokomotiv-moskau,30,30,"1,97",7,9,0,1,12,2,0,0,3,359',2.840'
+12812,Russia,AleksandrSamedov,Right Wing,12/13,Premier Liga,lokomotiv-moskau,26,26,"1,50",2,7,0,6,6,4,0,0,1,902',390'
+12813,Russia,AleksandrSamedov,Right Wing,12/13,Russian Cup,lokomotiv-moskau,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,180'
+12814,Russia,AleksandrSamedov,Right Wing,11/12,Russian Cup,dinamo-moskau,5,5,"2,40",0,0,0,0,2,0,0,0,0,0,2.880'
+12815,Russia,AleksandrSamedov,Right Wing,10/11,Premier Liga,dinamo-moskau,43,43,"1,60",6,14,0,1,9,4,0,0,0,600',270'
+12816,Russia,AleksandrSamedov,Right Wing,10/11,Russian Cup,dinamo-moskau,3,3,"2,00",1,1,0,0,1,1,0,0,0,264',360'
+12817,Russia,AleksandrSamedov,Right Wing,09/10,Premier Liga,dinamo-moskau,27,27,"1,30",3,4,0,0,9,3,0,0,0,787',2.795'
+12818,Russia,AleksandrSamedov,Right Wing,09/10,Russian Cup,fk-moskau,2,2,"3,00",0,2,0,1,1,0,0,0,0,0,300'
+12819,Russia,AleksandrSamedov,Right Wing,08/09,Premier Liga,fk-moskau,27,27,"1,59",5,7,0,0,6,3,0,0,0,470',990'
+12820,Russia,AleksandrSamedov,Right Wing,08/09,Russian Cup,fk-moskau,3,3,"3,00",0,0,0,0,1,0,0,0,0,0,1.170'
+12821,Russia,AleksandrSamedov,Right Wing,08/09,UEFA Cup,fk-moskau,2,2,"0,50",1,1,0,0,1,0,0,0,0,155',90'
+12822,Russia,AleksandrSamedov,Right Wing,08/09,UEFA-Cup Qualifikation,fk-moskau,2,2,"3,00",1,0,0,1,1,0,0,0,0,101',90'
+12823,Russia,AleksandrSamedov,Right Wing,07/08,Premier Liga,fk-moskau,17,17,"1,35",2,3,0,3,9,4,1,0,0,622',80'
+12824,Russia,AleksandrSamedov,Right Wing,07/08,Premier Liga,lokomotiv-moskau,8,4,"1,25",0,2,0,1,3,1,0,0,0,0,180'
+12825,Russia,AleksandrSamedov,Right Wing,07/08,UEFA Cup,lokomotiv-moskau,6,6,"1,33",1,1,0,3,3,1,0,0,0,336',2.499'
+12826,Russia,AleksandrSamedov,Right Wing,06/07,Premier Liga,lokomotiv-moskau,27,23,"1,39",3,3,0,3,9,3,0,0,0,574',0
+12827,Russia,AleksandrSamedov,Right Wing,06/07,Russian Cup,lokomotiv-moskau,1,1,"3,00",0,0,0,0,1,0,0,0,0,0,833'
+12828,Russia,AleksandrSamedov,Right Wing,05/06,Premier Liga,lokomotiv-moskau,22,13,"1,38",0,2,0,7,5,0,0,0,0,0,0
+12829,Russia,AleksandrSamedov,Right Wing,05/06,UEFA Cup,lokomotiv-moskau,6,4,"1,50",0,0,0,0,1,0,0,0,0,0,180'
+12830,Russia,AleksandrSamedov,Right Wing,05/06,Champions League Qualification,lokomotiv-moskau,4,4,"1,25",1,0,0,1,3,0,0,0,0,234',1.865'
+12831,Russia,AleksandrSamedov,Right Wing,04/05,Premier Liga,lokomotiv-moskau,9,9,"1,56",0,0,0,2,6,0,0,0,0,0,180'
+12832,Russia,AleksandrSamedov,Right Wing,04/05,Premier Liga,spartak-moskau,15,11,"1,55",0,2,0,6,4,0,0,0,0,0,931'
+12833,Russia,AleksandrSamedov,Right Wing,04/05,UI Cup,spartak-moskau,6,5,"1,40",1,3,0,0,3,2,0,0,0,416',540'
+12834,Russia,AleksandrSamedov,Right Wing,03/04,Premier Liga,spartak-moskau,29,29,"1,38",6,3,0,1,7,5,0,0,0,405',360'
+12835,Russia,AleksandrSamedov,Right Wing,03/04,Russian Super Cup,spartak-moskau,1,1,"0,00",0,0,0,0,1,1,0,0,0,0,360'
+12836,Russia,AleksandrSamedov,Right Wing,03/04,UEFA Cup,spartak-moskau,3,2,"1,50",1,0,0,0,1,0,0,0,0,180',2.379'
+12837,Russia,AleksandrSamedov,Right Wing,02/03,Premier Liga,spartak-moskau,12,6,"1,50",0,0,0,4,1,2,0,0,0,0,180'
+12838,Russia,AleksandrSamedov,Right Wing,01/02,Premier Liga,spartak-moskau,3,1,"0,00",0,0,0,0,1,0,0,0,0,0,450'
+13507,Mexico,CarlosVela,Right Wing,17/18,Liga NOS,fc-porto,29,27,"2,74",3,4,0,9,17,5,1,0,0,482',537'
+13508,Mexico,CarlosVela,Right Wing,17/18,Taça de Portugal Placard,fc-porto,4,3,"3,00",0,0,0,0,2,0,0,0,0,0,29'
+13509,Mexico,CarlosVela,Right Wing,17/18,Champions League,fc-porto,8,8,"1,38",0,0,0,5,2,0,0,0,0,0,13'
+13510,Mexico,CarlosVela,Right Wing,17/18,Taça CTT,fc-porto,4,3,"2,33",0,1,0,2,1,0,0,0,0,0,16'
+13511,Mexico,CarlosVela,Right Wing,16/17,Liga NOS,fc-porto,30,29,"2,17",3,6,0,9,15,4,0,0,0,550',2.039'
+13512,Mexico,CarlosVela,Right Wing,16/17,Champions League,fc-porto,7,7,"1,57",1,2,0,4,3,1,0,0,0,318',523'
+13513,Mexico,CarlosVela,Right Wing,16/17,Taça CTT,fc-porto,2,2,"0,50",0,0,0,1,0,0,0,0,0,0,120'
+13514,Mexico,CarlosVela,Right Wing,16/17,Taça de Portugal Placard,fc-porto,1,1,"3,00",1,1,0,1,0,0,0,0,0,25',1.962'
+13515,Mexico,CarlosVela,Right Wing,16/17,Champions League Qualification,fc-porto,2,2,"2,00",1,0,0,1,0,0,0,0,0,105',180'
+13516,Mexico,CarlosVela,Right Wing,15/16,Taça de Portugal Placard,fc-porto,5,1,"3,00",0,0,0,1,0,0,0,0,0,0,168'
+13517,Mexico,CarlosVela,Right Wing,15/16,Liga NOS,fc-porto,30,28,"2,04",8,5,0,2,17,3,0,0,0,254',630'
+13518,Mexico,CarlosVela,Right Wing,15/16,Europa League,fc-porto,2,-,0,0,0,0,0,0,0,0,0,0,0,360'
+13519,Mexico,CarlosVela,Right Wing,15/16,Taça CTT,fc-porto,2,2,"0,00",0,0,0,2,0,0,0,0,0,0,1.754'
+13520,Mexico,CarlosVela,Right Wing,15/16,Champions League,fc-porto,6,4,"1,00",0,0,0,2,1,1,0,0,0,0,235'
+13521,Mexico,CarlosVela,Right Wing,15/16,Eredivisie,fc-twente-enschede,4,4,"0,25",0,0,0,2,1,0,0,0,0,0,25'
+13522,Mexico,CarlosVela,Right Wing,14/15,Eredivisie,fc-twente-enschede,28,27,"1,52",9,4,0,0,10,3,0,0,0,256',90'
+13523,Mexico,CarlosVela,Right Wing,14/15,KNVB Beker,fc-twente-enschede,4,4,"3,00",2,1,0,0,4,1,0,0,0,133',543'
+13524,Mexico,CarlosVela,Right Wing,14/15,Jupiler League,jong-fc-twente-enschede,2,2,"2,00",2,0,0,0,1,0,0,0,0,75',0
+13525,Mexico,CarlosVela,Right Wing,13/14,Eredivisie,fc-twente-enschede,22,15,"1,87",2,0,0,12,3,1,0,0,0,191',120'
+13526,Mexico,CarlosVela,Right Wing,13/14,Jupiler League,jong-fc-twente-enschede,3,3,"2,33",0,0,0,0,2,0,0,0,0,0,1.071'
+13527,Mexico,CarlosVela,Right Wing,13/14,TOTO KNVB beker,fc-twente-enschede,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,1.876'
+13528,Mexico,CarlosVela,Right Wing,12/13,Liguilla Clausura,cf-monterrey,4,4,"1,25",0,0,0,3,0,0,0,0,0,0,2.700'
+13529,Mexico,CarlosVela,Right Wing,12/13,Liga MX Clausura,cf-monterrey,9,9,"1,89",1,0,0,7,0,0,0,0,0,381',1.494'
+13530,Mexico,CarlosVela,Right Wing,12/13,CONCACAF Champions League,cf-monterrey,10,9,"2,56",2,2,0,4,4,1,0,0,0,220',1.344'
+13531,Mexico,CarlosVela,Right Wing,12/13,Club World Cup,cf-monterrey,3,3,"2,00",2,0,0,0,2,0,0,0,0,122',540'
+13532,Mexico,CarlosVela,Right Wing,12/13,Liguilla Apertura,cf-monterrey,2,2,"0,50",0,0,0,1,1,0,0,0,0,0,2.951'
+13533,Mexico,CarlosVela,Right Wing,12/13,Liga MX Apertura,cf-monterrey,13,11,"1,09",0,2,0,7,1,2,0,0,0,0,623'
+13534,Mexico,CarlosVela,Right Wing,11/12,Liguilla Clausura,cf-monterrey,1,-,0,0,0,0,0,0,0,0,0,0,0,997'
+13535,Mexico,CarlosVela,Right Wing,11/12,Liga MX Clausura,cf-monterrey,5,2,"2,00",0,0,0,1,0,1,0,0,0,0,149'
+13536,Mexico,CarlosVela,Right Wing,11/12,Club World Cup,cf-monterrey,2,-,0,0,0,0,0,0,0,0,0,0,0,418'
+13537,Mexico,CarlosVela,Right Wing,11/12,PD Apertura,cf-monterrey,14,8,"0,88",1,0,0,8,0,1,0,0,0,127',90'
+13538,Mexico,CarlosVela,Right Wing,11/12,CONCACAF Champions League,cf-monterrey,5,3,"2,00",1,2,0,0,2,0,0,0,0,227',2.793'
+13539,Mexico,CarlosVela,Right Wing,10/11,Liguilla Clausura,cf-monterrey,1,-,0,0,0,0,0,0,0,0,0,0,0,90'
+13540,Mexico,CarlosVela,Right Wing,10/11,Liga MX Clausura,cf-monterrey,3,-,0,0,0,0,0,0,0,0,0,0,0,450'
+13541,Mexico,CarlosVela,Right Wing,10/11,CONCACAF Champions League,cf-monterrey,2,2,"3,00",0,0,0,2,0,0,0,0,0,0,2.492'
+13542,Mexico,CarlosVela,Right Wing,10/11,PD Apertura,cf-monterrey,2,1,"3,00",0,0,0,0,1,0,0,0,0,0,197'
+13543,Mexico,GiovanidosSantos,Right Wing,2018,MLS,los-angeles-football-club,12,12,"1,75",7,2,0,0,0,1,0,0,1,154',440'
+13544,Mexico,GiovanidosSantos,Right Wing,17/18,LaLiga,real-sociedad-san-sebastian,13,13,"1,46",1,1,0,11,1,0,0,0,0,372',2.354'
+13545,Mexico,GiovanidosSantos,Right Wing,17/18,Europa League,real-sociedad-san-sebastian,4,2,"3,00",0,0,0,1,0,0,0,0,0,0,374'
+13546,Mexico,GiovanidosSantos,Right Wing,17/18,Copa del Rey,real-sociedad-san-sebastian,2,2,"1,50",0,0,0,1,0,1,0,0,0,0,727'
+13547,Mexico,GiovanidosSantos,Right Wing,16/17,LaLiga,real-sociedad-san-sebastian,36,35,"1,63",9,5,0,4,19,6,0,0,3,285',1.390'
+13548,Mexico,GiovanidosSantos,Right Wing,16/17,Copa del Rey,real-sociedad-san-sebastian,5,4,"1,50",1,0,0,0,4,1,0,0,0,262',404'
+13549,Mexico,GiovanidosSantos,Right Wing,15/16,LaLiga,real-sociedad-san-sebastian,35,35,"1,20",5,4,0,3,13,5,0,0,0,552',90'
+13550,Mexico,GiovanidosSantos,Right Wing,15/16,Copa del Rey,real-sociedad-san-sebastian,1,1,"1,00",0,0,0,1,0,0,0,0,0,0,1.245'
+13551,Mexico,GiovanidosSantos,Right Wing,14/15,LaLiga,real-sociedad-san-sebastian,29,29,"1,14",9,3,0,6,12,5,0,0,1,229',0
+13552,Mexico,GiovanidosSantos,Right Wing,14/15,Copa del Rey,real-sociedad-san-sebastian,1,1,"1,00",1,1,0,0,0,1,0,0,0,90',0
+13553,Mexico,GiovanidosSantos,Right Wing,14/15,Europa League,real-sociedad-san-sebastian,2,2,"1,50",0,0,0,2,0,0,0,0,0,0,55'
+13554,Mexico,GiovanidosSantos,Right Wing,13/14,LaLiga,real-sociedad-san-sebastian,38,37,"1,59",16,12,0,2,7,4,0,0,2,194',810'
+13555,Mexico,GiovanidosSantos,Right Wing,13/14,Copa del Rey,real-sociedad-san-sebastian,7,7,"1,71",2,0,0,3,2,2,0,0,0,191',287'
+13556,Mexico,GiovanidosSantos,Right Wing,13/14,Champions League,real-sociedad-san-sebastian,6,6,"0,17",1,0,0,0,1,2,0,0,0,524',1.974'
+13557,Mexico,GiovanidosSantos,Right Wing,13/14,Champions League Qualification,real-sociedad-san-sebastian,2,2,"3,00",2,1,0,0,0,1,0,0,0,90',414'
+13558,Mexico,GiovanidosSantos,Right Wing,12/13,LaLiga,real-sociedad-san-sebastian,35,35,"1,80",14,11,0,3,17,10,0,0,4,193',974'
+13559,Mexico,GiovanidosSantos,Right Wing,12/13,Copa del Rey,real-sociedad-san-sebastian,2,2,"0,50",0,0,0,2,0,0,0,0,0,0,1.462'
+13560,Mexico,GiovanidosSantos,Right Wing,11/12,LaLiga,real-sociedad-san-sebastian,35,35,"1,34",12,7,0,7,15,2,0,0,0,207',461'
+13561,Mexico,GiovanidosSantos,Right Wing,11/12,Copa del Rey,real-sociedad-san-sebastian,2,2,"1,50",0,0,0,1,0,0,0,0,0,0,433'
+13562,Mexico,GiovanidosSantos,Right Wing,10/11,Premier League,west-bromwich-albion,12,8,"0,88",2,1,0,5,2,0,0,0,0,159',25'
+13563,Mexico,GiovanidosSantos,Right Wing,10/11,Reserve League,fc-arsenal-u21,2,2,"3,00",1,0,0,0,1,0,0,0,1,168',2.081'
+13564,Mexico,GiovanidosSantos,Right Wing,10/11,Premier League,fc-arsenal,11,4,"1,50",1,0,0,4,0,0,0,0,0,61',591'
+13565,Mexico,GiovanidosSantos,Right Wing,10/11,League Cup,fc-arsenal,4,4,"2,25",0,1,0,1,2,1,0,0,0,0,604'
+13566,Mexico,GiovanidosSantos,Right Wing,10/11,FA Cup,fc-arsenal,1,1,"1,00",0,0,0,1,0,0,0,0,0,0,932'
+13567,Mexico,GiovanidosSantos,Right Wing,10/11,Champions League,fc-arsenal,5,4,"1,50",2,0,0,4,0,1,0,0,0,42',1.701'
+13568,Mexico,GiovanidosSantos,Right Wing,09/10,Premier League,fc-arsenal,20,11,"2,00",1,0,0,10,1,0,0,0,0,225',225'
+13569,Mexico,GiovanidosSantos,Right Wing,09/10,Champions League,fc-arsenal,5,5,"1,40",0,0,0,3,0,1,0,0,0,0,2.277'
+13570,Mexico,GiovanidosSantos,Right Wing,09/10,FA Cup,fc-arsenal,2,2,"1,50",0,2,0,0,0,0,0,0,0,0,90'
+13571,Mexico,GiovanidosSantos,Right Wing,09/10,League Cup,fc-arsenal,2,2,"1,50",1,1,0,1,0,0,0,0,0,122',1.411'
+13572,Mexico,GiovanidosSantos,Right Wing,08/09,Premier League,fc-arsenal,32,14,"1,57",1,1,0,12,1,1,0,0,0,420',549'
+13573,Mexico,GiovanidosSantos,Right Wing,08/09,Champions League,fc-arsenal,11,8,"1,75",0,0,0,6,1,0,0,0,0,0,1.060'
+13574,Mexico,GiovanidosSantos,Right Wing,08/09,FA Cup,fc-arsenal,5,4,"3,00",1,1,0,1,3,0,0,0,0,215',252'
+13575,Mexico,GiovanidosSantos,Right Wing,08/09,League Cup,fc-arsenal,3,3,"2,00",4,2,0,0,1,0,0,0,0,66',1.461'
+13576,Mexico,GiovanidosSantos,Right Wing,08/09,Champions League Qualification,fc-arsenal,2,-,0,0,0,0,0,0,0,0,0,0,0,90'
+13577,Mexico,GiovanidosSantos,Right Wing,07/08,LaLiga,ca-osasuna,35,33,"1,24",3,4,0,12,14,5,0,0,0,669',543'
+13578,Mexico,GiovanidosSantos,Right Wing,06/07,LaLiga2,ud-salamanca,1,1,"3,00",0,0,0,0,0,0,0,0,0,0,345'
+14559,Morocco,MehdiCarcelaGonzález,Right Wing,17/18,JPL Playoff I,standard-luttich,10,10,"2,10",3,6,0,1,5,0,0,0,0,278',1.352'
+14560,Morocco,MehdiCarcelaGonzález,Right Wing,17/18,Beker van Belgie,standard-luttich,2,2,"1,50",0,1,0,1,1,1,0,0,0,0,115'
+14561,Morocco,MehdiCarcelaGonzález,Right Wing,17/18,Jupiler Pro League,standard-luttich,6,6,"2,33",2,3,0,2,2,1,0,0,0,212',477'
+14562,Morocco,MehdiCarcelaGonzález,Right Wing,17/18,Kypello Elladas,olympiakos-piraus,2,2,"2,00",0,1,0,0,1,1,0,0,0,0,1.116'
+14563,Morocco,MehdiCarcelaGonzález,Right Wing,17/18,Champions League,olympiakos-piraus,4,4,"0,25",0,0,0,0,4,0,0,0,0,0,95'
+14564,Morocco,MehdiCarcelaGonzález,Right Wing,17/18,Super League,olympiakos-piraus,11,6,"0,83",0,0,0,2,4,0,0,0,0,0,300'
+14565,Morocco,MehdiCarcelaGonzález,Right Wing,17/18,Champions League Qualification,olympiakos-piraus,4,4,"2,50",1,0,0,0,1,1,0,0,0,350',2.398'
+14566,Morocco,MehdiCarcelaGonzález,Right Wing,16/17,LaLiga,fc-granada,23,22,"0,73",5,1,0,2,7,6,0,0,0,350',180'
+14567,Morocco,MehdiCarcelaGonzález,Right Wing,16/17,Copa del Rey,fc-granada,2,2,"1,50",0,0,0,2,0,0,0,0,0,0,2.732'
+14568,Morocco,MehdiCarcelaGonzález,Right Wing,15/16,Taça CTT,benfica-lissabon,5,4,"3,00",0,1,0,1,2,0,0,0,0,0,425'
+14569,Morocco,MehdiCarcelaGonzález,Right Wing,15/16,Liga NOS,benfica-lissabon,28,20,"2,60",2,6,0,14,3,1,0,0,0,406',90'
+14570,Morocco,MehdiCarcelaGonzález,Right Wing,15/16,Champions League,benfica-lissabon,6,4,"1,75",0,0,0,3,0,1,0,0,0,0,2.701'
+14571,Morocco,MehdiCarcelaGonzález,Right Wing,15/16,Taça de Portugal Placard,benfica-lissabon,2,1,"3,00",1,0,0,0,1,0,0,0,0,119',270'
+14572,Morocco,MehdiCarcelaGonzález,Right Wing,14/15,JPL Playoff I,standard-luttich,9,9,"1,44",0,1,0,0,3,0,0,0,0,0,210'
+14573,Morocco,MehdiCarcelaGonzález,Right Wing,14/15,Jupiler Pro League,standard-luttich,11,11,"2,27",3,1,0,2,6,2,0,0,0,272',507'
+14574,Morocco,MehdiCarcelaGonzález,Right Wing,14/15,Europa League,standard-luttich,1,1,"3,00",0,0,0,0,1,0,0,0,0,0,906'
+14575,Morocco,MehdiCarcelaGonzález,Right Wing,14/15,Champions League Qualification,standard-luttich,2,2,"2,00",0,0,0,0,1,1,0,0,0,0,762'
+14576,Morocco,MehdiCarcelaGonzález,Right Wing,13/14,JPL Playoff I,standard-luttich,9,9,"1,56",2,1,0,0,5,0,0,1,0,373',929'
+14577,Morocco,MehdiCarcelaGonzález,Right Wing,13/14,Jupiler Pro League,standard-luttich,20,16,"1,88",1,2,0,7,5,4,0,1,0,796',1.002'
+14578,Morocco,MehdiCarcelaGonzález,Right Wing,13/14,Beker van Belgie,standard-luttich,2,2,"1,50",0,0,0,1,0,0,0,0,0,0,344'
+14579,Morocco,MehdiCarcelaGonzález,Right Wing,13/14,Europa League,standard-luttich,3,3,"0,33",0,0,0,0,2,0,1,0,0,0,768'
+14580,Morocco,MehdiCarcelaGonzález,Right Wing,13/14,Premier Liga,anzhi-makhachkala,5,3,"0,00",0,0,0,2,1,0,0,0,0,0,390'
+14581,Morocco,MehdiCarcelaGonzález,Right Wing,12/13,Russian Cup,anzhi-makhachkala,5,2,"3,00",0,0,0,0,1,0,0,0,0,0,390'
+14582,Morocco,MehdiCarcelaGonzález,Right Wing,12/13,Premier Liga,anzhi-makhachkala,27,20,"1,75",1,6,0,11,4,2,0,0,0,1.032',118'
+14583,Morocco,MehdiCarcelaGonzález,Right Wing,12/13,Europa League,anzhi-makhachkala,12,12,"1,75",1,1,0,7,2,2,1,0,0,543',1.183'
+14584,Morocco,MehdiCarcelaGonzález,Right Wing,12/13,Europa League Qualifiers,anzhi-makhachkala,2,2,"3,00",0,0,0,1,0,0,0,0,0,0,79'
+14585,Morocco,MehdiCarcelaGonzález,Right Wing,10/11,Premier Liga,anzhi-makhachkala,12,8,"1,63",0,1,0,5,2,1,0,0,0,0,1.530'
+14586,Morocco,MehdiCarcelaGonzález,Right Wing,10/11,JPL Playoff I,standard-luttich,9,8,"2,50",3,3,0,0,8,0,0,0,0,216',226'
+14587,Morocco,MehdiCarcelaGonzález,Right Wing,10/11,Beker van Belgie,standard-luttich,6,6,"2,50",1,2,0,1,2,1,0,0,0,477',1.080'
+14588,Morocco,MehdiCarcelaGonzález,Right Wing,10/11,Jupiler Pro League,standard-luttich,30,30,"1,63",10,5,0,4,4,3,0,0,0,240',90'
+14589,Morocco,MehdiCarcelaGonzález,Right Wing,09/10,JPL Playoff II,standard-luttich,5,5,"1,60",0,3,0,2,1,0,0,0,0,0,1.440'
+14590,Morocco,MehdiCarcelaGonzález,Right Wing,09/10,Europa League,standard-luttich,5,5,"1,40",0,0,0,2,1,1,0,0,0,0,540'
+14591,Morocco,MehdiCarcelaGonzález,Right Wing,09/10,Jupiler Pro League,standard-luttich,29,27,"1,37",5,3,0,5,12,2,0,0,0,385',3.046'
+14592,Morocco,MehdiCarcelaGonzález,Right Wing,09/10,Beker van Belgie,standard-luttich,2,2,"1,50",0,0,0,1,0,0,0,0,0,0,120'
+14593,Morocco,MehdiCarcelaGonzález,Right Wing,09/10,Champions League,standard-luttich,5,5,"0,80",0,0,0,1,1,0,0,1,0,0,540'
+14594,Morocco,MehdiCarcelaGonzález,Right Wing,09/10,Belgian Supercup,standard-luttich,1,1,"3,00",0,1,0,1,0,0,0,0,0,0,2.972'
+14595,Morocco,MehdiCarcelaGonzález,Right Wing,08/09,Jupiler Pro League playoff Europa League,standard-luttich,2,1,"1,00",0,1,0,0,1,0,0,0,0,0,179'
+14596,Morocco,MehdiCarcelaGonzález,Right Wing,08/09,Jupiler Pro League,standard-luttich,25,12,"2,58",0,1,0,6,3,0,0,0,0,0,90'
+14597,Morocco,MehdiCarcelaGonzález,Right Wing,08/09,UEFA Cup,standard-luttich,4,2,"0,50",0,0,0,2,0,0,0,0,0,0,652'
+14598,Morocco,MehdiCarcelaGonzález,Right Wing,08/09,Beker van Belgie,standard-luttich,1,-,0,0,0,0,0,0,0,0,0,0,0,360'
+14599,Morocco,NordinAmrabat,Right Wing,17/18,LaLiga,cd-leganes,30,30,"1,03",2,3,0,13,10,5,1,0,0,810',2.690'
+14600,Morocco,NordinAmrabat,Right Wing,17/18,Copa del Rey,cd-leganes,6,5,"1,40",1,0,0,1,4,1,0,0,0,296',745'
+14601,Morocco,NordinAmrabat,Right Wing,17/18,Premier League,fc-watford,3,3,"1,67",0,0,0,0,2,0,0,0,0,0,62'
+14602,Morocco,NordinAmrabat,Right Wing,17/18,EFL Cup,fc-watford,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,281'
+14603,Morocco,NordinAmrabat,Right Wing,16/17,Premier League,fc-watford,29,29,"0,97",0,3,0,4,14,4,0,0,0,0,612'
+14604,Morocco,NordinAmrabat,Right Wing,15/16,Premier League,fc-watford,16,12,"1,00",0,0,0,8,2,2,1,0,0,0,360'
+14605,Morocco,NordinAmrabat,Right Wing,15/16,FA Cup,fc-watford,3,3,"3,00",0,0,0,1,2,1,0,0,0,0,4'
+14606,Morocco,NordinAmrabat,Right Wing,15/16,LaLiga,fc-malaga,13,13,"1,31",0,1,0,0,8,5,0,1,0,0,1.113'
+14607,Morocco,NordinAmrabat,Right Wing,15/16,Copa del Rey,fc-malaga,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,360'
+14608,Morocco,NordinAmrabat,Right Wing,14/15,LaLiga,fc-malaga,31,31,"1,23",6,6,0,11,6,7,0,0,2,341',44'
+14609,Morocco,NordinAmrabat,Right Wing,14/15,Copa del Rey,fc-malaga,5,4,"1,75",0,1,0,2,0,1,0,0,0,0,2.117'
+14610,Morocco,NordinAmrabat,Right Wing,14/15,Turkcell Süper Kupa,galatasaray-istanbul,1,-,0,0,0,0,0,0,0,0,0,0,0,180'
+14611,Morocco,NordinAmrabat,Right Wing,13/14,LaLiga,fc-malaga,15,15,"1,60",2,5,0,0,4,1,0,1,1,657',31'
+14612,Morocco,NordinAmrabat,Right Wing,13/14,Süper Lig,galatasaray-istanbul,4,4,"1,00",0,0,0,3,2,0,0,0,0,0,432'
+14613,Morocco,NordinAmrabat,Right Wing,13/14,Türkiye Kupasi,galatasaray-istanbul,3,3,"3,00",2,0,0,1,0,0,0,0,0,118',134'
+14614,Morocco,NordinAmrabat,Right Wing,13/14,Champions League,galatasaray-istanbul,5,5,"0,80",0,1,0,4,1,1,0,0,0,0,972'
+14615,Morocco,NordinAmrabat,Right Wing,13/14,Turkcell Süper Kupa,galatasaray-istanbul,1,1,"3,00",0,0,0,0,1,1,0,0,0,0,1.091'
+14616,Morocco,NordinAmrabat,Right Wing,12/13,Süper Lig,galatasaray-istanbul,31,30,"2,07",1,7,0,17,9,6,0,0,0,1.465',1.530'
+14617,Morocco,NordinAmrabat,Right Wing,12/13,Champions League,galatasaray-istanbul,10,10,"1,70",0,3,0,6,3,3,0,0,0,0,270'
+14618,Morocco,NordinAmrabat,Right Wing,12/13,Türkiye Kupasi,galatasaray-istanbul,2,2,"1,50",0,0,0,2,0,0,0,0,0,0,45'
+14619,Morocco,NordinAmrabat,Right Wing,12/13,Turkcell Süper Kupa,galatasaray-istanbul,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,920'
+14620,Morocco,NordinAmrabat,Right Wing,11/12,Türkiye Kupasi,kayserispor,2,2,"1,50",1,0,0,0,1,1,1,0,0,190',179'
+14621,Morocco,NordinAmrabat,Right Wing,11/12,Süper Lig,kayserispor,24,24,"1,25",5,8,0,1,7,7,0,0,1,404',2.496'
+14622,Morocco,NordinAmrabat,Right Wing,10/11,Süper Lig,kayserispor,14,14,"1,29",1,6,0,1,4,4,0,0,0,1.152',360'
+14623,Morocco,NordinAmrabat,Right Wing,10/11,Europa League,psv-eindhoven,5,3,"1,67",0,0,0,2,1,0,0,0,0,0,105'
+14624,Morocco,NordinAmrabat,Right Wing,10/11,Eredivisie,psv-eindhoven,17,6,"1,83",1,0,0,6,0,1,0,0,0,118',610'
+14625,Morocco,NordinAmrabat,Right Wing,10/11,TOTO KNVB beker,psv-eindhoven,2,2,"3,00",1,1,0,0,0,1,0,0,0,180',955'
+14626,Morocco,NordinAmrabat,Right Wing,10/11,Europa League Qualifiers,psv-eindhoven,2,2,"1,50",0,0,0,1,0,0,0,0,0,0,90'
+14627,Morocco,NordinAmrabat,Right Wing,09/10,Eredivisie,psv-eindhoven,31,26,"2,15",3,5,0,17,6,1,0,0,0,358',360'
+14628,Morocco,NordinAmrabat,Right Wing,09/10,Europa League,psv-eindhoven,7,1,"3,00",1,0,0,1,0,0,0,0,0,44',273'
+14629,Morocco,NordinAmrabat,Right Wing,09/10,TOTO KNVB beker,psv-eindhoven,3,3,"2,00",1,0,0,1,1,0,0,0,0,196',1.422'
+14630,Morocco,NordinAmrabat,Right Wing,09/10,Europa League Qualifiers,psv-eindhoven,4,3,"3,00",0,0,0,1,2,0,0,0,0,0,210'
+14631,Morocco,NordinAmrabat,Right Wing,08/09,Eredivisie,psv-eindhoven,25,25,"2,08",5,4,0,4,15,6,0,0,0,359',387'
+14632,Morocco,NordinAmrabat,Right Wing,08/09,Champions League,psv-eindhoven,4,3,"0,00",0,0,0,0,1,1,0,0,0,0,44'
+14633,Morocco,NordinAmrabat,Right Wing,08/09,TOTO KNVB beker,psv-eindhoven,1,1,"3,00",0,1,0,0,1,0,0,0,0,0,188'
+14634,Morocco,NordinAmrabat,Right Wing,08/09,Johan Cruijff Schaal,psv-eindhoven,1,1,"3,00",0,0,0,0,0,0,0,0,0,0,1.165'
+14635,Morocco,NordinAmrabat,Right Wing,07/08,Eredivisie,vvv-venlo,33,33,"0,88",10,7,0,2,9,6,0,0,1,277',209'
+14636,Morocco,NordinAmrabat,Right Wing,06/07,Jupiler League,almere-city-fc,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,402'
+16248,Iceland,JohannBergGudmundsson,Right Wing,17/18,Premier League,fc-burnley,36,35,"1,29",2,8,0,3,9,2,0,0,0,1.420',360'
+16249,Iceland,JohannBergGudmundsson,Right Wing,17/18,FA Cup,fc-burnley,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,768'
+16250,Iceland,JohannBergGudmundsson,Right Wing,17/18,EFL Cup,fc-burnley,2,2,"1,50",0,0,0,1,0,1,0,0,0,0,270'
+16251,Iceland,JohannBergGudmundsson,Right Wing,16/17,Premier League,fc-burnley,24,20,"1,05",1,2,0,10,7,1,0,0,0,995',348'
+16252,Iceland,JohannBergGudmundsson,Right Wing,16/17,FA Cup,fc-burnley,3,3,"1,33",0,1,0,0,2,0,0,0,0,0,180'
+16253,Iceland,JohannBergGudmundsson,Right Wing,16/17,EFL Cup,fc-burnley,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,76'
+16254,Iceland,JohannBergGudmundsson,Right Wing,15/16,Championship,charlton-athletic,40,40,"0,95",6,12,0,1,13,5,0,0,0,560',186'
+16255,Iceland,JohannBergGudmundsson,Right Wing,15/16,League Cup,charlton-athletic,3,2,"1,50",0,1,0,2,0,0,0,0,0,0,45'
+16256,Iceland,JohannBergGudmundsson,Right Wing,14/15,Championship,charlton-athletic,41,41,"1,20",10,4,0,3,13,2,0,0,1,333',90'
+16257,Iceland,JohannBergGudmundsson,Right Wing,14/15,FA Cup,charlton-athletic,1,1,"0,00",1,0,0,0,1,1,0,0,0,84',2.028'
+16258,Iceland,JohannBergGudmundsson,Right Wing,14/15,League Cup,charlton-athletic,2,2,"1,50",0,0,0,2,0,0,0,0,0,0,500'
+16259,Iceland,JohannBergGudmundsson,Right Wing,13/14,Play-Offs Europa League,az-alkmaar,4,4,"1,00",0,0,0,0,0,1,0,0,0,0,1.293'
+16260,Iceland,JohannBergGudmundsson,Right Wing,13/14,Eredivisie,az-alkmaar,34,31,"1,39",3,1,0,13,8,3,0,0,0,574',360'
+16261,Iceland,JohannBergGudmundsson,Right Wing,13/14,Europa League,az-alkmaar,14,13,"1,69",5,0,0,5,1,0,0,0,0,178',90'
+16262,Iceland,JohannBergGudmundsson,Right Wing,13/14,TOTO KNVB beker,az-alkmaar,5,4,"2,25",0,1,0,3,1,0,0,0,0,0,1.046'
+16263,Iceland,JohannBergGudmundsson,Right Wing,13/14,Johan Cruijff Schaal,az-alkmaar,1,1,"0,00",1,0,0,0,1,0,0,0,0,98',134'
+16264,Iceland,JohannBergGudmundsson,Right Wing,12/13,Eredivisie,az-alkmaar,32,31,"1,13",2,6,0,13,12,1,0,1,0,810',910'
+16265,Iceland,JohannBergGudmundsson,Right Wing,12/13,TOTO KNVB beker,az-alkmaar,6,6,"3,00",4,1,0,2,1,1,0,0,0,96',270'
+16266,Iceland,JohannBergGudmundsson,Right Wing,12/13,Beloften Eerste Divisie,jong-az-alkmaar,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,173'
+16267,Iceland,JohannBergGudmundsson,Right Wing,12/13,Beloften Eredivisie,jong-az-alkmaar,3,3,"0,00",0,0,0,0,1,0,0,0,0,0,1.298'
+16268,Iceland,JohannBergGudmundsson,Right Wing,12/13,Europa League,az-alkmaar,2,1,"0,00",0,0,0,1,0,0,0,0,0,0,360'
+16269,Iceland,JohannBergGudmundsson,Right Wing,11/12,Eredivisie,az-alkmaar,34,30,"1,77",3,2,0,21,5,0,0,0,0,383',360'
+16270,Iceland,JohannBergGudmundsson,Right Wing,11/12,Europa League,az-alkmaar,14,11,"1,45",0,0,0,6,3,2,0,0,0,0,930'
+16271,Iceland,JohannBergGudmundsson,Right Wing,11/12,TOTO KNVB beker,az-alkmaar,5,4,"2,25",2,0,0,1,1,0,0,0,0,166',480'
+16272,Iceland,JohannBergGudmundsson,Right Wing,11/12,Europa League Qualifiers,az-alkmaar,2,2,"2,00",1,0,0,2,0,0,0,0,0,44',192'
+16273,Iceland,JohannBergGudmundsson,Right Wing,10/11,Eredivisie,az-alkmaar,28,23,"1,65",1,2,0,4,16,0,0,0,0,1.366',1.481'
+16274,Iceland,JohannBergGudmundsson,Right Wing,10/11,Europa League,az-alkmaar,5,5,"1,20",1,2,0,3,2,0,0,0,0,219',150'
+16275,Iceland,JohannBergGudmundsson,Right Wing,10/11,TOTO KNVB beker,az-alkmaar,2,2,"3,00",1,0,0,1,1,2,0,0,0,125',585'
+16276,Iceland,JohannBergGudmundsson,Right Wing,10/11,Europa League Qualifiers,az-alkmaar,4,4,"1,50",1,0,0,0,1,0,0,0,0,338',388'
+16277,Iceland,JohannBergGudmundsson,Right Wing,2008,Landsbankadeild,breidablik-kopavogur,22,22,"1,36",6,0,0,0,9,2,1,0,1,298',0
+16278,Iceland,AlbertGudmundsson,Right Wing,17/18,Eredivisie,psv-eindhoven,33,9,"2,56",0,3,0,8,1,0,0,0,0,0,348'
+16279,Iceland,AlbertGudmundsson,Right Wing,17/18,Jupiler League,jong-psv-eindhoven,15,15,"2,00",9,8,0,0,9,2,0,1,4,137',107'
+16280,Iceland,AlbertGudmundsson,Right Wing,17/18,TOTO KNVB beker,psv-eindhoven,4,3,"3,00",0,1,0,2,1,0,0,0,0,0,352'
+16281,Iceland,AlbertGudmundsson,Right Wing,16/17,Eredivisie,psv-eindhoven,1,-,0,0,0,0,0,0,0,0,0,0,0,5'
+16282,Iceland,AlbertGudmundsson,Right Wing,16/17,Jupiler League,jong-psv-eindhoven,36,34,"1,88",18,4,0,4,16,3,0,0,0,147',689'
+16283,Iceland,AlbertGudmundsson,Right Wing,15/16,Jupiler League,jong-psv-eindhoven,19,14,"1,57",1,2,0,4,9,0,0,0,0,797',0
+16284,Iceland,AlbertGudmundsson,Right Wing,15/16,U19 Eredivisie,-rjo-psv-eindhoven-u19,2,2,"1,50",0,0,0,0,1,0,0,0,0,0,761'
+16285,Iceland,AlbertGudmundsson,Right Wing,15/16,UEFA Youth League,psv-eindhoven-uefa-u19,7,7,"1,43",2,1,0,0,4,0,0,0,0,284',324'
+16286,Iceland,AlbertGudmundsson,Right Wing,15/16,Preliminary round U19 Eredivisie,-rjo-psv-eindhoven-u19,9,8,"1,63",2,3,0,0,3,0,0,0,0,342',606'
+16287,Iceland,AlbertGudmundsson,Right Wing,14/15,U19 Cup Netherlands,-va-sc-heerenveen-u19,3,3,"3,00",0,0,0,0,0,0,0,0,0,0,779'
+16288,Iceland,AlbertGudmundsson,Right Wing,14/15,Beloften Eredivisie,jong-sc-heerenveen,9,9,"1,44",1,1,0,3,3,0,0,0,0,566',723'
+16289,Iceland,AlbertGudmundsson,Right Wing,14/15,U19 Eredivisie,-va-sc-heerenveen-u19,3,3,"0,00",1,0,0,0,0,0,0,1,0,270',172'
+16290,Iceland,AlbertGudmundsson,Right Wing,14/15,Preliminary round U19 Eredivisie,-va-sc-heerenveen-u19,7,7,"1,86",1,0,0,0,0,0,0,0,0,630',262'
+16291,Iceland,AlbertGudmundsson,Right Wing,14/15,BeloftenPreliminary Round,jong-sc-heerenveen,4,3,"2,00",0,1,0,3,0,0,0,0,0,0,737'
+16292,Iceland,AlbertGudmundsson,Right Wing,13/14,U19 Eredivisie,-va-sc-heerenveen-u19,2,2,"3,00",0,0,0,0,0,0,0,0,0,0,16'
+16293,Iceland,AlbertGudmundsson,Right Wing,2013,Lengjubikarinn,kr-reykjavik,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,1.155'
+16294,Iceland,RúrikGíslason,Right Wing,17/18,2.Bundesliga,sv-sandhausen,15,15,"1,07",3,0,0,1,3,2,0,0,0,420',244'
+16295,Iceland,RúrikGíslason,Right Wing,17/18,DFB-Pokal,1-fc-nurnberg,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,508'
+16296,Iceland,RúrikGíslason,Right Wing,17/18,2.Bundesliga,1-fc-nurnberg,5,4,"1,75",0,0,0,3,1,0,0,0,0,0,90'
+16297,Iceland,RúrikGíslason,Right Wing,16/17,2.Bundesliga,1-fc-nurnberg,22,15,"0,67",0,1,0,12,2,1,0,0,0,0,37'
+16298,Iceland,RúrikGíslason,Right Wing,16/17,Regionalliga Bayern,1-fc-nurnberg-ii,2,2,"2,00",0,0,0,0,0,1,0,0,0,0,2.021'
+16299,Iceland,RúrikGíslason,Right Wing,16/17,DFB-Pokal,1-fc-nurnberg,2,1,"3,00",0,0,0,1,0,0,0,0,0,0,105'
+16300,Iceland,RúrikGíslason,Right Wing,15/16,Bundesliga Playoffs,1-fc-nurnberg,2,2,"0,50",0,0,0,2,0,0,0,0,0,0,2.000'
+16301,Iceland,RúrikGíslason,Right Wing,15/16,2.Bundesliga,1-fc-nurnberg,17,11,"1,82",0,0,0,5,5,2,0,0,0,0,67'
+16302,Iceland,RúrikGíslason,Right Wing,15/16,Regionalliga Bayern,1-fc-nurnberg-ii,4,4,"1,75",1,0,0,1,2,2,0,0,0,257',0
+16303,Iceland,RúrikGíslason,Right Wing,15/16,DFB-Pokal,1-fc-nurnberg,1,1,"3,00",0,0,0,0,1,0,0,0,0,0,343'
+16304,Iceland,RúrikGíslason,Right Wing,14/15,Superligaen,fc-kopenhagen,27,25,"2,24",1,0,0,6,15,2,0,0,0,1.466',1.351'
+16305,Iceland,RúrikGíslason,Right Wing,14/15,DBU Landspokal,fc-kopenhagen,4,3,"3,00",0,0,0,1,2,0,0,0,0,0,1.422'
+16306,Iceland,RúrikGíslason,Right Wing,14/15,Europa League,fc-kopenhagen,5,5,"0,80",0,0,0,1,2,2,0,0,0,0,240'
+16307,Iceland,RúrikGíslason,Right Wing,14/15,Champions League Qualification,fc-kopenhagen,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,180'
+16308,Iceland,RúrikGíslason,Right Wing,13/14,Superligaen,fc-kopenhagen,29,29,"1,62",4,4,0,6,17,4,0,0,0,482',1.415'
+16309,Iceland,RúrikGíslason,Right Wing,13/14,DBU Landspokal,fc-kopenhagen,6,6,"2,17",1,0,0,2,1,1,0,0,0,386',73'
+16310,Iceland,RúrikGíslason,Right Wing,13/14,Champions League,fc-kopenhagen,6,6,"0,67",0,1,0,1,2,0,0,0,0,0,1.398'
+16311,Iceland,RúrikGíslason,Right Wing,12/13,Superligaen,fc-kopenhagen,21,14,"1,86",0,2,0,7,3,1,0,0,0,0,180'
+16312,Iceland,RúrikGíslason,Right Wing,12/13,Europa League,fc-kopenhagen,5,4,"1,25",1,0,0,0,3,0,0,0,0,316',1.574'
+16313,Iceland,RúrikGíslason,Right Wing,12/13,DBU Landspokal,fc-kopenhagen,3,2,"1,50",0,0,0,0,0,1,0,0,0,0,143'
+16314,Iceland,RúrikGíslason,Right Wing,12/13,Superligaen,odense-boldklub,8,8,"1,75",2,1,0,1,0,3,0,0,0,330',1.347'
+16315,Iceland,RúrikGíslason,Right Wing,11/12,Superligaen,odense-boldklub,31,29,"1,07",0,2,0,9,7,2,0,0,0,0,210'
+16316,Iceland,RúrikGíslason,Right Wing,11/12,Europa League,odense-boldklub,6,5,"0,80",0,0,0,2,1,1,0,0,0,0,418'
+16317,Iceland,RúrikGíslason,Right Wing,11/12,DBU Landspokal,odense-boldklub,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,1.389'
+16318,Iceland,RúrikGíslason,Right Wing,11/12,Champions League Qualification,odense-boldklub,3,3,"1,33",0,0,0,1,3,1,0,0,0,0,180'
+16319,Iceland,RúrikGíslason,Right Wing,10/11,Superligaen,odense-boldklub,22,22,"1,59",5,2,0,3,6,3,0,0,0,325',103'
+16320,Iceland,RúrikGíslason,Right Wing,10/11,Europa League,odense-boldklub,5,4,"0,75",0,0,0,1,2,1,0,0,0,0,180'
+16321,Iceland,RúrikGíslason,Right Wing,10/11,DBU Landspokal,odense-boldklub,1,1,"0,00",0,0,0,0,1,1,0,0,0,0,1.563'
+16322,Iceland,RúrikGíslason,Right Wing,10/11,Europa League Qualifiers,odense-boldklub,4,4,"2,50",1,0,0,0,2,1,0,0,0,299',180'
+16323,Iceland,RúrikGíslason,Right Wing,09/10,Superligaen,odense-boldklub,28,28,"1,96",3,1,0,4,7,4,0,0,0,714',270'
+16324,Iceland,RúrikGíslason,Right Wing,09/10,DBU Landspokal,odense-boldklub,3,3,"1,33",0,1,0,0,0,0,0,0,0,0,1.110'
+16325,Iceland,RúrikGíslason,Right Wing,09/10,Europa League Qualifiers,odense-boldklub,4,4,"1,75",1,1,0,1,0,0,0,0,0,303',504'
+16326,Iceland,RúrikGíslason,Right Wing,08/09,1. Division,viborg-ff,20,20,"1,75",15,1,0,0,6,2,0,0,0,111',1.197'
+16327,Iceland,RúrikGíslason,Right Wing,08/09,DBU Landspokal,viborg-ff,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,360'
+16328,Iceland,RúrikGíslason,Right Wing,07/08,Superligaen,viborg-ff,26,26,"0,65",2,0,0,14,5,3,0,0,0,625',100'
+16985,Japan,KeisukeHonda,Right Wing,17/18,Liga MX Clausura,cf-pachuca,13,13,"1,15",4,6,0,1,3,2,0,0,1,268',528'
+16986,Japan,KeisukeHonda,Right Wing,17/18,Copa MX Apertura,cf-pachuca,5,5,"2,40",3,1,0,0,2,0,0,0,0,139',1.491'
+16987,Japan,KeisukeHonda,Right Wing,17/18,Club World Cup,cf-pachuca,3,2,"1,50",0,0,0,0,0,0,0,0,0,0,90'
+16988,Japan,KeisukeHonda,Right Wing,17/18,Liga MX Apertura,cf-pachuca,12,12,"1,08",3,0,0,5,3,1,0,0,0,241',597'
+16989,Japan,KeisukeHonda,Right Wing,16/17,Serie A,ac-mailand,36,8,"1,13",1,0,0,6,1,0,0,0,0,221',454'
+16990,Japan,KeisukeHonda,Right Wing,16/17,Coppa Italia,ac-mailand,2,1,"0,00",0,0,0,1,0,0,0,0,0,0,194'
+16991,Japan,KeisukeHonda,Right Wing,16/17,Supercoppa TIM,ac-mailand,1,-,0,0,0,0,0,0,0,0,0,0,0,1.536'
+16992,Japan,KeisukeHonda,Right Wing,15/16,Coppa Italia,ac-mailand,7,7,"2,57",1,4,0,1,1,1,0,0,0,599',126'
+16993,Japan,KeisukeHonda,Right Wing,15/16,Serie A,ac-mailand,37,30,"1,60",1,3,0,7,12,2,0,0,0,1.931',359'
+16994,Japan,KeisukeHonda,Right Wing,14/15,Serie A,ac-mailand,32,29,"1,48",6,5,0,3,16,3,0,0,0,360',518'
+16995,Japan,KeisukeHonda,Right Wing,14/15,Coppa Italia,ac-mailand,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,134'
+16996,Japan,KeisukeHonda,Right Wing,13/14,Serie A,ac-mailand,17,14,"1,64",1,2,0,2,6,2,0,0,0,982',239'
+16997,Japan,KeisukeHonda,Right Wing,13/14,Coppa Italia,ac-mailand,2,2,"1,50",1,0,0,1,1,2,0,0,0,72',0
+16998,Japan,KeisukeHonda,Right Wing,13/14,Champions League,zska-moskau,6,6,"0,50",2,2,0,1,1,1,0,0,1,238',339'
+16999,Japan,KeisukeHonda,Right Wing,13/14,Premier Liga,zska-moskau,18,18,"1,72",1,2,0,0,5,1,0,0,0,1.530',180'
+17000,Japan,KeisukeHonda,Right Wing,13/14,Russian Super Cup,zska-moskau,1,1,"3,00",2,0,0,0,1,0,0,0,0,43',90'
+17001,Japan,KeisukeHonda,Right Wing,12/13,Russian Cup,zska-moskau,3,3,"3,00",1,1,0,1,1,0,0,0,0,246',379'
+17002,Japan,KeisukeHonda,Right Wing,12/13,Premier Liga,zska-moskau,23,23,"2,17",7,6,0,2,9,0,0,0,0,262',2.193'
+17003,Japan,KeisukeHonda,Right Wing,12/13,Europa League,zska-moskau,2,2,"1,50",1,0,0,0,0,0,0,0,0,180',147'
+17004,Japan,KeisukeHonda,Right Wing,11/12,Champions League,zska-moskau,1,1,"1,00",0,0,0,1,0,0,0,0,0,0,372'
+17005,Japan,KeisukeHonda,Right Wing,11/12,Russian Cup,zska-moskau,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,1.480'
+17006,Japan,KeisukeHonda,Right Wing,10/11,Premier Liga,zska-moskau,26,25,"1,76",8,6,0,3,8,4,0,0,0,240',132'
+17007,Japan,KeisukeHonda,Right Wing,10/11,Russian Cup,zska-moskau,5,5,"3,00",0,3,0,4,0,1,0,0,0,0,128'
+17008,Japan,KeisukeHonda,Right Wing,10/11,Europa League,zska-moskau,7,7,"2,14",1,3,0,1,4,1,0,0,0,492',1.331'
+17009,Japan,KeisukeHonda,Right Wing,10/11,Russian Super Cup,zska-moskau,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,182'
+17010,Japan,KeisukeHonda,Right Wing,10/11,Europa League Qualifiers,zska-moskau,1,1,"3,00",0,0,0,1,0,1,0,0,0,0,265'
+17011,Japan,KeisukeHonda,Right Wing,09/10,Premier Liga,zska-moskau,28,28,"2,18",4,5,0,5,7,0,0,0,0,516',380'
+17012,Japan,KeisukeHonda,Right Wing,09/10,Champions League,zska-moskau,4,4,"1,00",1,1,0,0,4,1,0,0,0,311',1.292'
+17013,Japan,KeisukeHonda,Right Wing,09/10,Russian Super Cup,zska-moskau,1,1,"0,00",0,0,0,0,0,1,0,0,0,0,545'
+17014,Japan,KeisukeHonda,Right Wing,09/10,Eredivisie,vvv-venlo,18,18,"1,11",6,7,0,0,2,1,0,0,1,269',237'
+17015,Japan,KeisukeHonda,Right Wing,09/10,TOTO KNVB beker,vvv-venlo,2,2,"1,50",2,1,0,0,0,0,0,0,0,105',411'
+17016,Japan,KeisukeHonda,Right Wing,08/09,Jupiler League,vvv-venlo,36,36,"2,14",16,14,0,1,5,3,0,0,0,197',326'
+17017,Japan,KeisukeHonda,Right Wing,08/09,TOTO KNVB beker,vvv-venlo,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,24'
+17018,Japan,KeisukeHonda,Right Wing,07/08,Eredivisie,vvv-venlo,14,14,"0,57",2,0,0,2,3,2,0,0,0,568',15'
+17019,Japan,KeisukeHonda,Right Wing,2007,J.League Div.1,nagoya-grampus,30,30,"1,37",3,0,0,0,4,4,1,0,0,865',1.952'
+17020,Japan,KeisukeHonda,Right Wing,2007,J. League Cup,nagoya-grampus,3,3,"0,33",0,0,0,2,0,1,0,0,0,0,580'
+17021,Japan,KeisukeHonda,Right Wing,2006,J.League Div.1,nagoya-grampus,29,29,"1,41",6,0,0,1,4,5,1,0,0,418',120'
+17022,Japan,KeisukeHonda,Right Wing,2006,J. League Cup,nagoya-grampus,2,2,"0,50",2,0,0,0,1,0,0,0,0,68',357'
+17023,Japan,KeisukeHonda,Right Wing,2005,J.League Div.1,nagoya-grampus,31,31,"1,23",2,0,0,10,9,3,0,0,0,931',50'
+17024,Japan,KeisukeHonda,Right Wing,2005,J. League Cup,nagoya-grampus,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,270'
+17447,Tunisia,BassemSrarfi,Right Wing,17/18,Ligue 1,ogc-nizza,35,26,"1,23",3,0,0,16,9,1,0,0,0,287',2.194'
+17448,Tunisia,BassemSrarfi,Right Wing,17/18,Europa League,ogc-nizza,6,4,"1,50",0,1,0,3,1,1,0,0,0,0,90'
+17449,Tunisia,BassemSrarfi,Right Wing,17/18,Coupe de la Ligue,ogc-nizza,2,2,"1,50",0,0,0,0,1,0,0,0,0,0,390'
+17450,Tunisia,BassemSrarfi,Right Wing,17/18,Coupe de France,ogc-nizza,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,1.832'
+17451,Tunisia,BassemSrarfi,Right Wing,17/18,Champions League Qualification,ogc-nizza,3,2,"1,00",0,0,0,0,2,0,0,0,0,0,238'
+17452,Tunisia,BassemSrarfi,Right Wing,16/17,Ligue 1,ogc-nizza,13,5,"1,40",0,1,0,5,0,0,0,0,0,0,199'
+17453,Tunisia,BassemSrarfi,Right Wing,16/17,Ligue I Pro,club-africain-tunis,12,10,"1,80",3,1,0,4,6,2,0,0,0,174',90'
+17454,Tunisia,BassemSrarfi,Right Wing,16/17,Tunisian Cup,club-africain-tunis,1,1,"3,00",1,0,0,0,0,0,0,0,0,90',649'
+17455,Tunisia,BassemSrarfi,Right Wing,15/16,Tunisian Cup,club-africain-tunis,4,4,"2,25",0,0,0,1,1,0,0,0,0,0,90'
+17456,Tunisia,BassemSrarfi,Right Wing,15/16,Ligue I Pro,club-africain-tunis,20,17,"1,29",3,2,0,6,4,1,0,0,0,384',365'
+17457,Tunisia,BassemSrarfi,Right Wing,2016,CAF-Champions League,club-africain-tunis,2,2,"1,50",0,1,0,0,2,0,0,0,0,0,780'
+17458,Tunisia,AniceBadri,Right Wing,2018,CAF-Champions League,esperance-tunis,4,4,"2,00",3,1,0,0,0,0,0,0,0,120',175'
+17459,Tunisia,AniceBadri,Right Wing,17/18,Ligue I Pro,esperance-tunis,22,22,"2,27",4,9,0,1,10,1,0,0,0,452',53'
+17460,Tunisia,AniceBadri,Right Wing,17/18,Tunisian Cup,esperance-tunis,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,1.418'
+17461,Tunisia,AniceBadri,Right Wing,2017,CAF-Champions League,esperance-tunis,10,10,"1,60",1,3,0,2,6,0,0,0,0,708',210'
+17462,Tunisia,AniceBadri,Right Wing,16/17,Tunisian Cup,esperance-tunis,4,4,"2,25",1,1,0,0,2,0,0,0,0,287',90'
+17463,Tunisia,AniceBadri,Right Wing,16/17,Ligue I Pro Playoff,esperance-tunis,10,9,"2,56",3,2,0,0,9,1,0,0,0,250',90'
+17464,Tunisia,AniceBadri,Right Wing,16/17,Ligue I Pro,esperance-tunis,12,12,"2,08",2,3,0,3,3,0,0,0,0,432',180'
+17465,Tunisia,AniceBadri,Right Wing,16/17,Jupiler Pro League,mouscron-peruwelz,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,536'
+17466,Tunisia,AniceBadri,Right Wing,15/16,Tunisian Cup,esperance-tunis,1,1,"3,00",0,1,0,0,0,0,0,0,0,0,1.028'
+17467,Tunisia,AniceBadri,Right Wing,15/16,Jupiler Pro League,mouscron-peruwelz,27,23,"1,00",5,3,0,7,9,3,0,0,0,287',171'
+17468,Tunisia,AniceBadri,Right Wing,15/16,Beker van Belgie,mouscron-peruwelz,3,3,"2,00",0,0,0,1,0,0,0,0,0,0,2'
+17469,Tunisia,AniceBadri,Right Wing,14/15,JPL Playoff II,mouscron-peruwelz,2,2,"1,50",1,0,0,2,0,0,0,0,0,51',1.133'
+17470,Tunisia,AniceBadri,Right Wing,14/15,Jupiler Pro League,mouscron-peruwelz,27,27,"0,96",6,4,0,7,6,2,0,0,0,320',107'
+17471,Tunisia,AniceBadri,Right Wing,14/15,Beker van Belgie,mouscron-peruwelz,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,1.745'
+17472,Tunisia,AniceBadri,Right Wing,13/14,Endrunde Jupiler Pro League,mouscron-peruwelz,5,5,"2,00",3,0,0,2,1,0,0,0,0,105',70'
+17473,Tunisia,AniceBadri,Right Wing,13/14,Proximus League,mouscron-peruwelz,25,25,"1,80",6,0,0,10,8,1,0,0,0,240',192'
+17474,Tunisia,AniceBadri,Right Wing,12/13,Endrunde Jupiler Pro League,mouscron-peruwelz,5,5,"2,40",1,0,0,2,1,1,0,0,0,307',1.118'
+17475,Tunisia,AniceBadri,Right Wing,12/13,Proximus League,mouscron-peruwelz,8,8,"2,00",1,0,0,3,3,0,0,0,0,472',68'
+17476,Tunisia,FakhreddineBenYoussef,Right Wing,17/18,Professional League,al-ettifaq,8,8,"2,13",4,1,0,1,2,3,0,0,0,158',0
+17477,Tunisia,FakhreddineBenYoussef,Right Wing,17/18,Ligue I Pro,esperance-tunis,12,12,"2,50",4,1,0,2,4,1,0,0,0,219',90'
+17478,Tunisia,FakhreddineBenYoussef,Right Wing,2017,CAF-Champions League,esperance-tunis,10,10,"1,60",1,1,0,2,1,0,0,0,0,743',507'
+17479,Tunisia,FakhreddineBenYoussef,Right Wing,16/17,Tunisian Cup,esperance-tunis,2,2,"1,50",0,0,0,0,1,0,0,0,0,0,141'
+17480,Tunisia,FakhreddineBenYoussef,Right Wing,16/17,Ligue I Pro Playoff,esperance-tunis,10,9,"2,56",4,0,0,0,2,1,0,0,0,200',353'
+17481,Tunisia,FakhreddineBenYoussef,Right Wing,16/17,Ligue I Pro,esperance-tunis,2,1,"3,00",1,0,0,0,1,0,0,0,0,86',0
+17482,Tunisia,FakhreddineBenYoussef,Right Wing,15/16,Ligue I Pro,esperance-tunis,19,19,"2,26",8,2,0,2,7,1,0,1,0,184',68'
+17483,Tunisia,FakhreddineBenYoussef,Right Wing,14/15,Tunisian Cup,esperance-tunis,2,2,"1,50",1,0,0,0,0,0,0,0,0,210',1.335'
+17484,Tunisia,FakhreddineBenYoussef,Right Wing,14/15,Ligue 1,fc-metz,7,6,"0,67",0,0,0,4,1,0,0,0,0,0,1.625'
+17485,Tunisia,FakhreddineBenYoussef,Right Wing,14/15,Ligue I Pro,club-sportif-sfaxien,13,13,"2,00",5,3,0,1,3,2,0,0,1,217',210'
+17486,Tunisia,FakhreddineBenYoussef,Right Wing,2014,CAF-Champions League,club-sportif-sfaxien,11,11,"2,09",4,2,0,1,3,2,0,0,0,224',235'
+17487,Tunisia,FakhreddineBenYoussef,Right Wing,13/14,Tunisian Cup,club-sportif-sfaxien,4,4,"2,25",0,0,0,1,0,1,0,0,0,0,334'
+17488,Tunisia,FakhreddineBenYoussef,Right Wing,13/14,Ligue I Pro,club-sportif-sfaxien,26,26,"1,81",4,3,0,1,5,3,0,0,0,552',1.930'
+17489,Tunisia,FakhreddineBenYoussef,Right Wing,13/14,CAF-Supercup ,club-sportif-sfaxien,1,1,"0,00",1,1,0,0,0,0,0,0,0,90',434'
+17490,Tunisia,FakhreddineBenYoussef,Right Wing,12/13,Ligue I Pro Playoff,club-sportif-sfaxien,6,6,"2,17",0,4,0,0,1,1,0,0,0,0,174'
+17491,Tunisia,FakhreddineBenYoussef,Right Wing,12/13,Ligue I Pro,club-sportif-sfaxien,14,14,"2,00",1,4,0,2,4,2,0,0,0,1.072',58'
+17492,Tunisia,FakhreddineBenYoussef,Right Wing,11/12,Ligue I Pro,club-sportif-sfaxien,14,14,"2,00",3,4,0,3,4,0,0,0,0,338',38'
+17493,Tunisia,FakhreddineBenYoussef,Right Wing,11/12,Tunisian Cup,club-sportif-sfaxien,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,1.785'
+17998,Australia,MathewLeckie,Right Wing,17/18,1.Bundesliga,hertha-bsc,29,26,"1,19",5,1,0,7,4,3,0,0,0,370',
+17999,Australia,MathewLeckie,Right Wing,17/18,Europa League,hertha-bsc,3,2,"0,50",1,0,0,1,1,0,0,0,0,86',
+18000,Australia,MathewLeckie,Right Wing,17/18,DFB-Pokal,hertha-bsc,1,1,"3,00",0,2,0,0,0,0,0,0,0,0,
+18001,Australia,MathewLeckie,Right Wing,16/17,1.Bundesliga,fc-ingolstadt-04,30,30,"0,97",0,3,0,5,9,2,1,1,0,0,
+18002,Australia,MathewLeckie,Right Wing,16/17,DFB-Pokal,fc-ingolstadt-04,2,2,"1,50",0,0,0,0,1,1,0,0,0,0,
+18003,Australia,MathewLeckie,Right Wing,15/16,1.Bundesliga,fc-ingolstadt-04,33,32,"1,13",3,0,0,4,10,9,0,0,0,825',
+18004,Australia,MathewLeckie,Right Wing,14/15,2.Bundesliga,fc-ingolstadt-04,33,32,"1,81",7,7,0,4,8,6,0,0,1,369',
+18005,Australia,MathewLeckie,Right Wing,13/14,2.Bundesliga,fsv-frankfurt,31,31,"1,23",10,9,0,1,11,2,0,0,0,253',
+18006,Australia,MathewLeckie,Right Wing,13/14,DFB-Pokal,fsv-frankfurt,2,2,"1,50",2,0,0,0,1,0,0,0,0,102',
+18007,Australia,MathewLeckie,Right Wing,12/13,2.Bundesliga,fsv-frankfurt,29,28,"1,64",4,6,0,10,11,0,0,0,0,404',
+18008,Australia,MathewLeckie,Right Wing,12/13,Regionalliga Südwest,fsv-frankfurt-ii,5,5,"3,00",4,0,0,0,4,2,0,0,0,106',
+18009,Australia,MathewLeckie,Right Wing,12/13,DFB-Pokal,fsv-frankfurt,2,2,"1,50",1,0,0,0,1,0,0,0,0,175',
+18010,Australia,MathewLeckie,Right Wing,11/12,RL West,borussia-monchengladbach-ii,10,10,"2,30",3,0,0,0,6,1,0,0,0,256',
+18011,Australia,MathewLeckie,Right Wing,11/12,1.Bundesliga,borussia-monchengladbach,18,9,"1,56",0,0,0,9,1,0,0,0,0,0,
+18012,Australia,MathewLeckie,Right Wing,11/12,DFB-Pokal,borussia-monchengladbach,5,2,"3,00",0,0,0,2,0,0,0,0,0,0,
+18013,Australia,MathewLeckie,Right Wing,10/11,A-League Fin.,adelaide-united,2,2,"1,50",1,0,0,2,0,0,0,0,0,78',
+18014,Australia,MathewLeckie,Right Wing,10/11,A-League,adelaide-united,13,13,"1,92",4,0,0,2,3,1,0,0,0,229',
+18015,Australia,MathewLeckie,Right Wing,2010,AFC Champions League,adelaide-united,6,6,"1,67",2,0,0,1,1,2,0,0,0,224',
+18016,Australia,MathewLeckie,Right Wing,09/10,A-League,adelaide-united,20,20,"1,05",3,2,0,5,1,2,0,0,0,481',
+18017,Australia,DanielArzani,Right Wing,17/18,A-League Fin.,melbourne-heart-fc,2,2,"1,50",0,0,0,0,1,2,0,0,0,0,
+18018,Australia,DanielArzani,Right Wing,17/18,A-League,melbourne-heart-fc,19,16,"1,50",2,3,0,3,10,4,0,0,1,514',
+18019,Australia,DanielArzani,Right Wing,16/17,A-League Fin.,melbourne-heart-fc,1,-,0,0,0,0,0,0,0,0,0,0,0,
+18020,Australia,DanielArzani,Right Wing,16/17,A-League,melbourne-heart-fc,6,6,"0,50",0,0,0,6,0,0,0,0,0,0,
+18286,Iran,AlirezaJahanbakhsh,Right Wing,17/18,Eredivisie,az-alkmaar,33,33,"2,06",21,12,0,0,10,4,0,0,4,135',
+18287,Iran,AlirezaJahanbakhsh,Right Wing,17/18,TOTO KNVB beker,az-alkmaar,6,6,"2,50",1,2,0,0,4,2,0,0,0,475',
+18288,Iran,AlirezaJahanbakhsh,Right Wing,16/17,Play-Offs Europa League,az-alkmaar,1,1,"3,00",1,0,0,0,1,0,0,0,0,45',
+18289,Iran,AlirezaJahanbakhsh,Right Wing,16/17,Eredivisie,az-alkmaar,29,29,"1,45",10,9,0,4,8,4,0,0,1,223',
+18290,Iran,AlirezaJahanbakhsh,Right Wing,16/17,KNVB Beker,az-alkmaar,4,4,"2,25",0,0,0,0,1,0,0,0,0,0,
+18291,Iran,AlirezaJahanbakhsh,Right Wing,16/17,Europa League,az-alkmaar,5,5,"1,40",1,0,0,1,3,1,0,0,1,333',
+18292,Iran,AlirezaJahanbakhsh,Right Wing,16/17,Europa League Qualifiers,az-alkmaar,4,4,"2,50",0,1,0,0,2,0,0,0,0,0,
+18293,Iran,AlirezaJahanbakhsh,Right Wing,15/16,Eredivisie,az-alkmaar,24,23,"2,13",3,6,0,2,14,5,0,0,0,557',
+18294,Iran,AlirezaJahanbakhsh,Right Wing,15/16,KNVB Beker,az-alkmaar,3,3,"2,00",0,1,0,0,2,0,0,0,0,0,
+18295,Iran,AlirezaJahanbakhsh,Right Wing,15/16,Europa League,az-alkmaar,4,3,"1,00",0,0,0,1,2,0,0,0,0,0,
+18296,Iran,AlirezaJahanbakhsh,Right Wing,15/16,Beloften Eredivisie,jong-az-alkmaar,1,1,"1,00",0,0,0,0,1,0,0,0,0,0,
+18297,Iran,AlirezaJahanbakhsh,Right Wing,14/15,Jupiler League,nec-nijmegen,28,28,"2,75",12,17,0,0,12,3,0,1,1,195',
+18298,Iran,AlirezaJahanbakhsh,Right Wing,14/15,KNVB Beker,nec-nijmegen,3,3,"2,00",1,1,0,0,0,0,0,0,0,300',
+18299,Iran,AlirezaJahanbakhsh,Right Wing,13/14,Play-Offs Promotie/Deg.,nec-nijmegen,2,2,"0,00",0,0,0,0,0,1,0,0,0,0,
+18300,Iran,AlirezaJahanbakhsh,Right Wing,13/14,Eredivisie,nec-nijmegen,31,27,"0,78",5,4,1,16,7,6,0,0,0,257',
+18301,Iran,AlirezaJahanbakhsh,Right Wing,13/14,Beloften Eredivisie,jong-nec-nijmegen-fc-oss,6,6,"2,67",3,1,0,0,0,0,0,0,0,180',
+18302,Iran,AlirezaJahanbakhsh,Right Wing,13/14,TOTO KNVB beker,nec-nijmegen,4,4,"2,25",1,0,0,1,2,1,0,0,0,259',
+18303,Iran,AlirezaJahanbakhsh,Right Wing,12/13,Persian Gulf Pro League,damash-gilan-fc,28,28,"1,21",8,0,0,3,5,5,0,0,0,283',
+18304,Iran,AlirezaJahanbakhsh,Right Wing,11/12,Persian Gulf Pro League,damash-gilan-fc,4,4,"1,25",0,0,0,2,1,0,0,0,0,0,
+18305,Iran,AshkanDejagah,Right Wing,17/18,Championship,nottingham-forest,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,
+18306,Iran,AshkanDejagah,Right Wing,16/17,Bundesliga Playoffs,vfl-wolfsburg,2,2,"3,00",0,0,0,2,0,0,0,0,0,0,
+18307,Iran,AshkanDejagah,Right Wing,16/17,Regionalliga Nord,vfl-wolfsburg-ii,2,2,"2,00",0,0,0,0,2,0,0,0,0,0,
+18308,Iran,AshkanDejagah,Right Wing,15/16,Stars League,al-arabi-sports-club,15,15,"1,73",2,0,0,0,1,4,0,1,0,664',
+18309,Iran,AshkanDejagah,Right Wing,14/15,Stars League,al-arabi-sports-club,24,23,"1,22",5,0,0,4,7,6,0,0,0,334',
+18310,Iran,AshkanDejagah,Right Wing,13/14,Premier League,fc-fulham,24,22,"0,82",5,2,0,9,8,5,0,0,0,260',
+18311,Iran,AshkanDejagah,Right Wing,13/14,FA Cup,fc-fulham,3,2,"1,50",1,0,0,1,0,0,0,0,0,151',
+18312,Iran,AshkanDejagah,Right Wing,13/14,League Cup,fc-fulham,2,1,"3,00",0,0,0,0,1,0,0,0,0,0,
+18313,Iran,AshkanDejagah,Right Wing,12/13,Premier League,fc-fulham,22,21,"1,33",0,4,0,8,7,3,0,0,0,0,
+18314,Iran,AshkanDejagah,Right Wing,12/13,FA Cup,fc-fulham,3,3,"1,33",0,0,0,1,1,0,0,0,0,0,
+18315,Iran,AshkanDejagah,Right Wing,12/13,U21 PL,fc-fulham-u21,1,1,"3,00",0,0,0,0,1,0,0,0,0,0,
+18316,Iran,AshkanDejagah,Right Wing,12/13,1.Bundesliga,vfl-wolfsburg,1,1,"3,00",0,0,0,0,1,0,0,0,0,0,
+18317,Iran,AshkanDejagah,Right Wing,11/12,1.Bundesliga,vfl-wolfsburg,29,26,"1,35",3,10,0,2,10,6,0,0,0,667',
+18318,Iran,AshkanDejagah,Right Wing,11/12,DFB-Pokal,vfl-wolfsburg,1,1,"0,00",0,0,0,1,0,1,0,0,0,0,
+18319,Iran,AshkanDejagah,Right Wing,10/11,1.Bundesliga,vfl-wolfsburg,30,23,"1,13",3,1,0,13,2,2,0,1,0,357',
+18320,Iran,AshkanDejagah,Right Wing,10/11,DFB-Pokal,vfl-wolfsburg,2,-,0,0,0,0,0,0,0,0,0,0,0,
+18321,Iran,AshkanDejagah,Right Wing,09/10,1.Bundesliga,vfl-wolfsburg,31,24,"1,46",1,1,0,20,2,2,0,0,0,646',
+18322,Iran,AshkanDejagah,Right Wing,09/10,Europa League,vfl-wolfsburg,6,5,"1,00",0,0,0,4,0,1,0,0,0,0,
+18323,Iran,AshkanDejagah,Right Wing,09/10,Champions League,vfl-wolfsburg,5,3,"1,33",0,0,0,3,0,0,0,0,0,0,
+18324,Iran,AshkanDejagah,Right Wing,09/10,DFB-Pokal,vfl-wolfsburg,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,
+18325,Iran,AshkanDejagah,Right Wing,08/09,1.Bundesliga,vfl-wolfsburg,29,27,"1,85",3,3,0,14,11,7,0,0,0,422',
+18326,Iran,AshkanDejagah,Right Wing,08/09,DFB-Pokal,vfl-wolfsburg,4,4,"2,25",1,2,0,2,1,0,0,0,0,206',
+18327,Iran,AshkanDejagah,Right Wing,08/09,UEFA Cup,vfl-wolfsburg,7,7,"2,00",0,3,0,3,2,1,0,0,0,0,
+18328,Iran,AshkanDejagah,Right Wing,07/08,1.Bundesliga,vfl-wolfsburg,33,31,"1,61",8,3,0,12,9,5,0,0,0,235',
+18329,Iran,AshkanDejagah,Right Wing,07/08,DFB-Pokal,vfl-wolfsburg,5,5,"2,40",1,0,0,3,1,1,0,0,0,281',
+18330,Iran,AshkanDejagah,Right Wing,06/07,1.Bundesliga,hertha-bsc,27,22,"1,27",1,4,0,6,11,4,1,0,0,1.477',
+18331,Iran,AshkanDejagah,Right Wing,06/07,Regionalliga Nord,hertha-bsc-ii,11,11,"0,64",3,1,0,0,2,2,0,0,0,328',
+18332,Iran,AshkanDejagah,Right Wing,06/07,DFB-Pokal,hertha-bsc,2,2,"1,50",0,0,0,0,2,0,0,0,0,0,
+18333,Iran,AshkanDejagah,Right Wing,06/07,UEFA-Cup Qualifikation,hertha-bsc,1,-,0,0,0,0,0,0,0,0,0,0,0,
+18334,Iran,AshkanDejagah,Right Wing,06/07,UI Cup,hertha-bsc,1,1,"1,00",0,0,0,0,1,0,0,0,0,0,
+18335,Iran,AshkanDejagah,Right Wing,05/06,1.Bundesliga,hertha-bsc,12,3,"0,33",0,0,0,3,0,0,0,0,0,0,
+18336,Iran,AshkanDejagah,Right Wing,05/06,Regionalliga Nord,hertha-bsc-ii,23,23,"1,78",12,2,0,0,6,3,0,1,0,167',
+18337,Iran,AshkanDejagah,Right Wing,05/06,UEFA Cup,hertha-bsc,3,3,"0,33",0,0,0,2,1,0,0,0,0,0,
+18338,Iran,AshkanDejagah,Right Wing,04/05,Regionalliga Nord,hertha-bsc-ii,22,22,"1,32",6,0,0,4,7,3,0,2,0,257',
+18339,Iran,AshkanDejagah,Right Wing,04/05,DFB-Pokal,hertha-bsc-ii,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,
+18340,Iran,AshkanDejagah,Right Wing,04/05,1.Bundesliga,hertha-bsc,1,1,"1,00",0,0,0,1,0,0,0,0,0,0,
+18341,Iran,AshkanDejagah,Right Wing,03/04,NOFV-Oberliga Nord,hertha-bsc-ii,16,16,"2,31",2,0,0,8,6,2,0,0,0,411',
+18342,Iran,AshkanDejagah,Right Wing,03/04,A-Junioren Bundesliga Nord/Nordost,hertha-bsc-u19,7,7,"1,86",2,0,0,1,0,3,0,0,0,280',
+19083,Costa Rica,JoelCampbell,Right Wing,17/18,LaLiga,real-betis-sevilla,14,8,"1,63",2,1,0,6,1,1,0,0,0,105',
+19084,Costa Rica,JoelCampbell,Right Wing,17/18,Copa del Rey,real-betis-sevilla,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,
+19085,Costa Rica,JoelCampbell,Right Wing,16/17,Liga NOS,sporting-lissabon,23,19,"1,74",3,4,0,12,4,4,0,0,0,253',
+19086,Costa Rica,JoelCampbell,Right Wing,16/17,Taça de Portugal Placard,sporting-lissabon,3,3,"2,00",0,0,0,2,1,0,0,0,0,0,
+19087,Costa Rica,JoelCampbell,Right Wing,16/17,Taça CTT,sporting-lissabon,3,3,"2,00",0,0,0,0,0,0,0,0,0,0,
+19088,Costa Rica,JoelCampbell,Right Wing,16/17,Champions League,sporting-lissabon,5,4,"0,75",0,0,0,4,0,2,0,0,0,0,
+19089,Costa Rica,JoelCampbell,Right Wing,15/16,Premier League,fc-arsenal,30,19,"1,74",3,3,0,8,10,0,0,0,0,294',
+19090,Costa Rica,JoelCampbell,Right Wing,15/16,U21 PL Playoffs,fc-arsenal-u21,1,1,"3,00",0,0,0,0,1,0,0,0,0,0,
+19091,Costa Rica,JoelCampbell,Right Wing,15/16,Champions League,fc-arsenal,7,5,"1,20",0,2,0,2,2,2,0,0,0,0,
+19092,Costa Rica,JoelCampbell,Right Wing,15/16,FA Cup,fc-arsenal,5,4,"1,75",1,1,0,0,3,0,0,0,0,306',
+19093,Costa Rica,JoelCampbell,Right Wing,15/16,League Cup,fc-arsenal,2,2,"1,50",0,0,0,0,1,1,0,0,0,0,
+19094,Costa Rica,JoelCampbell,Right Wing,14/15,LaLiga,fc-villarreal,17,16,"1,31",1,0,0,0,8,1,0,0,0,1.211',
+19095,Costa Rica,JoelCampbell,Right Wing,14/15,Europa League,fc-villarreal,4,4,"1,50",0,0,0,3,1,2,0,0,0,0,
+19096,Costa Rica,JoelCampbell,Right Wing,14/15,Copa del Rey,fc-villarreal,3,2,"1,50",0,0,0,1,1,1,0,0,0,0,
+19097,Costa Rica,JoelCampbell,Right Wing,14/15,Premier League,fc-arsenal,14,4,"0,75",0,0,0,4,0,0,0,0,0,0,
+19098,Costa Rica,JoelCampbell,Right Wing,14/15,FA Cup,fc-arsenal,1,1,"3,00",0,0,0,0,1,0,0,0,0,0,
+19099,Costa Rica,JoelCampbell,Right Wing,14/15,Champions League,fc-arsenal,5,3,"3,00",0,0,0,2,0,0,0,0,0,0,
+19100,Costa Rica,JoelCampbell,Right Wing,14/15,League Cup,fc-arsenal,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,
+19101,Costa Rica,JoelCampbell,Right Wing,14/15,U21 PL,fc-arsenal-u21,1,1,"3,00",0,1,0,0,0,0,0,0,0,0,
+19102,Costa Rica,JoelCampbell,Right Wing,14/15,Champions League Qualification,fc-arsenal,2,-,0,0,0,0,0,0,0,0,0,0,0,
+19103,Costa Rica,JoelCampbell,Right Wing,14/15,Community Shield,fc-arsenal,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,
+19104,Costa Rica,JoelCampbell,Right Wing,13/14,Kypello Elladas,olympiakos-piraus,7,6,"1,83",2,0,0,0,2,1,0,0,0,237',
+19105,Costa Rica,JoelCampbell,Right Wing,13/14,Super League,olympiakos-piraus,32,32,"2,50",8,11,0,7,6,3,0,0,3,295',
+19106,Costa Rica,JoelCampbell,Right Wing,13/14,Champions League,olympiakos-piraus,7,5,"1,20",1,0,0,1,2,0,0,0,0,354',
+19107,Costa Rica,JoelCampbell,Right Wing,12/13,LaLiga,real-betis-sevilla,30,28,"1,25",2,3,0,7,16,7,1,0,0,797',
+19108,Costa Rica,JoelCampbell,Right Wing,12/13,Copa del Rey,real-betis-sevilla,5,5,"1,60",0,0,0,1,3,0,0,0,0,0,
+19109,Costa Rica,JoelCampbell,Right Wing,11/12,Ligue 1,fc-lorient,28,25,"0,92",3,3,0,14,7,4,0,0,0,389',
+19110,Costa Rica,JoelCampbell,Right Wing,11/12,Coupe de la Ligue,fc-lorient,3,1,"3,00",1,0,0,1,0,0,0,0,0,78',
+19111,Costa Rica,JoelCampbell,Right Wing,11/12,Coupe de France,fc-lorient,1,1,"0,00",0,0,0,1,0,0,0,0,0,0,
+19112,Costa Rica,JoelCampbell,Right Wing,10/11,Primera Div. Ver,puntarenas-fc,5,5,"0,60",0,0,0,3,1,1,0,0,0,0,
+19113,Costa Rica,JoelCampbell,Right Wing,10/11,Primera Div. In.,deportivo-saprissa,6,2,"0,00",0,0,0,1,0,0,0,0,0,0,
+19114,Costa Rica,JoelCampbell,Right Wing,10/11,CONCACAF Champions League,deportivo-saprissa,1,1,"1,00",0,0,0,1,0,0,0,0,0,0,
+19115,Costa Rica,JoelCampbell,Right Wing,09/10,Primera Div. In.,deportivo-saprissa,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,
+19116,Costa Rica,ChristianBolaños,Right Wing,17/18,Primera Div. Clausura,deportivo-saprissa,10,10,"1,70",0,2,0,4,4,1,0,0,0,0,
+19117,Costa Rica,ChristianBolaños,Right Wing,17/18,CONCACAF Champions League,deportivo-saprissa,2,2,"0,50",0,0,0,1,0,0,0,0,0,0,
+19118,Costa Rica,ChristianBolaños,Right Wing,2017,MLS Cup Playoffs,vancouver-whitecaps,3,3,"1,33",0,1,0,0,1,0,0,0,0,0,
+19119,Costa Rica,ChristianBolaños,Right Wing,2017,MLS,vancouver-whitecaps,21,21,"1,52",0,5,0,3,7,0,0,1,0,0,
+19120,Costa Rica,ChristianBolaños,Right Wing,16/17,CONCACAF Champions League,vancouver-whitecaps,2,2,"0,00",0,0,0,1,0,0,0,0,0,0,
+19121,Costa Rica,ChristianBolaños,Right Wing,2016,MLS,vancouver-whitecaps,27,27,"1,22",5,8,0,4,5,2,0,0,0,423',
+19122,Costa Rica,ChristianBolaños,Right Wing,2016,Canadian Championship,vancouver-whitecaps,2,2,"1,50",0,0,0,0,0,1,0,0,0,0,
+19123,Costa Rica,ChristianBolaños,Right Wing,15/16,Inv. Play-Off,deportivo-saprissa,2,2,"1,50",0,0,0,0,0,0,0,1,0,0,
+19124,Costa Rica,ChristianBolaños,Right Wing,15/16,Primera Div. In.,deportivo-saprissa,11,11,"2,09",5,0,0,0,2,1,0,0,1,191',
+19125,Costa Rica,ChristianBolaños,Right Wing,15/16,CONCACAF Champions League,deportivo-saprissa,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,
+19126,Costa Rica,ChristianBolaños,Right Wing,14/15,Stars League,al-gharafa-sports-club,11,11,"1,18",4,0,0,1,2,0,0,0,0,227',
+19127,Costa Rica,ChristianBolaños,Right Wing,14/15,Inv. Play-Off,cs-cartagines,2,2,"0,50",0,0,0,0,1,0,0,0,0,0,
+19128,Costa Rica,ChristianBolaños,Right Wing,14/15,Primera Div. In.,cs-cartagines,10,10,"1,60",0,3,0,2,4,3,0,1,0,0,
+19129,Costa Rica,ChristianBolaños,Right Wing,13/14,Superligaen,fc-kopenhagen,31,22,"1,59",3,1,0,5,12,2,0,0,0,451',
+19130,Costa Rica,ChristianBolaños,Right Wing,13/14,DBU Landspokal,fc-kopenhagen,6,3,"2,00",0,0,0,0,1,0,0,0,0,0,
+19131,Costa Rica,ChristianBolaños,Right Wing,13/14,Champions League,fc-kopenhagen,6,6,"0,67",0,0,0,4,3,0,0,0,0,0,
+19132,Costa Rica,ChristianBolaños,Right Wing,12/13,Superligaen,fc-kopenhagen,27,23,"1,96",2,4,0,1,12,0,0,0,0,891',
+19133,Costa Rica,ChristianBolaños,Right Wing,12/13,Europa League,fc-kopenhagen,4,4,"1,75",0,0,0,2,1,1,0,0,0,0,
+19134,Costa Rica,ChristianBolaños,Right Wing,12/13,DBU Landspokal,fc-kopenhagen,2,1,"3,00",1,0,0,0,0,0,0,0,0,90',
+19135,Costa Rica,ChristianBolaños,Right Wing,12/13,Champions League Qualification,fc-kopenhagen,4,4,"1,75",1,1,0,0,4,0,0,0,0,332',
+19136,Costa Rica,ChristianBolaños,Right Wing,11/12,Superligaen,fc-kopenhagen,32,32,"1,97",3,10,0,1,8,5,0,0,0,907',
+19137,Costa Rica,ChristianBolaños,Right Wing,11/12,DBU Landspokal,fc-kopenhagen,5,4,"2,25",0,0,0,1,2,0,0,0,0,0,
+19138,Costa Rica,ChristianBolaños,Right Wing,11/12,Europa League,fc-kopenhagen,6,6,"0,83",0,0,0,0,0,0,0,0,0,0,
+19139,Costa Rica,ChristianBolaños,Right Wing,11/12,Champions League Qualification,fc-kopenhagen,4,4,"1,50",2,1,0,0,2,0,0,0,0,167',
+19140,Costa Rica,ChristianBolaños,Right Wing,10/11,Superligaen,fc-kopenhagen,25,24,"2,33",6,6,0,2,8,3,0,0,0,326',
+19141,Costa Rica,ChristianBolaños,Right Wing,10/11,Champions League,fc-kopenhagen,8,8,"1,38",0,1,0,2,3,2,0,0,0,0,
+19142,Costa Rica,ChristianBolaños,Right Wing,2010,Tippeligaen,ik-start-kristiansand,20,20,"1,40",6,6,0,0,0,3,0,0,0,300',
+19143,Costa Rica,ChristianBolaños,Right Wing,2009,Tippeligaen,ik-start-kristiansand,25,25,"1,52",7,11,0,2,1,4,0,1,1,306',
+19144,Costa Rica,ChristianBolaños,Right Wing,08/09,Superligaen,odense-boldklub,6,2,"1,50",0,0,0,2,0,0,0,0,0,0,
+19145,Costa Rica,ChristianBolaños,Right Wing,08/09,UI Cup,odense-boldklub,3,3,"1,33",0,0,0,2,1,0,0,0,0,0,
+19146,Costa Rica,ChristianBolaños,Right Wing,07/08,Superligaen,odense-boldklub,25,22,"1,55",3,3,0,8,6,2,0,0,0,418',
+19147,Costa Rica,ChristianBolaños,Right Wing,07/08,UEFA Cup,odense-boldklub,1,-,0,0,0,0,0,0,0,0,0,0,0,
+19148,Costa Rica,ChristianBolaños,Right Wing,07/08,UEFA-Cup Qualifikation,odense-boldklub,2,2,"2,00",0,0,0,0,1,0,0,0,0,0,
+19149,Costa Rica,ChristianBolaños,Right Wing,05/06,Club World Cup,deportivo-saprissa,3,3,"2,00",1,0,0,0,0,0,0,0,0,270',
+19618,Peru,AndréCarrillo,Right Wing,17/18,Premier League,fc-watford,31,28,"1,14",1,2,0,12,8,2,0,0,0,1.536',
+19619,Peru,AndréCarrillo,Right Wing,17/18,FA Cup,fc-watford,2,2,"1,50",1,0,0,0,2,0,0,0,0,126',
+19620,Peru,AndréCarrillo,Right Wing,16/17,Taça de Portugal Placard,benfica-lissabon,7,6,"2,67",1,1,0,1,4,0,0,0,0,359',
+19621,Peru,AndréCarrillo,Right Wing,16/17,Liga NOS,benfica-lissabon,31,20,"2,40",2,1,0,17,2,5,0,0,0,259',
+19622,Peru,AndréCarrillo,Right Wing,16/17,Champions League,benfica-lissabon,8,3,"1,00",0,0,0,1,2,1,0,0,0,0,
+19623,Peru,AndréCarrillo,Right Wing,16/17,Taça CTT,benfica-lissabon,4,3,"2,00",0,1,0,0,2,0,0,0,0,0,
+19624,Peru,AndréCarrillo,Right Wing,16/17,Supertaça,benfica-lissabon,1,-,0,0,0,0,0,0,0,0,0,0,0,
+19625,Peru,AndréCarrillo,Right Wing,15/16,Liga NOS,sporting-lissabon,4,4,"2,50",1,1,0,0,2,1,0,0,0,339',
+19626,Peru,AndréCarrillo,Right Wing,15/16,Champions League Qualification,sporting-lissabon,2,2,"1,50",0,1,0,0,0,0,0,0,0,0,
+19627,Peru,AndréCarrillo,Right Wing,15/16,Supertaça,sporting-lissabon,1,1,"3,00",0,1,0,0,1,1,0,0,0,0,
+19628,Peru,AndréCarrillo,Right Wing,14/15,Taça de Portugal Placard,sporting-lissabon,7,6,"2,67",2,1,0,1,4,0,0,0,0,190',
+19629,Peru,AndréCarrillo,Right Wing,14/15,Liga NOS,sporting-lissabon,33,32,"2,19",5,15,0,6,15,3,0,0,0,439',
+19630,Peru,AndréCarrillo,Right Wing,14/15,Europa League,sporting-lissabon,2,2,"0,50",0,0,0,0,2,1,0,0,0,0,
+19631,Peru,AndréCarrillo,Right Wing,14/15,Champions League,sporting-lissabon,6,6,"1,17",0,2,0,2,3,0,0,0,0,0,
+19632,Peru,AndréCarrillo,Right Wing,13/14,Liga NOS,sporting-lissabon,30,27,"2,33",2,4,0,10,12,3,0,0,0,740',
+19633,Peru,AndréCarrillo,Right Wing,13/14,Taça CTT,sporting-lissabon,3,3,"2,33",0,0,0,2,1,2,0,0,0,0,
+19634,Peru,AndréCarrillo,Right Wing,13/14,Taça de Portugal Placard,sporting-lissabon,2,2,"1,50",0,1,0,1,1,1,0,0,0,0,
+19635,Peru,AndréCarrillo,Right Wing,12/13,Liga NOS,sporting-lissabon,25,23,"1,35",1,4,0,10,8,7,0,0,0,1.331',
+19636,Peru,AndréCarrillo,Right Wing,12/13,Taça CTT,sporting-lissabon,3,3,"1,33",0,0,0,1,1,0,0,0,0,0,
+19637,Peru,AndréCarrillo,Right Wing,12/13,Europa League,sporting-lissabon,6,5,"1,20",2,0,0,2,2,1,0,0,0,133',
+19638,Peru,AndréCarrillo,Right Wing,11/12,Taça de Portugal Placard,sporting-lissabon,6,6,"2,17",1,2,0,3,1,1,0,0,0,380',
+19639,Peru,AndréCarrillo,Right Wing,11/12,Liga NOS,sporting-lissabon,26,24,"2,00",2,6,0,11,8,6,0,1,0,646',
+19640,Peru,AndréCarrillo,Right Wing,11/12,Europa League,sporting-lissabon,14,13,"1,92",0,1,0,7,4,2,0,0,0,0,
+19641,Peru,AndréCarrillo,Right Wing,11/12,Taça CTT,sporting-lissabon,3,3,"0,67",0,0,0,0,2,0,0,0,0,0,
+19642,Peru,AndréCarrillo,Right Wing,2011,Torneo Descentralizado,alianza-lima,10,9,"1,78",3,1,0,5,2,2,0,0,0,137',
+19643,Peru,AndréCarrillo,Right Wing,2010,T. Descentralizado 2. Fase,alianza-lima,9,8,"1,75",0,1,0,7,1,1,0,0,0,0,
+19644,Peru,AndréCarrillo,Right Wing,2010,Torneo Descentralizado,alianza-lima,4,2,"1,50",0,0,0,2,0,0,0,0,0,0,
+19645,Peru,AndréCarrillo,Right Wing,2009,T. Descentralizado 2. Fase,alianza-lima,1,1,"1,00",0,0,0,1,0,0,0,0,0,0,
+19646,Peru,JeffersonFarfán,Right Wing,17/18,Premier Liga,lokomotiv-moskau,23,22,"2,23",10,6,0,0,5,3,0,0,0,195',
+19647,Peru,JeffersonFarfán,Right Wing,17/18,Europa League,lokomotiv-moskau,9,9,"1,89",4,1,0,1,5,0,0,0,0,145',
+19648,Peru,JeffersonFarfán,Right Wing,17/18,Russian Super Cup,lokomotiv-moskau,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,
+19649,Peru,JeffersonFarfán,Right Wing,16/17,Premier Liga,lokomotiv-moskau,8,6,"1,33",1,0,0,2,2,1,0,0,0,357',
+19650,Peru,JeffersonFarfán,Right Wing,16/17,Russian Cup,lokomotiv-moskau,2,2,"3,00",0,0,0,1,1,0,0,1,0,0,
+19651,Peru,JeffersonFarfán,Right Wing,16/17,UAE Gulf League,al-jazira-abu-dhabi-,3,3,"2,33",2,0,0,0,0,0,0,0,0,135',
+19652,Peru,JeffersonFarfán,Right Wing,15/16,UAE Gulf League,al-jazira-abu-dhabi-,9,9,"0,89",1,1,0,1,2,1,0,0,0,696',
+19653,Peru,JeffersonFarfán,Right Wing,14/15,1.Bundesliga,fc-schalke-04,9,9,"1,00",0,0,0,3,3,2,0,0,0,0,
+19654,Peru,JeffersonFarfán,Right Wing,13/14,1.Bundesliga,fc-schalke-04,20,19,"1,84",9,7,0,2,5,2,0,0,4,169',
+19655,Peru,JeffersonFarfán,Right Wing,13/14,Champions League,fc-schalke-04,5,5,"2,00",0,2,0,0,3,1,0,0,0,0,
+19656,Peru,JeffersonFarfán,Right Wing,13/14,DFB-Pokal,fc-schalke-04,2,2,"1,50",2,0,0,0,1,0,0,0,1,90',
+19657,Peru,JeffersonFarfán,Right Wing,13/14,Champions League Qualification,fc-schalke-04,2,2,"2,00",1,0,0,0,2,0,0,0,0,170',
+19658,Peru,JeffersonFarfán,Right Wing,12/13,1.Bundesliga,fc-schalke-04,27,27,"1,70",6,7,0,2,7,1,0,0,1,362',
+19659,Peru,JeffersonFarfán,Right Wing,12/13,Champions League,fc-schalke-04,7,7,"1,71",1,3,0,1,1,0,0,0,0,564',
+19660,Peru,JeffersonFarfán,Right Wing,12/13,DFB-Pokal,fc-schalke-04,2,1,"0,00",0,0,0,0,0,0,0,0,0,0,
+19661,Peru,JeffersonFarfán,Right Wing,11/12,1.Bundesliga,fc-schalke-04,23,23,"1,74",4,9,0,4,9,2,0,0,0,436',
+19662,Peru,JeffersonFarfán,Right Wing,11/12,Europa League,fc-schalke-04,10,10,"1,90",0,2,0,3,4,3,0,0,0,0,
+19663,Peru,JeffersonFarfán,Right Wing,11/12,DFB-Pokal,fc-schalke-04,1,1,"3,00",0,1,0,0,0,1,0,0,0,0,
+19664,Peru,JeffersonFarfán,Right Wing,10/11,DFB-Pokal,fc-schalke-04,6,6,"3,00",3,4,0,0,0,2,0,0,0,190',
+19665,Peru,JeffersonFarfán,Right Wing,10/11,1.Bundesliga,fc-schalke-04,29,28,"1,25",3,10,0,2,4,7,0,0,0,779',
+19666,Peru,JeffersonFarfán,Right Wing,10/11,Champions League,fc-schalke-04,10,10,"1,70",4,2,0,0,5,5,0,0,0,204',
+19667,Peru,JeffersonFarfán,Right Wing,10/11,DFL-Supercup,fc-schalke-04,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,
+19668,Peru,JeffersonFarfán,Right Wing,09/10,1.Bundesliga,fc-schalke-04,33,33,"1,88",8,9,0,1,10,4,0,0,1,354',
+19669,Peru,JeffersonFarfán,Right Wing,09/10,DFB-Pokal,fc-schalke-04,5,3,"2,00",0,2,0,0,0,0,0,0,0,0,
+19670,Peru,JeffersonFarfán,Right Wing,08/09,1.Bundesliga,fc-schalke-04,31,31,"1,39",9,6,0,1,12,4,0,0,2,290',
+19671,Peru,JeffersonFarfán,Right Wing,08/09,DFB-Pokal,fc-schalke-04,4,4,"2,25",3,1,0,0,2,0,0,0,0,110',
+19672,Peru,JeffersonFarfán,Right Wing,08/09,UEFA Cup,fc-schalke-04,5,5,"1,40",0,4,0,0,0,1,0,0,0,0,
+19673,Peru,JeffersonFarfán,Right Wing,08/09,Champions League Qualification,fc-schalke-04,1,1,"3,00",0,0,0,0,1,1,0,0,0,0,
+19674,Peru,JeffersonFarfán,Right Wing,07/08,Eredivisie,psv-eindhoven,29,29,"2,03",7,6,0,2,11,1,0,0,0,332',
+19675,Peru,JeffersonFarfán,Right Wing,07/08,UEFA Cup,psv-eindhoven,5,3,"2,33",1,0,0,0,2,2,0,0,0,295',
+19676,Peru,JeffersonFarfán,Right Wing,07/08,Champions League,psv-eindhoven,6,6,"1,17",1,0,0,1,3,1,0,0,0,413',
+19677,Peru,JeffersonFarfán,Right Wing,07/08,TOTO KNVB beker,psv-eindhoven,1,1,"3,00",0,0,0,0,0,0,0,0,0,0,
+19678,Peru,JeffersonFarfán,Right Wing,06/07,Eredivisie,psv-eindhoven,30,30,"2,17",21,8,0,1,6,3,0,0,3,122',
+19679,Peru,JeffersonFarfán,Right Wing,06/07,Champions League,psv-eindhoven,8,8,"1,00",0,0,0,0,3,0,0,0,0,0,
+19680,Peru,JeffersonFarfán,Right Wing,06/07,Johan Cruijff Schaal,psv-eindhoven,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,
+19681,Peru,JeffersonFarfán,Right Wing,05/06,Gatorade Cup,psv-eindhoven,2,2,"1,50",1,0,0,0,0,0,0,0,0,180',
+19682,Peru,JeffersonFarfán,Right Wing,05/06,Eredivisie,psv-eindhoven,31,31,"2,48",20,4,0,3,4,2,0,0,0,129',
+19683,Peru,JeffersonFarfán,Right Wing,05/06,Champions League,psv-eindhoven,8,8,"1,25",2,1,0,0,2,0,0,0,0,341',
+19684,Peru,JeffersonFarfán,Right Wing,05/06,Johan Cruijff Schaal,psv-eindhoven,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,
+19685,Peru,JeffersonFarfán,Right Wing,04/05,Amstel Cup,psv-eindhoven,1,1,"3,00",0,1,0,0,0,0,0,0,0,0,
+19686,Peru,JeffersonFarfán,Right Wing,04/05,Eredivisie,psv-eindhoven,28,28,"2,54",8,3,0,4,13,2,0,0,0,244',
+19687,Peru,JeffersonFarfán,Right Wing,04/05,Champions League,psv-eindhoven,12,12,"1,92",1,0,0,1,6,0,0,0,0,914',
+19688,Peru,JeffersonFarfán,Right Wing,04/05,Champions League Qualification,psv-eindhoven,2,1,"3,00",0,0,0,1,0,0,0,0,0,0,
+19689,Peru,AndyPolo,Right Wing,2018,MLS,portland-timbers,9,7,"2,14",0,0,0,1,3,1,0,0,0,0,
+19690,Peru,AndyPolo,Right Wing,17/18,Liguilla Apertura,monarcas-morelia,1,-,0,0,0,0,0,0,0,0,0,0,0,
+19691,Peru,AndyPolo,Right Wing,17/18,Liga MX Apertura,monarcas-morelia,12,9,"1,44",0,0,0,2,4,0,0,0,0,0,
+19692,Peru,AndyPolo,Right Wing,17/18,Copa MX Apertura,monarcas-morelia,1,1,"3,00",0,0,0,0,0,0,0,0,0,0,
+19693,Peru,AndyPolo,Right Wing,16/17,Liga MX Clausura,monarcas-morelia,15,15,"1,33",2,0,0,3,9,0,0,0,0,449',
+19694,Peru,AndyPolo,Right Wing,2016,Descentralizado Playoffs,universitario-de-deportes,3,3,"1,33",1,1,0,0,0,0,0,0,0,270',
+19695,Peru,AndyPolo,Right Wing,2016,Liguilla B,universitario-de-deportes,7,7,"2,00",1,2,0,0,0,0,0,0,0,630',
+19696,Peru,AndyPolo,Right Wing,2016,Copa Sudamericana,universitario-de-deportes,2,2,"0,00",0,0,0,0,0,0,0,0,0,0,
+19697,Peru,AndyPolo,Right Wing,2016,Torneo Descentralizado,universitario-de-deportes,23,23,"1,87",2,3,0,0,9,2,0,0,0,976',
+19698,Peru,AndyPolo,Right Wing,2015,Descentralizado Clausura,universitario-de-deportes,16,14,"1,71",1,5,0,4,1,1,0,0,0,1.051',
+19699,Peru,AndyPolo,Right Wing,2015,Copa Sudamericana,universitario-de-deportes,3,2,"1,50",0,0,0,2,0,0,0,0,0,0,
+19700,Peru,AndyPolo,Right Wing,2015,Descentralizado Apertura,universitario-de-deportes,10,10,"0,90",0,0,0,2,4,0,0,0,0,0,
+19701,Peru,AndyPolo,Right Wing,2015,Torneo Inca,universitario-de-deportes,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,
+19702,Peru,AndyPolo,Right Wing,2014,Liga Postobón II,millonarios-fc,11,10,"1,30",2,1,0,5,3,0,0,0,0,288',
+19703,Peru,AndyPolo,Right Wing,2014,Copa Sudamericana,millonarios-fc,1,1,"1,00",0,1,0,1,0,0,0,0,0,0,
+19704,Peru,AndyPolo,Right Wing,13/14,Serie A,inter-mailand,1,-,0,0,0,0,0,0,0,0,0,0,0,
+19705,Peru,AndyPolo,Right Wing,13/14,Primavera Fase Finale,inter-mailand-primavera,2,2,"1,50",0,0,0,0,1,0,0,0,0,0,
+19706,Peru,AndyPolo,Right Wing,13/14,Primavera B,inter-mailand-primavera,7,7,"1,00",2,0,0,1,3,0,0,0,0,269',
+19707,Peru,AndyPolo,Right Wing,2013,Liguilla Par,universidad-san-martin-de-porres,14,13,"1,31",3,4,0,1,5,0,0,0,0,328',
+19708,Peru,AndyPolo,Right Wing,2013,Torneo Descentralizado,universidad-san-martin-de-porres,17,15,"1,40",1,0,0,9,1,0,0,0,0,821',
+19709,Peru,AndyPolo,Right Wing,2012,Torneo Descentralizado,universitario-de-deportes,6,6,"1,17",1,0,0,0,2,1,0,0,0,474',
+19710,Peru,AndyPolo,Right Wing,2011,Torneo Descentralizado,universitario-de-deportes,19,19,"1,11",4,0,0,2,11,1,0,0,0,355',
+19711,Peru,AndyPolo,Right Wing,2011,Copa Sudamericana,universitario-de-deportes,6,5,"2,60",1,2,0,2,2,0,0,0,0,317',
+20208,Saudi Arabia,FahadAlMuwallad,Right Wing,17/18,LaLiga,ud-levante,4,2,"1,50",0,0,0,2,0,0,0,0,0,0,
+20209,Saudi Arabia,FahadAlMuwallad,Right Wing,17/18,King's Cup,al-ittihad-dschidda,2,2,"3,00",1,0,0,0,0,1,0,0,0,180',
+20210,Saudi Arabia,FahadAlMuwallad,Right Wing,17/18,Professional League,al-ittihad-dschidda,9,9,"0,78",3,2,0,1,2,1,0,0,2,222',
+20211,Saudi Arabia,FahadAlMuwallad,Right Wing,16/17,Professional League,al-ittihad-dschidda,20,20,"2,20",11,4,0,1,0,2,0,1,2,159',
+20212,Saudi Arabia,FahadAlMuwallad,Right Wing,16/17,Saudi Crown-Prince-Cup ,al-ittihad-dschidda,4,4,"2,25",3,0,0,0,1,1,0,0,1,130',
+20213,Saudi Arabia,FahadAlMuwallad,Right Wing,2016,AFC Champions League,al-ittihad-dschidda,4,3,"1,67",1,2,0,0,0,1,0,1,0,269',
+20214,Saudi Arabia,FahadAlMuwallad,Right Wing,15/16,King's Cup,al-ittihad-dschidda,3,2,"1,50",0,0,0,1,0,0,0,0,0,0,
+20215,Saudi Arabia,FahadAlMuwallad,Right Wing,15/16,Professional League,al-ittihad-dschidda,22,22,"2,05",2,8,0,2,6,2,0,0,0,894',
+20216,Saudi Arabia,FahadAlMuwallad,Right Wing,2016,AFC CL-Qualification,al-ittihad-dschidda,1,1,"3,00",0,0,0,0,0,0,0,0,0,0,
+20217,Saudi Arabia,FahadAlMuwallad,Right Wing,15/16,Saudi Crown-Prince-Cup ,al-ittihad-dschidda,3,3,"2,00",0,0,0,0,0,1,0,0,0,0,
+20218,Saudi Arabia,FahadAlMuwallad,Right Wing,14/15,King's Cup,al-ittihad-dschidda,1,1,"0,00",1,0,0,0,0,0,1,0,1,90',
+20219,Saudi Arabia,FahadAlMuwallad,Right Wing,14/15,Professional League,al-ittihad-dschidda,21,21,"1,90",7,1,0,3,5,6,0,0,2,233',
+20220,Saudi Arabia,FahadAlMuwallad,Right Wing,14/15,Saudi Crown-Prince-Cup ,al-ittihad-dschidda,1,1,"0,00",0,0,0,0,0,1,0,0,0,0,
+20221,Saudi Arabia,FahadAlMuwallad,Right Wing,2014,AFC Champions League,al-ittihad-dschidda,8,7,"2,14",2,2,0,0,0,1,0,0,0,315',
+20222,Saudi Arabia,FahadAlMuwallad,Right Wing,13/14,King's Cup,al-ittihad-dschidda,2,2,"0,00",1,0,0,0,1,0,0,0,0,161',
+20223,Saudi Arabia,FahadAlMuwallad,Right Wing,13/14,Professional League,al-ittihad-dschidda,7,7,"1,14",0,1,0,1,0,0,0,0,0,0,
+20224,Saudi Arabia,FahadAlMuwallad,Right Wing,13/14,Saudi Crown-Prince-Cup ,al-ittihad-dschidda,1,1,"0,00",1,0,0,0,0,0,0,0,0,120',
+20225,Saudi Arabia,FahadAlMuwallad,Right Wing,13/14,Saudi Super Cup,al-ittihad-dschidda,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,
+20226,Saudi Arabia,FahadAlMuwallad,Right Wing,12/13,King's Cup,al-ittihad-dschidda,1,1,"3,00",1,0,0,0,0,0,0,0,0,90',
+20227,Saudi Arabia,FahadAlMuwallad,Right Wing,12/13,Professional League,al-ittihad-dschidda,8,8,"0,50",2,0,0,2,0,2,0,0,0,309',
+20228,Saudi Arabia,FahadAlMuwallad,Right Wing,12/13,Saudi Crown-Prince-Cup ,al-ittihad-dschidda,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,
+20229,Saudi Arabia,FahadAlMuwallad,Right Wing,2012,AFC Champions League,al-ittihad-dschidda,4,4,"1,50",1,0,0,3,0,1,0,0,0,124',
+20230,Saudi Arabia,FahadAlMuwallad,Right Wing,11/12,Professional League,al-ittihad-dschidda,2,2,"0,00",0,0,0,2,0,0,0,0,0,0,
+20231,Saudi Arabia,SalemAlDawsari,Right Wing,17/18,LaLiga,fc-villarreal,1,1,"1,00",0,0,0,1,0,1,0,0,0,0,
+20232,Saudi Arabia,SalemAlDawsari,Right Wing,17/18,King's Cup,al-hilal-riad,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,
+20233,Saudi Arabia,SalemAlDawsari,Right Wing,17/18,Professional League,al-hilal-riad,13,13,"2,38",4,1,0,3,1,3,0,0,0,244',
+20234,Saudi Arabia,SalemAlDawsari,Right Wing,2017,AFC Champions League,al-hilal-riad,11,11,"2,00",1,3,0,5,0,1,1,0,0,648',
+20235,Saudi Arabia,SalemAlDawsari,Right Wing,16/17,King's Cup,al-hilal-riad,4,4,"3,00",2,2,0,0,2,0,0,0,0,155',
+20236,Saudi Arabia,SalemAlDawsari,Right Wing,16/17,Professional League,al-hilal-riad,18,17,"2,47",2,4,0,6,4,1,0,0,0,551',
+20237,Saudi Arabia,SalemAlDawsari,Right Wing,16/17,Saudi Crown-Prince-Cup ,al-hilal-riad,2,2,"1,50",0,0,0,1,0,0,0,0,0,0,
+20238,Saudi Arabia,SalemAlDawsari,Right Wing,16/17,Saudi Super Cup,al-hilal-riad,1,1,"0,00",0,0,0,0,0,0,0,0,0,0,
+20239,Saudi Arabia,SalemAlDawsari,Right Wing,2016,AFC Champions League,al-hilal-riad,7,7,"1,29",1,0,0,1,1,1,0,0,0,566',
+20240,Saudi Arabia,SalemAlDawsari,Right Wing,15/16,Professional League,al-hilal-riad,14,14,"2,00",3,1,0,2,3,0,0,0,0,364',
+20241,Saudi Arabia,SalemAlDawsari,Right Wing,15/16,King's Cup,al-hilal-riad,1,1,"0,00",0,0,0,0,0,1,0,0,0,0,
+20242,Saudi Arabia,SalemAlDawsari,Right Wing,15/16,Saudi Crown-Prince-Cup ,al-hilal-riad,2,2,"3,00",0,0,0,0,0,1,0,0,0,0,
+20243,Saudi Arabia,SalemAlDawsari,Right Wing,2015,AFC Champions League,al-hilal-riad,10,9,"1,67",0,3,0,1,4,1,0,0,0,0,
+20244,Saudi Arabia,SalemAlDawsari,Right Wing,14/15,King's Cup,al-hilal-riad,2,1,"3,00",1,0,0,0,0,0,0,0,0,120',
+20245,Saudi Arabia,SalemAlDawsari,Right Wing,14/15,Professional League,al-hilal-riad,19,18,"2,06",3,3,0,1,6,3,0,1,0,476',
+20246,Saudi Arabia,SalemAlDawsari,Right Wing,14/15,Saudi Crown-Prince-Cup ,al-hilal-riad,2,1,"0,00",0,0,0,0,0,0,0,0,0,0,
+20247,Saudi Arabia,SalemAlDawsari,Right Wing,2014,AFC Champions League,al-hilal-riad,12,12,"1,67",2,5,0,3,1,2,0,0,0,454',
+20248,Saudi Arabia,SalemAlDawsari,Right Wing,13/14,King's Cup,al-hilal-riad,1,1,"0,00",0,0,0,0,1,0,0,0,0,0,
+20249,Saudi Arabia,SalemAlDawsari,Right Wing,13/14,Professional League,al-hilal-riad,8,8,"2,38",1,0,0,1,1,1,0,0,0,594',
+20250,Saudi Arabia,SalemAlDawsari,Right Wing,13/14,Saudi Crown-Prince-Cup ,al-hilal-riad,3,3,"2,00",2,0,0,0,0,1,0,0,0,135',
+20251,Saudi Arabia,SalemAlDawsari,Right Wing,2013,AFC Champions League,al-hilal-riad,6,6,"1,17",2,1,0,0,2,2,0,1,0,251',
+20252,Saudi Arabia,SalemAlDawsari,Right Wing,12/13,Professional League,al-hilal-riad,9,9,"1,56",2,0,0,3,1,1,0,0,0,303',
+20253,Saudi Arabia,SalemAlDawsari,Right Wing,12/13,Saudi Crown-Prince-Cup ,al-hilal-riad,1,1,"3,00",0,0,0,1,0,0,0,0,0,0,
+20254,Saudi Arabia,SalemAlDawsari,Right Wing,2012,AFC Champions League,al-hilal-riad,9,9,"1,67",1,0,0,4,2,1,0,0,0,514',
+20255,Saudi Arabia,SalemAlDawsari,Right Wing,11/12,Professional League,al-hilal-riad,14,11,"2,55",1,1,0,5,5,0,0,0,0,484',
+20542,Panama,ValentinPimentel,Right Wing,17/18,CONCACAF League,cd-plaza-amador,4,4,"1,75",1,0,0,1,1,0,0,0,0,289',
+20543,Panama,ValentinPimentel,Right Wing,2016,Liga Águila I,cd-la-equidad,6,5,"0,80",0,0,0,0,3,1,0,0,0,0,
